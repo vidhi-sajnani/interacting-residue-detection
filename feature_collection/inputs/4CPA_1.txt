@@ -1,0 +1,220 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4cpa   Chains A }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    575  NH1 ARG   71    A   <-->  2707  O   TYR   37    I      2.88
+  2.   1557  ND1 HIS  196    A   <-->  2719  O   VAL   38    I      3.35
+  3.   1945  O   THR  246    A   <-->  2663  OG  SER   30    I      2.62
+  4.   1952  O   ILE  247    A   <-->  2650  N   ASN   29    I      2.86
+  5.   1968  OH  TYR  248    A   <-->  2716  N   VAL   38    I      3.03
+  6.   1968  OH  TYR  248    A   <-->  2723  OXT VAL   38    I      2.95
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    556  ND1 HIS   69    A   <-->  2719  O   VAL   38    I      3.72
+  2.    575  NH1 ARG   71    A   <-->  2707  O   TYR   37    I      2.88
+  3.    583  CD  GLU   72    A   <-->  2719  O   VAL   38    I      3.21
+  4.    584  OE1 GLU   72    A   <-->  2719  O   VAL   38    I      3.51
+  5.    585  OE2 GLU   72    A   <-->  2718  C   VAL   38    I      3.33
+  6.    585  OE2 GLU   72    A   <-->  2719  O   VAL   38    I      2.55
+  7.   1014  CD1 LEU  125    A   <-->  2607  CE1 PHE   23    I      3.72
+  8.   1038  CZ  ARG  127    A   <-->  2708  CB  TYR   37    I      3.83
+  9.   1040  NH2 ARG  127    A   <-->  2708  CB  TYR   37    I      2.83
+ 10.   1040  NH2 ARG  127    A   <-->  2709  CG  TYR   37    I      3.47
+ 11.   1168  NH1 ARG  145    A   <-->  2710  CD1 TYR   37    I      3.78
+ 12.   1299  CG2 THR  164    A   <-->  2709  CG  TYR   37    I      3.63
+ 13.   1299  CG2 THR  164    A   <-->  2710  CD1 TYR   37    I      3.70
+ 14.   1299  CG2 THR  164    A   <-->  2711  CD2 TYR   37    I      3.55
+ 15.   1299  CG2 THR  164    A   <-->  2712  CE1 TYR   37    I      3.74
+ 16.   1299  CG2 THR  164    A   <-->  2713  CE2 TYR   37    I      3.54
+ 17.   1299  CG2 THR  164    A   <-->  2714  CZ  TYR   37    I      3.71
+ 18.   1555  CB  HIS  196    A   <-->  2719  O   VAL   38    I      3.89
+ 19.   1557  ND1 HIS  196    A   <-->  2719  O   VAL   38    I      3.35
+ 20.   1564  O   SER  197    A   <-->  2717  CA  VAL   38    I      3.55
+ 21.   1564  O   SER  197    A   <-->  2719  O   VAL   38    I      3.50
+ 22.   1564  O   SER  197    A   <-->  2720  CB  VAL   38    I      3.28
+ 23.   1564  O   SER  197    A   <-->  2721  CG1 VAL   38    I      3.67
+ 24.   1570  O   TYR  198    A   <-->  2721  CG1 VAL   38    I      3.88
+ 25.   1578  OH  TYR  198    A   <-->  2702  CG  PRO   36    I      3.54
+ 26.   1578  OH  TYR  198    A   <-->  2703  CD  PRO   36    I      3.54
+ 27.   1938  O   THR  245    A   <-->  2653  O   ASN   29    I      3.39
+ 28.   1944  C   THR  246    A   <-->  2663  OG  SER   30    I      3.86
+ 29.   1945  O   THR  246    A   <-->  2662  CB  SER   30    I      3.03
+ 30.   1945  O   THR  246    A   <-->  2663  OG  SER   30    I      2.62
+ 31.   1951  C   ILE  247    A   <-->  2650  N   ASN   29    I      3.82
+ 32.   1952  O   ILE  247    A   <-->  2633  O   CYS   27    I      3.34
+ 33.   1952  O   ILE  247    A   <-->  2637  CA  TRP   28    I      3.42
+ 34.   1952  O   ILE  247    A   <-->  2638  C   TRP   28    I      3.52
+ 35.   1952  O   ILE  247    A   <-->  2650  N   ASN   29    I      2.86
+ 36.   1952  O   ILE  247    A   <-->  2651  CA  ASN   29    I      3.79
+ 37.   1952  O   ILE  247    A   <-->  2654  CB  ASN   29    I      3.66
+ 38.   1952  O   ILE  247    A   <-->  2655  CG  ASN   29    I      3.89
+ 39.   1955  CG2 ILE  247    A   <-->  2641  CG  TRP   28    I      3.73
+ 40.   1955  CG2 ILE  247    A   <-->  2642  CD1 TRP   28    I      3.74
+ 41.   1955  CG2 ILE  247    A   <-->  2643  CD2 TRP   28    I      3.85
+ 42.   1955  CG2 ILE  247    A   <-->  2644  NE1 TRP   28    I      3.85
+ 43.   1956  CD1 ILE  247    A   <-->  2722  CG2 VAL   38    I      3.50
+ 44.   1961  CB  TYR  248    A   <-->  2546  CE1 HIS   15    I      3.84
+ 45.   1961  CB  TYR  248    A   <-->  2547  NE2 HIS   15    I      3.80
+ 46.   1961  CB  TYR  248    A   <-->  2633  O   CYS   27    I      3.59
+ 47.   1964  CD2 TYR  248    A   <-->  2629  CB  ALA   26    I      3.45
+ 48.   1964  CD2 TYR  248    A   <-->  2633  O   CYS   27    I      3.54
+ 49.   1964  CD2 TYR  248    A   <-->  2642  CD1 TRP   28    I      3.83
+ 50.   1965  CE1 TYR  248    A   <-->  2710  CD1 TYR   37    I      3.88
+ 51.   1966  CE2 TYR  248    A   <-->  2629  CB  ALA   26    I      3.53
+ 52.   1966  CE2 TYR  248    A   <-->  2644  NE1 TRP   28    I      3.65
+ 53.   1966  CE2 TYR  248    A   <-->  2710  CD1 TYR   37    I      3.73
+ 54.   1967  CZ  TYR  248    A   <-->  2710  CD1 TYR   37    I      3.52
+ 55.   1968  OH  TYR  248    A   <-->  2705  CA  TYR   37    I      3.32
+ 56.   1968  OH  TYR  248    A   <-->  2706  C   TYR   37    I      3.55
+ 57.   1968  OH  TYR  248    A   <-->  2708  CB  TYR   37    I      3.43
+ 58.   1968  OH  TYR  248    A   <-->  2710  CD1 TYR   37    I      3.62
+ 59.   1968  OH  TYR  248    A   <-->  2716  N   VAL   38    I      3.03
+ 60.   1968  OH  TYR  248    A   <-->  2722  CG2 VAL   38    I      3.62
+ 61.   1968  OH  TYR  248    A   <-->  2723  OXT VAL   38    I      2.95
+ 62.   2217  CD2 PHE  279    A   <-->  2609  CZ  PHE   23    I      3.74
+ 63.   2219  CE2 PHE  279    A   <-->  2609  CZ  PHE   23    I      3.77
+ 64.   2220  CZ  PHE  279    A   <-->  2707  O   TYR   37    I      3.76
+ 65.   2220  CZ  PHE  279    A   <-->  2721  CG1 VAL   38    I      3.81
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    65
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4cpa   Chains B }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4302  OH  TYR  198    B   <-->  2454  ND1 HIS    3    I      2.98
+  2.   4302  OH  TYR  198    B   <-->  2454  ND1 HIS    3    I      2.98
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4898  C   THR  274    B   <-->  2442  O   GLX    2    I      3.80
+  2.   4899  O   THR  274    B   <-->  2442  O   GLX    2    I      3.18
+  3.   4903  N   GLY  275    B   <-->  2442  O   GLX    2    I      3.75
+  4.   4904  CA  GLY  275    B   <-->  2442  O   GLX    2    I      3.04
+  5.   4905  C   GLY  275    B   <-->  2442  O   GLX    2    I      3.27
+  6.   4906  O   GLY  275    B   <-->  2442  O   GLX    2    I      3.62
+  7.   4907  N   ARG  276    B   <-->  2442  O   GLX    2    I      3.83
+  8.   4899  O   THR  274    B   <-->  2444  CG  GLX    2    I      3.88
+  9.   4899  O   THR  274    B   <-->  2445  CD  GLX    2    I      3.50
+ 10.   4906  O   GLY  275    B   <-->  2449  CA  HIS    3    I      3.56
+ 11.   4906  O   GLY  275    B   <-->  2450  C   HIS    3    I      3.08
+ 12.   4906  O   GLY  275    B   <-->  2451  O   HIS    3    I      3.13
+ 13.   4302  OH  TYR  198    B   <-->  2454  ND1 HIS    3    I      2.98
+ 14.   4302  OH  TYR  198    B   <-->  2456  CE1 HIS    3    I      3.64
+ 15.   4906  O   GLY  275    B   <-->  2458  N   ALA    4    I      3.44
+ 16.   4906  O   GLY  275    B   <-->  2459  CA  ALA    4    I      3.66
+ 17.   4917  NH2 ARG  276    B   <-->  2589  CB  TRP   22    I      3.58
+ 18.   4914  NE  ARG  276    B   <-->  2590  CG  TRP   22    I      3.76
+ 19.   4915  CZ  ARG  276    B   <-->  2590  CG  TRP   22    I      3.81
+ 20.   4914  NE  ARG  276    B   <-->  2591  CD1 TRP   22    I      3.70
+ 21.   4915  CZ  ARG  276    B   <-->  2591  CD1 TRP   22    I      3.59
+ 22.   4916  NH1 ARG  276    B   <-->  2591  CD1 TRP   22    I      3.72
+ 23.   4910  O   ARG  276    B   <-->  2593  NE1 TRP   22    I      3.76
+ 24.   4910  O   ARG  276    B   <-->  2594  CE2 TRP   22    I      3.25
+ 25.   4909  C   ARG  276    B   <-->  2596  CZ2 TRP   22    I      3.86
+ 26.   4910  O   ARG  276    B   <-->  2596  CZ2 TRP   22    I      2.73
+ 27.   4910  O   ARG  276    B   <-->  2597  CZ3 TRP   22    I      3.84
+ 28.   4926  CE1 TYR  277    B   <-->  2597  CZ3 TRP   22    I      3.73
+ 29.   4910  O   ARG  276    B   <-->  2598  CH2 TRP   22    I      3.07
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    29
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4cpa   Chains I }{ J
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2439  N   GLX    2    I   <-->  5222  OD1 ASN    9    J      3.80
+  2.   2440  CA  GLX    2    I   <-->  5222  OD1 ASN    9    J      3.78
+  3.   2441  C   GLX    2    I   <-->  5222  OD1 ASN    9    J      3.73
+  4.   2443  CB  GLX    2    I   <-->  5222  OD1 ASN    9    J      3.30
+  5.   2444  CG  GLX    2    I   <-->  5222  OD1 ASN    9    J      3.50
+  6.   2448  N   HIS    3    I   <-->  5221  CG  ASN    9    J      3.42
+  7.   2448  N   HIS    3    I   <-->  5222  OD1 ASN    9    J      3.15
+  8.   2448  N   HIS    3    I   <-->  5223  ND2 ASN    9    J      2.98
+  9.   2449  CA  HIS    3    I   <-->  5223  ND2 ASN    9    J      3.51
+ 10.   2452  CB  HIS    3    I   <-->  5222  OD1 ASN    9    J      3.89
+ 11.   2452  CB  HIS    3    I   <-->  5223  ND2 ASN    9    J      3.42
+ 12.   2454  ND1 HIS    3    I   <-->  5427  CD  PRO   36    J      3.66
+ 13.   2455  CD2 HIS    3    I   <-->  5222  OD1 ASN    9    J      3.32
+ 14.   2455  CD2 HIS    3    I   <-->  5410  CG2 THR   33    J      3.86
+ 15.   2455  CD2 HIS    3    I   <-->  5414  O   CYS   34    J      3.45
+ 16.   2455  CD2 HIS    3    I   <-->  5418  CA  GLY   35    J      3.73
+ 17.   2456  CE1 HIS    3    I   <-->  5372  CZ3 TRP   28    J      3.43
+ 18.   2456  CE1 HIS    3    I   <-->  5373  CH2 TRP   28    J      3.39
+ 19.   2456  CE1 HIS    3    I   <-->  5418  CA  GLY   35    J      3.71
+ 20.   2456  CE1 HIS    3    I   <-->  5427  CD  PRO   36    J      3.83
+ 21.   2457  NE2 HIS    3    I   <-->  5418  CA  GLY   35    J      3.54
+ 22.   2497  CG  ASN    9    I   <-->  5172  N   HIS    3    J      3.39
+ 23.   2497  CG  ASN    9    I   <-->  5176  CB  HIS    3    J      3.88
+ 24.   2497  CG  ASN    9    I   <-->  5179  CD2 HIS    3    J      3.89
+ 25.   2498  OD1 ASN    9    I   <-->  5163  N   GLX    2    J      3.79
+ 26.   2498  OD1 ASN    9    I   <-->  5164  CA  GLX    2    J      3.76
+ 27.   2498  OD1 ASN    9    I   <-->  5165  C   GLX    2    J      3.71
+ 28.   2498  OD1 ASN    9    I   <-->  5167  CB  GLX    2    J      3.29
+ 29.   2498  OD1 ASN    9    I   <-->  5168  CG  GLX    2    J      3.48
+ 30.   2498  OD1 ASN    9    I   <-->  5172  N   HIS    3    J      3.12
+ 31.   2498  OD1 ASN    9    I   <-->  5176  CB  HIS    3    J      3.87
+ 32.   2498  OD1 ASN    9    I   <-->  5179  CD2 HIS    3    J      3.30
+ 33.   2499  ND2 ASN    9    I   <-->  5172  N   HIS    3    J      2.96
+ 34.   2499  ND2 ASN    9    I   <-->  5173  CA  HIS    3    J      3.48
+ 35.   2499  ND2 ASN    9    I   <-->  5176  CB  HIS    3    J      3.40
+ 36.   2648  CZ3 TRP   28    I   <-->  5180  CE1 HIS    3    J      3.44
+ 37.   2649  CH2 TRP   28    I   <-->  5180  CE1 HIS    3    J      3.41
+ 38.   2686  CG2 THR   33    I   <-->  5179  CD2 HIS    3    J      3.83
+ 39.   2690  O   CYS   34    I   <-->  5179  CD2 HIS    3    J      3.43
+ 40.   2694  CA  GLY   35    I   <-->  5179  CD2 HIS    3    J      3.73
+ 41.   2694  CA  GLY   35    I   <-->  5180  CE1 HIS    3    J      3.69
+ 42.   2694  CA  GLY   35    I   <-->  5181  NE2 HIS    3    J      3.54
+ 43.   2703  CD  PRO   36    I   <-->  5178  ND1 HIS    3    J      3.67
+ 44.   2703  CD  PRO   36    I   <-->  5180  CE1 HIS    3    J      3.84
+
+Number of non-bonded contacts:    44
+

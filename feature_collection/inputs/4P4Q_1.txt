@@ -1,0 +1,218 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4p4q   Chains B }{ C
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2871  CG  GLU   66    B   <-->  3958  CB  LYS   97    C      3.89
+  2.   2872  CD  GLU   66    B   <-->  3958  CB  LYS   97    C      3.64
+  3.   2873  OE1 GLU   66    B   <-->  3958  CB  LYS   97    C      3.89
+  4.   2873  OE1 GLU   66    B   <-->  3960  CD  LYS   97    C      3.39
+  5.   2874  OE2 GLU   66    B   <-->  3957  O   LYS   97    C      3.71
+  6.   2874  OE2 GLU   66    B   <-->  3958  CB  LYS   97    C      3.85
+  7.   2933  CE  LYS   73    B   <-->  3966  O   GLU   98    C      3.52
+  8.   3046  CD  GLU   88    B   <-->  3405  NZ  LYS   29    C      3.73
+  9.   3047  OE1 GLU   88    B   <-->  3405  NZ  LYS   29    C      3.37
+ 10.   3047  OE1 GLU   88    B   <-->  3934  CG  PRO   94    C      3.58
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3048  OE2 GLU   88    B   <-->  3405  NZ  LYS   29    C      3.37
+
+Number of salt bridges:            1
+
+Number of non-bonded contacts:    10
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4p4q   Chains A }{ D
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    230  NZ  LYS   29    A   <-->  6222  OE1 GLU   88    D      3.81
+  2.    283  OE2 GLU   35    A   <-->  6232  NZ  LYS   89    D      3.77
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    230  NZ  LYS   29    A   <-->  6222  OE1 GLU   88    D      3.81
+  2.    282  OE1 GLU   35    A   <-->  6232  NZ  LYS   89    D      3.77
+
+Number of salt bridges:            2
+
+Number of non-bonded contacts:     2
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4p4q   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    195  ND2 ASN   24    A   <-->  5525  O   GLN  292    C      3.17
+  2.    258  OE2 GLU   32    A   <-->  3423  NH1 ARG   31    C      3.23
+  3.    258  OE2 GLU   32    A   <-->  3424  NH2 ARG   31    C      2.18
+  4.   2350  O   GLN  292    A   <-->  3370  ND2 ASN   24    C      2.96
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    168  NZ  LYS   21    A   <-->  5516  O   GLU  291    C      3.62
+  2.    192  CB  ASN   24    A   <-->  5534  O   GLY  293    C      3.58
+  3.    193  CG  ASN   24    A   <-->  5542  CD2 LEU  294    C      3.60
+  4.    195  ND2 ASN   24    A   <-->  5525  O   GLN  292    C      3.17
+  5.    195  ND2 ASN   24    A   <-->  5540  CG  LEU  294    C      3.59
+  6.    195  ND2 ASN   24    A   <-->  5542  CD2 LEU  294    C      3.52
+  7.    220  CD1 LEU   28    A   <-->  5536  CA  LEU  294    C      3.76
+  8.    220  CD1 LEU   28    A   <-->  5537  C   LEU  294    C      3.52
+  9.    220  CD1 LEU   28    A   <-->  5538  O   LEU  294    C      3.89
+ 10.    246  NE  ARG   31    A   <-->  3396  CD2 LEU   28    C      3.65
+ 11.    247  CZ  ARG   31    A   <-->  3396  CD2 LEU   28    C      3.85
+ 12.    249  NH2 ARG   31    A   <-->  3396  CD2 LEU   28    C      3.85
+ 13.    255  CG  GLU   32    A   <-->  3433  OE2 GLU   32    C      3.66
+ 14.    256  CD  GLU   32    A   <-->  3424  NH2 ARG   31    C      3.22
+ 15.    256  CD  GLU   32    A   <-->  3433  OE2 GLU   32    C      3.72
+ 16.    257  OE1 GLU   32    A   <-->  3424  NH2 ARG   31    C      3.67
+ 17.    258  OE2 GLU   32    A   <-->  3422  CZ  ARG   31    C      3.09
+ 18.    258  OE2 GLU   32    A   <-->  3423  NH1 ARG   31    C      3.23
+ 19.    258  OE2 GLU   32    A   <-->  3424  NH2 ARG   31    C      2.18
+ 20.    258  OE2 GLU   32    A   <-->  3430  CG  GLU   32    C      3.67
+ 21.    258  OE2 GLU   32    A   <-->  3431  CD  GLU   32    C      3.74
+ 22.    258  OE2 GLU   32    A   <-->  3433  OE2 GLU   32    C      2.96
+ 23.   2328  CD2 LEU  289    A   <-->  5542  CD2 LEU  294    C      3.57
+ 24.   2341  O   GLU  291    A   <-->  3342  CE  LYS   21    C      3.77
+ 25.   2350  O   GLN  292    A   <-->  3367  CB  ASN   24    C      3.54
+ 26.   2350  O   GLN  292    A   <-->  3368  CG  ASN   24    C      3.73
+ 27.   2350  O   GLN  292    A   <-->  3370  ND2 ASN   24    C      2.96
+ 28.   2354  OE1 GLN  292    A   <-->  5540  CG  LEU  294    C      3.54
+ 29.   2354  OE1 GLN  292    A   <-->  5541  CD1 LEU  294    C      3.27
+ 30.   2354  OE1 GLN  292    A   <-->  5542  CD2 LEU  294    C      3.76
+ 31.   2358  C   GLY  293    A   <-->  3971  OE2 GLU   98    C      3.52
+ 32.   2359  O   GLY  293    A   <-->  3375  CB  ALA   25    C      3.62
+ 33.   2359  O   GLY  293    A   <-->  3969  CD  GLU   98    C      3.53
+ 34.   2359  O   GLY  293    A   <-->  3970  OE1 GLU   98    C      3.66
+ 35.   2359  O   GLY  293    A   <-->  3971  OE2 GLU   98    C      2.66
+ 36.   2365  CG  LEU  294    A   <-->  3396  CD2 LEU   28    C      3.86
+ 37.   2366  CD1 LEU  294    A   <-->  5541  CD1 LEU  294    C      3.64
+ 38.   2367  CD2 LEU  294    A   <-->  3396  CD2 LEU   28    C      3.50
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    258  OE2 GLU   32    A   <-->  3424  NH2 ARG   31    C      2.18
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    38
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4p4q   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    242  O   ARG   31    A   <-->  3039  NZ  LYS   87    B      2.43
+  2.   1525  O   ALA  193    A   <-->  2486  NE2 GLN   16    B      2.96
+  3.   2336  OE1 GLU  290    A   <-->  2909  ND2 ASN   70    B      2.91
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    241  C   ARG   31    A   <-->  3039  NZ  LYS   87    B      3.37
+  2.    242  O   ARG   31    A   <-->  3038  CE  LYS   87    B      3.45
+  3.    242  O   ARG   31    A   <-->  3039  NZ  LYS   87    B      2.43
+  4.    244  CG  ARG   31    A   <-->  3039  NZ  LYS   87    B      3.65
+  5.    251  CA  GLU   32    A   <-->  3039  NZ  LYS   87    B      3.89
+  6.    274  OD2 ASP   34    A   <-->  3065  OD2 ASP   90    B      3.61
+  7.    307  O   ASN   38    A   <-->  2450  CB  THR   12    B      3.58
+  8.    315  O   TYR   39    A   <-->  2460  NE  ARG   13    B      3.84
+  9.    316  CB  TYR   39    A   <-->  2451  OG1 THR   12    B      3.75
+ 10.    316  CB  TYR   39    A   <-->  2458  CG  ARG   13    B      3.76
+ 11.    316  CB  TYR   39    A   <-->  2459  CD  ARG   13    B      3.79
+ 12.    317  CG  TYR   39    A   <-->  2451  OG1 THR   12    B      3.72
+ 13.    319  CD2 TYR   39    A   <-->  2451  OG1 THR   12    B      3.31
+ 14.    320  CE1 TYR   39    A   <-->  2425  CD2 LEU    9    B      3.77
+ 15.    322  CZ  TYR   39    A   <-->  2425  CD2 LEU    9    B      3.89
+ 16.    323  OH  TYR   39    A   <-->  2400  CE  LYS    5    B      3.31
+ 17.    323  OH  TYR   39    A   <-->  2401  NZ  LYS    5    B      3.80
+ 18.    961  OE1 GLN  120    A   <-->  2923  CD  LYS   72    B      3.53
+ 19.    962  NE2 GLN  120    A   <-->  3007  CA  GLY   83    B      3.64
+ 20.    962  NE2 GLN  120    A   <-->  3009  O   GLY   83    B      3.72
+ 21.   1525  O   ALA  193    A   <-->  2483  CG  GLN   16    B      3.40
+ 22.   1525  O   ALA  193    A   <-->  2484  CD  GLN   16    B      3.66
+ 23.   1525  O   ALA  193    A   <-->  2486  NE2 GLN   16    B      2.96
+ 24.   1531  CB  ALA  194    A   <-->  2993  O   ALA   81    B      3.59
+ 25.   1531  CB  ALA  194    A   <-->  2994  CB  ALA   81    B      3.73
+ 26.   1539  ND2 ASN  195    A   <-->  2486  NE2 GLN   16    B      3.68
+ 27.   1547  ND2 ASN  196    A   <-->  2463  NH2 ARG   13    B      3.76
+ 28.   1554  CG2 VAL  197    A   <-->  2993  O   ALA   81    B      3.83
+ 29.   1554  CG2 VAL  197    A   <-->  2995  N   PHE   82    B      3.88
+ 30.   1554  CG2 VAL  197    A   <-->  2996  CA  PHE   82    B      3.86
+ 31.   1554  CG2 VAL  197    A   <-->  2997  C   PHE   82    B      3.82
+ 32.   1554  CG2 VAL  197    A   <-->  3006  N   GLY   83    B      3.43
+ 33.   1572  CG2 THR  199    A   <-->  2994  CB  ALA   81    B      3.87
+ 34.   1832  OH  TYR  229    A   <-->  2575  CG2 VAL   28    B      3.38
+ 35.   2336  OE1 GLU  290    A   <-->  2909  ND2 ASN   70    B      2.91
+
+Number of hydrogen bonds:          3
+
+Number of non-bonded contacts:    35
+
+

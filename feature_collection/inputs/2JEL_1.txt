@@ -1,0 +1,173 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 2jel   Chains L }{ P
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    226  NE2 HIS   27D   L   <-->  3326  OE1 GLN    3    P      2.72
+  2.    269  OH  TYR   32    L   <-->  3788  OE2 GLU   66    P      2.64
+  3.    425  NZ  LYS   50    L   <-->  3787  OE1 GLU   66    P      3.05
+  4.    781  OH  TYR   96    L   <-->  3327  NE2 GLN    3    P      3.24
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    224  CD2 HIS   27D   L   <-->  3326  OE1 GLN    3    P      3.85
+  2.    225  CE1 HIS   27D   L   <-->  3326  OE1 GLN    3    P      3.45
+  3.    225  CE1 HIS   27D   L   <-->  3774  OG  SER   64    P      3.65
+  4.    226  NE2 HIS   27D   L   <-->  3325  CD  GLN    3    P      3.50
+  5.    226  NE2 HIS   27D   L   <-->  3326  OE1 GLN    3    P      2.72
+  6.    226  NE2 HIS   27D   L   <-->  3327  NE2 GLN    3    P      3.75
+  7.    228  CA  GLY   27E   L   <-->  3609  OG  SER   41    P      3.43
+  8.    229  C   GLY   27E   L   <-->  3609  OG  SER   41    P      3.54
+  9.    230  O   GLY   27E   L   <-->  3608  CB  SER   41    P      3.47
+ 10.    230  O   GLY   27E   L   <-->  3609  OG  SER   41    P      3.30
+ 11.    232  CA  ASN   28    L   <-->  3561  OG1 THR   34    P      3.88
+ 12.    235  CB  ASN   28    L   <-->  3561  OG1 THR   34    P      3.44
+ 13.    266  CE1 TYR   32    L   <-->  3788  OE2 GLU   66    P      3.44
+ 14.    267  CE2 TYR   32    L   <-->  3307  CE  MET    1    P      3.72
+ 15.    268  CZ  TYR   32    L   <-->  3304  CB  MET    1    P      3.76
+ 16.    268  CZ  TYR   32    L   <-->  3305  CG  MET    1    P      3.88
+ 17.    268  CZ  TYR   32    L   <-->  3788  OE2 GLU   66    P      3.44
+ 18.    269  OH  TYR   32    L   <-->  3304  CB  MET    1    P      3.44
+ 19.    269  OH  TYR   32    L   <-->  3305  CG  MET    1    P      3.34
+ 20.    269  OH  TYR   32    L   <-->  3786  CD  GLU   66    P      3.54
+ 21.    269  OH  TYR   32    L   <-->  3788  OE2 GLU   66    P      2.64
+ 22.    424  CE  LYS   50    L   <-->  3788  OE2 GLU   66    P      3.38
+ 23.    425  NZ  LYS   50    L   <-->  3786  CD  GLU   66    P      3.41
+ 24.    425  NZ  LYS   50    L   <-->  3787  OE1 GLU   66    P      3.05
+ 25.    425  NZ  LYS   50    L   <-->  3788  OE2 GLU   66    P      3.05
+ 26.    739  O   GLY   91    L   <-->  3307  CE  MET    1    P      3.73
+ 27.    743  O   SER   92    L   <-->  3327  NE2 GLN    3    P      3.63
+ 28.    781  OH  TYR   96    L   <-->  3327  NE2 GLN    3    P      3.24
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    425  NZ  LYS   50    L   <-->  3787  OE1 GLU   66    P      3.05
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    28
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 2jel   Chains H }{ P
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1892  O   THR   30    H   <-->  3827  NE2 GLN   71    P      2.88
+  2.   2078  N   THR   52A   H   <-->  3826  OE1 GLN   71    P      2.98
+  3.   2083  OG1 THR   52A   H   <-->  3827  NE2 GLN   71    P      2.82
+  4.   2096  OH  TYR   53    H   <-->  3867  NE2 HIS   76    P      3.10
+  5.   2457  N   GLY   97    H   <-->  3817  OE1 GLU   70    P      3.12
+  6.   2460  O   GLY   97    H   <-->  3300  N   MET    1    P      2.77
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1891  C   THR   30    H   <-->  3827  NE2 GLN   71    P      3.56
+  2.   1892  O   THR   30    H   <-->  3827  NE2 GLN   71    P      2.88
+  3.   1902  CG2 THR   31    H   <-->  3796  O   GLU   68    P      3.45
+  4.   1915  N   ALA   33    H   <-->  3825  CD  GLN   71    P      3.90
+  5.   1915  N   ALA   33    H   <-->  3826  OE1 GLN   71    P      3.58
+  6.   1916  CA  ALA   33    H   <-->  3826  OE1 GLN   71    P      3.19
+  7.   1919  CB  ALA   33    H   <-->  3826  OE1 GLN   71    P      3.17
+  8.   2062  CD1 LEU   50    H   <-->  3316  CE1 PHE    2    P      3.61
+  9.   2073  CA  SER   52    H   <-->  3826  OE1 GLN   71    P      3.13
+ 10.   2074  C   SER   52    H   <-->  3826  OE1 GLN   71    P      3.47
+ 11.   2076  CB  SER   52    H   <-->  3316  CE1 PHE    2    P      3.78
+ 12.   2076  CB  SER   52    H   <-->  3318  CZ  PHE    2    P      3.59
+ 13.   2076  CB  SER   52    H   <-->  3826  OE1 GLN   71    P      3.72
+ 14.   2077  OG  SER   52    H   <-->  3825  CD  GLN   71    P      3.77
+ 15.   2077  OG  SER   52    H   <-->  3826  OE1 GLN   71    P      3.42
+ 16.   2078  N   THR   52A   H   <-->  3825  CD  GLN   71    P      3.71
+ 17.   2078  N   THR   52A   H   <-->  3826  OE1 GLN   71    P      2.98
+ 18.   2078  N   THR   52A   H   <-->  3827  NE2 GLN   71    P      3.76
+ 19.   2083  OG1 THR   52A   H   <-->  3825  CD  GLN   71    P      3.54
+ 20.   2083  OG1 THR   52A   H   <-->  3826  OE1 GLN   71    P      3.44
+ 21.   2083  OG1 THR   52A   H   <-->  3827  NE2 GLN   71    P      2.82
+ 22.   2085  N   TYR   53    H   <-->  3827  NE2 GLN   71    P      3.54
+ 23.   2089  CB  TYR   53    H   <-->  3823  CB  GLN   71    P      3.86
+ 24.   2089  CB  TYR   53    H   <-->  3827  NE2 GLN   71    P      3.67
+ 25.   2092  CD2 TYR   53    H   <-->  3829  CA  LYS   72    P      3.85
+ 26.   2092  CD2 TYR   53    H   <-->  3853  CB  GLU   75    P      3.89
+ 27.   2093  CE1 TYR   53    H   <-->  3833  CG  LYS   72    P      3.66
+ 28.   2094  CE2 TYR   53    H   <-->  3829  CA  LYS   72    P      3.85
+ 29.   2094  CE2 TYR   53    H   <-->  3853  CB  GLU   75    P      3.72
+ 30.   2094  CE2 TYR   53    H   <-->  3854  CG  GLU   75    P      3.47
+ 31.   2095  CZ  TYR   53    H   <-->  3833  CG  LYS   72    P      3.60
+ 32.   2096  OH  TYR   53    H   <-->  3833  CG  LYS   72    P      3.68
+ 33.   2096  OH  TYR   53    H   <-->  3865  CD2 HIS   76    P      3.81
+ 34.   2096  OH  TYR   53    H   <-->  3867  NE2 HIS   76    P      3.10
+ 35.   2101  CB  SER   54    H   <-->  3855  CD  GLU   75    P      3.53
+ 36.   2101  CB  SER   54    H   <-->  3856  OE1 GLU   75    P      3.47
+ 37.   2101  CB  SER   54    H   <-->  3857  OE2 GLU   75    P      3.89
+ 38.   2102  OG  SER   54    H   <-->  3856  OE1 GLU   75    P      3.58
+ 39.   2112  CG  TYR   56    H   <-->  3336  NE2 GLN    4    P      3.49
+ 40.   2113  CD1 TYR   56    H   <-->  3334  CD  GLN    4    P      3.66
+ 41.   2113  CD1 TYR   56    H   <-->  3335  OE1 GLN    4    P      3.76
+ 42.   2113  CD1 TYR   56    H   <-->  3336  NE2 GLN    4    P      3.72
+ 43.   2114  CD2 TYR   56    H   <-->  3318  CZ  PHE    2    P      3.53
+ 44.   2114  CD2 TYR   56    H   <-->  3336  NE2 GLN    4    P      3.52
+ 45.   2115  CE1 TYR   56    H   <-->  3333  CG  GLN    4    P      3.74
+ 46.   2115  CE1 TYR   56    H   <-->  3334  CD  GLN    4    P      3.67
+ 47.   2116  CE2 TYR   56    H   <-->  3336  NE2 GLN    4    P      3.79
+ 48.   2117  CZ  TYR   56    H   <-->  3333  CG  GLN    4    P      3.69
+ 49.   2118  OH  TYR   56    H   <-->  3333  CG  GLN    4    P      3.89
+ 50.   2450  CA  MET   96    H   <-->  3818  OE2 GLU   70    P      3.55
+ 51.   2454  CG  MET   96    H   <-->  3792  O   GLY   67    P      3.69
+ 52.   2455  SD  MET   96    H   <-->  3791  C   GLY   67    P      3.73
+ 53.   2455  SD  MET   96    H   <-->  3792  O   GLY   67    P      3.33
+ 54.   2455  SD  MET   96    H   <-->  3794  CA  GLU   68    P      3.86
+ 55.   2456  CE  MET   96    H   <-->  3801  OE2 GLU   68    P      3.58
+ 56.   2457  N   GLY   97    H   <-->  3300  N   MET    1    P      3.68
+ 57.   2457  N   GLY   97    H   <-->  3816  CD  GLU   70    P      3.61
+ 58.   2457  N   GLY   97    H   <-->  3817  OE1 GLU   70    P      3.12
+ 59.   2457  N   GLY   97    H   <-->  3818  OE2 GLU   70    P      3.65
+ 60.   2458  CA  GLY   97    H   <-->  3817  OE1 GLU   70    P      3.74
+ 61.   2459  C   GLY   97    H   <-->  3300  N   MET    1    P      3.81
+ 62.   2459  C   GLY   97    H   <-->  3785  CG  GLU   66    P      3.77
+ 63.   2460  O   GLY   97    H   <-->  3300  N   MET    1    P      2.77
+ 64.   2460  O   GLY   97    H   <-->  3301  CA  MET    1    P      3.71
+ 65.   2460  O   GLY   97    H   <-->  3785  CG  GLU   66    P      3.47
+ 66.   2460  O   GLY   97    H   <-->  3788  OE2 GLU   66    P      3.73
+ 67.   2462  CA  GLU   98    H   <-->  3788  OE2 GLU   66    P      3.63
+ 68.   2490  OH  TYR  100    H   <-->  3307  CE  MET    1    P      3.23
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    68
+

@@ -1,0 +1,178 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4qti   Chains L }{ U
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1869  N   SER   31    L   <-->  3956  O   TYR   92    U      2.97
+  2.   1880  OG  SER   32    L   <-->  3945  O   ARG   91    U      2.97
+  3.   2348  O   TYR   91    L   <-->  3951  NH1 ARG   91    U      2.84
+  4.   2360  O   ALA   92    L   <-->  3942  N   ARG   91    U      2.93
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1852  O   ASP   28    L   <-->  3961  CE1 TYR   92    U      3.46
+  2.   1853  CB  ASP   28    L   <-->  4156  CB  PRO  118    U      3.66
+  3.   1854  CG  ASP   28    L   <-->  4156  CB  PRO  118    U      3.43
+  4.   1856  OD2 ASP   28    L   <-->  4156  CB  PRO  118    U      3.37
+  5.   1858  CA  ILE   29    L   <-->  3959  CD1 TYR   92    U      3.83
+  6.   1858  CA  ILE   29    L   <-->  3961  CE1 TYR   92    U      3.79
+  7.   1859  C   ILE   29    L   <-->  3959  CD1 TYR   92    U      3.46
+  8.   1860  O   ILE   29    L   <-->  3959  CD1 TYR   92    U      3.86
+  9.   1865  N   GLY   30    L   <-->  3959  CD1 TYR   92    U      3.46
+ 10.   1866  CA  GLY   30    L   <-->  3956  O   TYR   92    U      3.62
+ 11.   1867  C   GLY   30    L   <-->  3956  O   TYR   92    U      3.74
+ 12.   1869  N   SER   31    L   <-->  3956  O   TYR   92    U      2.97
+ 13.   1870  CA  SER   31    L   <-->  3956  O   TYR   92    U      3.87
+ 14.   1874  OG  SER   31    L   <-->  3956  O   TYR   92    U      3.39
+ 15.   1874  OG  SER   31    L   <-->  4522  OG1 THR  174    U      3.61
+ 16.   1875  N   SER   32    L   <-->  3956  O   TYR   92    U      3.73
+ 17.   1879  CB  SER   32    L   <-->  3945  O   ARG   91    U      3.24
+ 18.   1880  OG  SER   32    L   <-->  3944  C   ARG   91    U      3.50
+ 19.   1880  OG  SER   32    L   <-->  3945  O   ARG   91    U      2.97
+ 20.   1880  OG  SER   32    L   <-->  3953  N   TYR   92    U      3.77
+ 21.   1880  OG  SER   32    L   <-->  3954  CA  TYR   92    U      3.60
+ 22.   1880  OG  SER   32    L   <-->  3955  C   TYR   92    U      3.49
+ 23.   1880  OG  SER   32    L   <-->  3956  O   TYR   92    U      3.40
+ 24.   2032  CB  ALA   50    L   <-->  4522  OG1 THR  174    U      3.62
+ 25.   2348  O   TYR   91    L   <-->  3950  CZ  ARG   91    U      3.77
+ 26.   2348  O   TYR   91    L   <-->  3951  NH1 ARG   91    U      2.84
+ 27.   2349  CB  TYR   91    L   <-->  3951  NH1 ARG   91    U      3.81
+ 28.   2352  CD2 TYR   91    L   <-->  3950  CZ  ARG   91    U      3.62
+ 29.   2352  CD2 TYR   91    L   <-->  3951  NH1 ARG   91    U      3.75
+ 30.   2352  CD2 TYR   91    L   <-->  3952  NH2 ARG   91    U      3.61
+ 31.   2358  CA  ALA   92    L   <-->  3945  O   ARG   91    U      3.18
+ 32.   2360  O   ALA   92    L   <-->  3928  O   ARG   89    U      3.62
+ 33.   2360  O   ALA   92    L   <-->  3937  CA  SER   90    U      3.32
+ 34.   2360  O   ALA   92    L   <-->  3938  C   SER   90    U      3.57
+ 35.   2360  O   ALA   92    L   <-->  3941  OG  SER   90    U      3.78
+ 36.   2360  O   ALA   92    L   <-->  3942  N   ARG   91    U      2.93
+ 37.   2360  O   ALA   92    L   <-->  3945  O   ARG   91    U      3.84
+ 38.   2361  CB  ALA   92    L   <-->  3945  O   ARG   91    U      3.60
+ 39.   2368  CG2 THR   93    L   <-->  3941  OG  SER   90    U      3.23
+ 40.   2390  CE1 TYR   96    L   <-->  3951  NH1 ARG   91    U      3.54
+ 41.   2392  CZ  TYR   96    L   <-->  3951  NH1 ARG   91    U      3.55
+ 42.   2393  OH  TYR   96    L   <-->  3951  NH1 ARG   91    U      3.08
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    42
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4qti   Chains H }{ U
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    764  OD2 ASP   99    H   <-->  3934  NH1 ARG   89    U      3.05
+  2.    764  OD2 ASP   99    H   <-->  3952  NH2 ARG   91    U      2.75
+  3.    768  O   PHE  100    H   <-->  3935  NH2 ARG   89    U      2.41
+  4.    779  O   SER  101    H   <-->  3935  NH2 ARG   89    U      3.02
+  5.    793  OD2 ASP  103    H   <-->  3762  NH2 ARG   58    U      2.82
+  6.    793  OD2 ASP  103    H   <-->  4120  N   GLN  114    U      3.12
+  7.    805  N   SER  105    H   <-->  3980  OE1 GLU   94    U      2.82
+  8.    810  OG  SER  105    H   <-->  3980  OE1 GLU   94    U      2.69
+  9.    838  OH  TYR  108    H   <-->  4128  NE2 GLN  114    U      3.11
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    242  CD1 TRP   33    H   <-->  3934  NH1 ARG   89    U      3.74
+  2.    762  CG  ASP   99    H   <-->  3934  NH1 ARG   89    U      3.80
+  3.    762  CG  ASP   99    H   <-->  3952  NH2 ARG   91    U      3.13
+  4.    763  OD1 ASP   99    H   <-->  3952  NH2 ARG   91    U      2.76
+  5.    764  OD2 ASP   99    H   <-->  3934  NH1 ARG   89    U      3.05
+  6.    764  OD2 ASP   99    H   <-->  3950  CZ  ARG   91    U      3.52
+  7.    764  OD2 ASP   99    H   <-->  3951  NH1 ARG   91    U      3.79
+  8.    764  OD2 ASP   99    H   <-->  3952  NH2 ARG   91    U      2.75
+  9.    767  C   PHE  100    H   <-->  3935  NH2 ARG   89    U      3.50
+ 10.    768  O   PHE  100    H   <-->  3933  CZ  ARG   89    U      3.35
+ 11.    768  O   PHE  100    H   <-->  3934  NH1 ARG   89    U      3.46
+ 12.    768  O   PHE  100    H   <-->  3935  NH2 ARG   89    U      2.41
+ 13.    777  CA  SER  101    H   <-->  3935  NH2 ARG   89    U      3.56
+ 14.    778  C   SER  101    H   <-->  3935  NH2 ARG   89    U      3.36
+ 15.    779  O   SER  101    H   <-->  3933  CZ  ARG   89    U      3.73
+ 16.    779  O   SER  101    H   <-->  3935  NH2 ARG   89    U      3.02
+ 17.    785  O   GLY  102    H   <-->  3935  NH2 ARG   89    U      3.45
+ 18.    789  O   ASP  103    H   <-->  4110  CB  SER  112    U      3.74
+ 19.    790  CB  ASP  103    H   <-->  4109  O   SER  112    U      3.48
+ 20.    790  CB  ASP  103    H   <-->  4120  N   GLN  114    U      3.69
+ 21.    790  CB  ASP  103    H   <-->  4128  NE2 GLN  114    U      3.85
+ 22.    791  CG  ASP  103    H   <-->  3762  NH2 ARG   58    U      3.66
+ 23.    791  CG  ASP  103    H   <-->  4109  O   SER  112    U      3.88
+ 24.    791  CG  ASP  103    H   <-->  4120  N   GLN  114    U      3.48
+ 25.    791  CG  ASP  103    H   <-->  4124  CB  GLN  114    U      3.77
+ 26.    792  OD1 ASP  103    H   <-->  4145  NH2 ARG  116    U      3.89
+ 27.    793  OD2 ASP  103    H   <-->  3759  NE  ARG   58    U      3.54
+ 28.    793  OD2 ASP  103    H   <-->  3760  CZ  ARG   58    U      3.60
+ 29.    793  OD2 ASP  103    H   <-->  3762  NH2 ARG   58    U      2.82
+ 30.    793  OD2 ASP  103    H   <-->  4109  O   SER  112    U      3.41
+ 31.    793  OD2 ASP  103    H   <-->  4113  CA  LEU  113    U      3.40
+ 32.    793  OD2 ASP  103    H   <-->  4114  C   LEU  113    U      3.73
+ 33.    793  OD2 ASP  103    H   <-->  4120  N   GLN  114    U      3.12
+ 34.    793  OD2 ASP  103    H   <-->  4144  NH1 ARG  116    U      3.78
+ 35.    794  N   ARG  104    H   <-->  4128  NE2 GLN  114    U      3.85
+ 36.    795  CA  ARG  104    H   <-->  3979  CD  GLU   94    U      3.88
+ 37.    795  CA  ARG  104    H   <-->  3980  OE1 GLU   94    U      3.57
+ 38.    796  C   ARG  104    H   <-->  3980  OE1 GLU   94    U      3.61
+ 39.    805  N   SER  105    H   <-->  3979  CD  GLU   94    U      3.73
+ 40.    805  N   SER  105    H   <-->  3980  OE1 GLU   94    U      2.82
+ 41.    806  CA  SER  105    H   <-->  3980  OE1 GLU   94    U      3.73
+ 42.    809  CB  SER  105    H   <-->  3980  OE1 GLU   94    U      3.50
+ 43.    810  OG  SER  105    H   <-->  3979  CD  GLU   94    U      3.83
+ 44.    810  OG  SER  105    H   <-->  3980  OE1 GLU   94    U      2.69
+ 45.    832  CG  TYR  108    H   <-->  3952  NH2 ARG   91    U      3.63
+ 46.    833  CD1 TYR  108    H   <-->  3952  NH2 ARG   91    U      3.84
+ 47.    834  CD2 TYR  108    H   <-->  3952  NH2 ARG   91    U      3.48
+ 48.    836  CE2 TYR  108    H   <-->  3949  NE  ARG   91    U      3.76
+ 49.    836  CE2 TYR  108    H   <-->  3952  NH2 ARG   91    U      3.60
+ 50.    837  CZ  TYR  108    H   <-->  3949  NE  ARG   91    U      3.80
+ 51.    837  CZ  TYR  108    H   <-->  3952  NH2 ARG   91    U      3.84
+ 52.    838  OH  TYR  108    H   <-->  3949  NE  ARG   91    U      3.86
+ 53.    838  OH  TYR  108    H   <-->  4128  NE2 GLN  114    U      3.11
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    764  OD2 ASP   99    H   <-->  3934  NH1 ARG   89    U      3.05
+  2.    764  OD2 ASP   99    H   <-->  3951  NH1 ARG   91    U      2.75
+  3.    793  OD2 ASP  103    H   <-->  3762  NH2 ARG   58    U      2.82
+  4.    793  OD2 ASP  103    H   <-->  4144  NH1 ARG  116    U      3.78
+
+Number of salt bridges:            4
+
+Number of hydrogen bonds:          9
+
+Number of non-bonded contacts:    53
+

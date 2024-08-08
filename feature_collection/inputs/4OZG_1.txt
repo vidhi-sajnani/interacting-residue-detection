@@ -1,0 +1,692 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains F }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7944  NE  ARG  109    F   <--> 12502  O   PRO    8    I      2.72
+  2.   7973  OD2 ASP  114    F   <--> 12517  OH  TYR    9    I      2.75
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7421  CG2 THR   37    F   <--> 12523  CG  PRO   10    I      3.69
+  2.   7941  CB  ARG  109    F   <--> 12515  CE2 TYR    9    I      3.77
+  3.   7943  CD  ARG  109    F   <--> 12502  O   PRO    8    I      3.51
+  4.   7944  NE  ARG  109    F   <--> 12495  CB  LEU    7    I      3.41
+  5.   7944  NE  ARG  109    F   <--> 12501  C   PRO    8    I      3.79
+  6.   7944  NE  ARG  109    F   <--> 12502  O   PRO    8    I      2.72
+  7.   7945  CZ  ARG  109    F   <--> 12495  CB  LEU    7    I      3.59
+  8.   7945  CZ  ARG  109    F   <--> 12498  CD2 LEU    7    I      3.53
+  9.   7945  CZ  ARG  109    F   <--> 12502  O   PRO    8    I      3.57
+ 10.   7946  NH1 ARG  109    F   <--> 12498  CD2 LEU    7    I      3.56
+ 11.   7947  NH2 ARG  109    F   <--> 12495  CB  LEU    7    I      3.64
+ 12.   7947  NH2 ARG  109    F   <--> 12498  CD2 LEU    7    I      3.69
+ 13.   7947  NH2 ARG  109    F   <--> 12502  O   PRO    8    I      3.64
+ 14.   7947  NH2 ARG  109    F   <--> 12505  CD  PRO    8    I      3.39
+ 15.   7971  CG  ASP  114    F   <--> 12517  OH  TYR    9    I      3.24
+ 16.   7972  OD1 ASP  114    F   <--> 12517  OH  TYR    9    I      2.99
+ 17.   7973  OD2 ASP  114    F   <--> 12515  CE2 TYR    9    I      3.00
+ 18.   7973  OD2 ASP  114    F   <--> 12516  CZ  TYR    9    I      3.29
+ 19.   7973  OD2 ASP  114    F   <--> 12517  OH  TYR    9    I      2.75
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    19
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains F }{ H
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7846  OE1 GLN   96    F   <--> 11975  N   ASN  197    H      3.04
+  2.   7847  NE2 GLN   96    F   <--> 11981  OD1 ASN  197    H      2.78
+  3.   8627  OD1 ASP  198    F   <--> 11982  ND2 ASN  197    H      3.29
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7841  C   GLN   96    F   <--> 11974  CD2 LEU  196    H      3.62
+  2.   7842  O   GLN   96    F   <--> 11974  CD2 LEU  196    H      3.68
+  3.   7843  CB  GLN   96    F   <--> 11974  CD2 LEU  196    H      3.81
+  4.   7845  CD  GLN   96    F   <--> 11980  CG  ASN  197    H      3.86
+  5.   7845  CD  GLN   96    F   <--> 11981  OD1 ASN  197    H      3.42
+  6.   7846  OE1 GLN   96    F   <--> 11968  CA  LEU  196    H      3.47
+  7.   7846  OE1 GLN   96    F   <--> 11969  C   LEU  196    H      3.76
+  8.   7846  OE1 GLN   96    F   <--> 11975  N   ASN  197    H      3.04
+  9.   7846  OE1 GLN   96    F   <--> 11979  CB  ASN  197    H      3.84
+ 10.   7846  OE1 GLN   96    F   <--> 11980  CG  ASN  197    H      3.39
+ 11.   7846  OE1 GLN   96    F   <--> 11981  OD1 ASN  197    H      3.23
+ 12.   7846  OE1 GLN   96    F   <--> 11982  ND2 ASN  197    H      3.90
+ 13.   7847  NE2 GLN   96    F   <--> 11965  O   ALA  195    H      3.66
+ 14.   7847  NE2 GLN   96    F   <--> 11980  CG  ASN  197    H      3.49
+ 15.   7847  NE2 GLN   96    F   <--> 11981  OD1 ASN  197    H      2.78
+ 16.   7847  NE2 GLN   96    F   <--> 11982  ND2 ASN  197    H      3.82
+ 17.   7848  N   GLU   97    F   <--> 11974  CD2 LEU  196    H      3.66
+ 18.   7849  CA  GLU   97    F   <--> 11974  CD2 LEU  196    H      3.85
+ 19.   7853  CG  GLU   97    F   <--> 11973  CD1 LEU  196    H      3.87
+ 20.   8080  CB  GLU  128    F   <--> 11982  ND2 ASN  197    H      3.66
+ 21.   8081  CG  GLU  128    F   <--> 11982  ND2 ASN  197    H      3.77
+ 22.   8084  OE2 GLU  128    F   <--> 11979  CB  ASN  197    H      3.81
+ 23.   8084  OE2 GLU  128    F   <--> 11980  CG  ASN  197    H      3.66
+ 24.   8084  OE2 GLU  128    F   <--> 11982  ND2 ASN  197    H      3.34
+ 25.   8616  O   ASN  197    F   <--> 11981  OD1 ASN  197    H      3.72
+ 26.   8619  OD1 ASN  197    F   <--> 11936  NZ  LYS  191    H      3.85
+ 27.   8620  ND2 ASN  197    F   <--> 11976  CA  ASN  197    H      3.51
+ 28.   8620  ND2 ASN  197    F   <--> 11977  C   ASN  197    H      3.89
+ 29.   8620  ND2 ASN  197    F   <--> 11978  O   ASN  197    H      3.76
+ 30.   8620  ND2 ASN  197    F   <--> 11979  CB  ASN  197    H      3.22
+ 31.   8620  ND2 ASN  197    F   <--> 11980  CG  ASN  197    H      3.90
+ 32.   8627  OD1 ASP  198    F   <--> 11980  CG  ASN  197    H      3.80
+ 33.   8627  OD1 ASP  198    F   <--> 11981  OD1 ASN  197    H      3.57
+ 34.   8627  OD1 ASP  198    F   <--> 11982  ND2 ASN  197    H      3.29
+
+Number of hydrogen bonds:          3
+
+Number of non-bonded contacts:    34
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains F }{ G
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7508  CA  GLY   47    F   <--> 10186  O   LYS  166    G      3.85
+  2.   7509  C   GLY   47    F   <--> 10186  O   LYS  166    G      3.58
+  3.   7510  O   GLY   47    F   <--> 10186  O   LYS  166    G      3.02
+  4.   7510  O   GLY   47    F   <--> 10193  CA  ASP  167    G      3.80
+  5.   7510  O   GLY   47    F   <--> 10200  N   SER  168    G      3.53
+  6.   7518  OE1 GLN   48    F   <--> 10204  CB  SER  168    G      3.50
+
+Number of non-bonded contacts:     6
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains E }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5939  ND2 ASN   36    E   <--> 12473  OE1 GLN    4    I      2.77
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5939  ND2 ASN   36    E   <--> 12470  CB  GLN    4    I      3.64
+  2.   5939  ND2 ASN   36    E   <--> 12471  CG  GLN    4    I      3.68
+  3.   5939  ND2 ASN   36    E   <--> 12472  CD  GLN    4    I      3.45
+  4.   5939  ND2 ASN   36    E   <--> 12473  OE1 GLN    4    I      2.77
+  5.   6444  O   GLY  108    E   <--> 12473  OE1 GLN    4    I      3.54
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:     5
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains E }{ G
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   6504  NZ  LYS  120    E   <--> 10441  OD2 ASP  198    G      3.17
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   6503  CE  LYS  120    E   <--> 10441  OD2 ASP  198    G      3.73
+  2.   6504  NZ  LYS  120    E   <--> 10439  CG  ASP  198    G      3.84
+  3.   6504  NZ  LYS  120    E   <--> 10441  OD2 ASP  198    G      3.17
+  4.   6830  CB  LYS  166    E   <-->  9145  OG  SER   10    G      3.33
+  5.   6831  CG  LYS  166    E   <-->  9145  OG  SER   10    G      3.85
+  6.   6832  CD  LYS  166    E   <-->  9145  OG  SER   10    G      3.43
+  7.   6834  NZ  LYS  166    E   <-->  9159  CG  ASP   12    G      3.75
+  8.   6834  NZ  LYS  166    E   <-->  9160  OD1 ASP   12    G      3.48
+  9.   6834  NZ  LYS  166    E   <-->  9161  OD2 ASP   12    G      3.44
+ 10.   6839  CB  ASP  167    E   <-->  9137  CB  PRO    9    G      3.77
+ 11.   6839  CB  ASP  167    E   <-->  9138  CG  PRO    9    G      3.74
+ 12.   6852  OD2 ASP  169    E   <-->  9859  CD  LYS  120    G      3.76
+ 13.   6852  OD2 ASP  169    E   <-->  9860  CE  LYS  120    G      3.18
+ 14.   6852  OD2 ASP  169    E   <-->  9861  NZ  LYS  120    G      3.63
+ 15.   7067  NZ  LYS  196    E   <-->  9138  CG  PRO    9    G      3.40
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   6504  NZ  LYS  120    E   <--> 10441  OD2 ASP  198    G      3.17
+  2.   6834  NZ  LYS  166    E   <-->  9161  OD2 ASP   12    G      3.44
+  3.   6852  OD2 ASP  169    E   <-->  9861  NZ  LYS  120    G      3.63
+
+Number of salt bridges:            3
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    15
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains E }{ F
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5979  OH  TYR   40    E   <-->  7979  OG1 THR  115    F      2.24
+  2.   5979  OH  TYR   40    E   <-->  7979  OG1 THR  115    F      2.24
+  3.   6005  OH  TYR   42    E   <-->  7984  O   GLN  116    F      2.69
+  4.   6024  OE1 GLN   44    E   <-->  7492  NE2 GLN   44    F      3.01
+  5.   6025  NE2 GLN   44    E   <-->  7491  OE1 GLN   44    F      3.18
+  6.   6616  OD1 ASP  134    E   <-->  8257  NE2 HIS  150    F      2.83
+  7.   6669  O   ARG  141    E   <-->  8189  N   GLU  142    F      3.15
+  8.   6679  N   SER  143    E   <-->  8174  O   VAL  140    F      3.34
+  9.   6747  OD1 ASP  155    E   <-->  8711  NH1 ARG  208    F      2.70
+ 10.   6747  OD1 ASP  155    E   <-->  8712  NH2 ARG  208    F      2.97
+ 11.   6871  OH  TYR  171    E   <-->  8581  O   GLU  192    F      2.77
+ 12.   6928  O   ASP  179    E   <-->  8506  N   GLY  182    F      2.70
+ 13.   6941  N   ARG  181    E   <-->  8505  OG  SER  181    F      3.17
+ 14.   7011  O   SER  189    E   <-->  8692  NH1 ARG  206    F      3.13
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5976  CE1 TYR   40    E   <-->  7979  OG1 THR  115    F      3.43
+  2.   5976  CE1 TYR   40    E   <-->  7980  CG2 THR  115    F      3.86
+  3.   5978  CZ  TYR   40    E   <-->  7979  OG1 THR  115    F      3.23
+  4.   5979  OH  TYR   40    E   <-->  7975  CA  THR  115    F      3.73
+  5.   5979  OH  TYR   40    E   <-->  7978  CB  THR  115    F      3.44
+  6.   5979  OH  TYR   40    E   <-->  7979  OG1 THR  115    F      2.24
+  7.   6003  CE2 TYR   42    E   <-->  7984  O   GLN  116    F      3.61
+  8.   6004  CZ  TYR   42    E   <-->  7984  O   GLN  116    F      3.58
+  9.   6005  OH  TYR   42    E   <-->  7981  N   GLN  116    F      3.60
+ 10.   6005  OH  TYR   42    E   <-->  7983  C   GLN  116    F      3.65
+ 11.   6005  OH  TYR   42    E   <-->  7984  O   GLN  116    F      2.69
+ 12.   6023  CD  GLN   44    E   <-->  7491  OE1 GLN   44    F      3.80
+ 13.   6023  CD  GLN   44    E   <-->  7492  NE2 GLN   44    F      3.87
+ 14.   6024  OE1 GLN   44    E   <-->  7490  CD  GLN   44    F      3.74
+ 15.   6024  OE1 GLN   44    E   <-->  7491  OE1 GLN   44    F      3.61
+ 16.   6024  OE1 GLN   44    E   <-->  7492  NE2 GLN   44    F      3.01
+ 17.   6025  NE2 GLN   44    E   <-->  7491  OE1 GLN   44    F      3.18
+ 18.   6040  ND1 HIS   46    E   <-->  8542  CB  PRO  187    F      3.79
+ 19.   6041  CD2 HIS   46    E   <-->  8542  CB  PRO  187    F      3.66
+ 20.   6042  CE1 HIS   46    E   <-->  8542  CB  PRO  187    F      3.18
+ 21.   6042  CE1 HIS   46    E   <-->  8543  CG  PRO  187    F      3.73
+ 22.   6043  NE2 HIS   46    E   <-->  8542  CB  PRO  187    F      3.07
+ 23.   6043  NE2 HIS   46    E   <-->  8543  CG  PRO  187    F      3.80
+ 24.   6059  N   GLY   49    E   <-->  8020  O   PRO  120    F      3.66
+ 25.   6060  CA  GLY   49    E   <-->  7902  CD2 LEU  103    F      3.84
+ 26.   6060  CA  GLY   49    E   <-->  8016  O   GLY  119    F      3.47
+ 27.   6066  O   PRO   50    E   <-->  8006  CB  PHE  118    F      3.30
+ 28.   6066  O   PRO   50    E   <-->  8007  CG  PHE  118    F      3.89
+ 29.   6066  O   PRO   50    E   <-->  8008  CD1 PHE  118    F      3.79
+ 30.   6067  CB  PRO   50    E   <-->  8008  CD1 PHE  118    F      3.70
+ 31.   6069  CD  PRO   50    E   <-->  7901  CD1 LEU  103    F      3.86
+ 32.   6069  CD  PRO   50    E   <-->  8007  CG  PHE  118    F      3.85
+ 33.   6086  CD2 TYR   52    E   <-->  7999  CE2 TYR  117    F      3.81
+ 34.   6470  CB  LEU  116    E   <-->  7472  OH  TYR   42    F      3.45
+ 35.   6473  CD2 LEU  116    E   <-->  8010  CE1 PHE  118    F      3.73
+ 36.   6473  CD2 LEU  116    E   <-->  8012  CZ  PHE  118    F      3.63
+ 37.   6615  CG  ASP  134    E   <-->  8255  CD2 HIS  150    F      3.75
+ 38.   6615  CG  ASP  134    E   <-->  8257  NE2 HIS  150    F      3.12
+ 39.   6616  OD1 ASP  134    E   <-->  8255  CD2 HIS  150    F      3.81
+ 40.   6616  OD1 ASP  134    E   <-->  8256  CE1 HIS  150    F      3.73
+ 41.   6616  OD1 ASP  134    E   <-->  8257  NE2 HIS  150    F      2.83
+ 42.   6617  OD2 ASP  134    E   <-->  8255  CD2 HIS  150    F      3.59
+ 43.   6617  OD2 ASP  134    E   <-->  8257  NE2 HIS  150    F      3.10
+ 44.   6641  CB  TYR  138    E   <-->  8209  CB  SER  144    F      3.83
+ 45.   6641  CB  TYR  138    E   <-->  8210  OG  SER  144    F      3.75
+ 46.   6643  CD1 TYR  138    E   <-->  8210  OG  SER  144    F      3.89
+ 47.   6643  CD1 TYR  138    E   <-->  8224  CB  ALA  146    F      3.74
+ 48.   6643  CD1 TYR  138    E   <-->  8225  N   GLU  147    F      3.83
+ 49.   6644  CD2 TYR  138    E   <-->  8229  CB  GLU  147    F      3.83
+ 50.   6644  CD2 TYR  138    E   <-->  8230  CG  GLU  147    F      3.76
+ 51.   6645  CE1 TYR  138    E   <-->  8222  C   ALA  146    F      3.55
+ 52.   6645  CE1 TYR  138    E   <-->  8223  O   ALA  146    F      3.49
+ 53.   6645  CE1 TYR  138    E   <-->  8224  CB  ALA  146    F      3.87
+ 54.   6645  CE1 TYR  138    E   <-->  8225  N   GLU  147    F      3.62
+ 55.   6645  CE1 TYR  138    E   <-->  8226  CA  GLU  147    F      3.74
+ 56.   6646  CE2 TYR  138    E   <-->  8229  CB  GLU  147    F      3.80
+ 57.   6646  CE2 TYR  138    E   <-->  8230  CG  GLU  147    F      3.53
+ 58.   6647  CZ  TYR  138    E   <-->  8226  CA  GLU  147    F      3.63
+ 59.   6648  OH  TYR  138    E   <-->  8252  CB  HIS  150    F      3.71
+ 60.   6648  OH  TYR  138    E   <-->  8253  CG  HIS  150    F      3.82
+ 61.   6648  OH  TYR  138    E   <-->  8255  CD2 HIS  150    F      3.40
+ 62.   6652  O   GLN  139    E   <-->  8209  CB  SER  144    F      3.53
+ 63.   6659  CA  LEU  140    E   <-->  8192  O   GLU  142    F      3.66
+ 64.   6661  O   LEU  140    E   <-->  8185  CD2 PHE  141    F      3.86
+ 65.   6662  CB  LEU  140    E   <-->  8192  O   GLU  142    F      3.24
+ 66.   6664  CD1 LEU  140    E   <-->  8309  CG2 VAL  157    F      3.72
+ 67.   6665  CD2 LEU  140    E   <-->  8199  CA  PRO  143    F      3.81
+ 68.   6665  CD2 LEU  140    E   <-->  8205  N   SER  144    F      3.43
+ 69.   6665  CD2 LEU  140    E   <-->  8209  CB  SER  144    F      3.81
+ 70.   6665  CD2 LEU  140    E   <-->  8291  O   THR  155    F      3.62
+ 71.   6666  N   ARG  141    E   <-->  8192  O   GLU  142    F      3.81
+ 72.   6669  O   ARG  141    E   <-->  8179  CA  PHE  141    F      3.72
+ 73.   6669  O   ARG  141    E   <-->  8180  C   PHE  141    F      3.73
+ 74.   6669  O   ARG  141    E   <-->  8189  N   GLU  142    F      3.15
+ 75.   6669  O   ARG  141    E   <-->  8192  O   GLU  142    F      3.53
+ 76.   6672  CA  ASP  142    E   <-->  8185  CD2 PHE  141    F      3.68
+ 77.   6677  OD1 ASP  142    E   <-->  8174  O   VAL  140    F      3.54
+ 78.   6679  N   SER  143    E   <-->  8174  O   VAL  140    F      3.34
+ 79.   6680  CA  SER  143    E   <-->  8194  CG  GLU  142    F      3.85
+ 80.   6680  CA  SER  143    E   <-->  8195  CD  GLU  142    F      3.78
+ 81.   6680  CA  SER  143    E   <-->  8196  OE1 GLU  142    F      3.76
+ 82.   6683  CB  SER  143    E   <-->  8174  O   VAL  140    F      3.31
+ 83.   6683  CB  SER  143    E   <-->  8176  CG1 VAL  140    F      3.78
+ 84.   6683  CB  SER  143    E   <-->  8194  CG  GLU  142    F      3.82
+ 85.   6695  O   LYS  148    E   <-->  8187  CE2 PHE  141    F      3.27
+ 86.   6695  O   LYS  148    E   <-->  8188  CZ  PHE  141    F      3.36
+ 87.   6707  CG1 VAL  150    E   <-->  8322  CD1 LEU  159    F      3.83
+ 88.   6708  CG2 VAL  150    E   <-->  8182  CB  PHE  141    F      3.80
+ 89.   6708  CG2 VAL  150    E   <-->  8183  CG  PHE  141    F      3.70
+ 90.   6722  CD2 LEU  152    E   <-->  8292  CB  THR  155    F      3.85
+ 91.   6722  CD2 LEU  152    E   <-->  8294  CG2 THR  155    F      3.83
+ 92.   6739  OG1 THR  154    E   <-->  8711  NH1 ARG  208    F      3.90
+ 93.   6746  CG  ASP  155    E   <-->  8711  NH1 ARG  208    F      3.82
+ 94.   6746  CG  ASP  155    E   <-->  8712  NH2 ARG  208    F      3.46
+ 95.   6747  OD1 ASP  155    E   <-->  8710  CZ  ARG  208    F      3.25
+ 96.   6747  OD1 ASP  155    E   <-->  8711  NH1 ARG  208    F      2.70
+ 97.   6747  OD1 ASP  155    E   <-->  8712  NH2 ARG  208    F      2.97
+ 98.   6748  OD2 ASP  155    E   <-->  8712  NH2 ARG  208    F      3.22
+ 99.   6866  CD1 TYR  171    E   <-->  8567  CD1 LEU  190    F      3.83
+100.   6868  CE1 TYR  171    E   <-->  8579  CA  GLU  192    F      3.74
+101.   6868  CE1 TYR  171    E   <-->  8580  C   GLU  192    F      3.82
+102.   6868  CE1 TYR  171    E   <-->  8581  O   GLU  192    F      3.13
+103.   6870  CZ  TYR  171    E   <-->  8581  O   GLU  192    F      3.37
+104.   6871  OH  TYR  171    E   <-->  8580  C   GLU  192    F      3.67
+105.   6871  OH  TYR  171    E   <-->  8581  O   GLU  192    F      2.77
+106.   6884  CB  THR  173    E   <-->  8536  OD1 ASP  186    F      3.52
+107.   6884  CB  THR  173    E   <-->  8537  OD2 ASP  186    F      3.81
+108.   6885  OG1 THR  173    E   <-->  8536  OD1 ASP  186    F      3.65
+109.   6885  OG1 THR  173    E   <-->  8676  OG  SER  204    F      3.79
+110.   6886  CG2 THR  173    E   <-->  8536  OD1 ASP  186    F      3.88
+111.   6886  CG2 THR  173    E   <-->  8537  OD2 ASP  186    F      3.30
+112.   6886  CG2 THR  173    E   <-->  8676  OG  SER  204    F      3.38
+113.   6905  CA  CYS  176    E   <-->  8522  SG  CYS  184    F      3.87
+114.   6906  C   CYS  176    E   <-->  8522  SG  CYS  184    F      3.60
+115.   6908  CB  CYS  176    E   <-->  8522  SG  CYS  184    F      3.02
+116.   6909  SG  CYS  176    E   <-->  8520  O   CYS  184    F      3.81
+117.   6909  SG  CYS  176    E   <-->  8521  CB  CYS  184    F      3.05
+118.   6909  SG  CYS  176    E   <-->  8522  SG  CYS  184    F      2.03
+119.   6909  SG  CYS  176    E   <-->  8691  CZ  ARG  206    F      3.57
+120.   6909  SG  CYS  176    E   <-->  8692  NH1 ARG  206    F      3.24
+121.   6910  N   VAL  177    E   <-->  8522  SG  CYS  184    F      3.75
+122.   6912  C   VAL  177    E   <-->  8522  SG  CYS  184    F      3.78
+123.   6913  O   VAL  177    E   <-->  8521  CB  CYS  184    F      3.81
+124.   6913  O   VAL  177    E   <-->  8522  SG  CYS  184    F      3.32
+125.   6923  CD1 LEU  178    E   <-->  8507  CA  GLY  182    F      3.63
+126.   6923  CD1 LEU  178    E   <-->  8706  CB  ARG  208    F      3.64
+127.   6924  CD2 LEU  178    E   <-->  8508  C   GLY  182    F      3.31
+128.   6924  CD2 LEU  178    E   <-->  8509  O   GLY  182    F      3.23
+129.   6924  CD2 LEU  178    E   <-->  8510  N   VAL  183    F      3.57
+130.   6924  CD2 LEU  178    E   <-->  8511  CA  VAL  183    F      3.84
+131.   6924  CD2 LEU  178    E   <-->  8512  C   VAL  183    F      3.67
+132.   6924  CD2 LEU  178    E   <-->  8517  N   CYS  184    F      3.85
+133.   6924  CD2 LEU  178    E   <-->  8686  O   ARG  206    F      3.83
+134.   6927  C   ASP  179    E   <-->  8506  N   GLY  182    F      3.60
+135.   6927  C   ASP  179    E   <-->  8507  CA  GLY  182    F      3.90
+136.   6928  O   ASP  179    E   <-->  8501  CA  SER  181    F      3.76
+137.   6928  O   ASP  179    E   <-->  8502  C   SER  181    F      3.65
+138.   6928  O   ASP  179    E   <-->  8505  OG  SER  181    F      3.63
+139.   6928  O   ASP  179    E   <-->  8506  N   GLY  182    F      2.70
+140.   6928  O   ASP  179    E   <-->  8507  CA  GLY  182    F      3.40
+141.   6934  CA  MET  180    E   <-->  8505  OG  SER  181    F      3.86
+142.   6938  CG  MET  180    E   <-->  8507  CA  GLY  182    F      3.80
+143.   6938  CG  MET  180    E   <-->  8705  O   ARG  208    F      3.84
+144.   6939  SD  MET  180    E   <-->  8704  C   ARG  208    F      3.82
+145.   6939  SD  MET  180    E   <-->  8705  O   ARG  208    F      3.57
+146.   6939  SD  MET  180    E   <-->  8706  CB  ARG  208    F      3.84
+147.   6940  CE  MET  180    E   <-->  8280  CD  LYS  153    F      3.80
+148.   6940  CE  MET  180    E   <-->  8281  CE  LYS  153    F      3.86
+149.   6940  CE  MET  180    E   <-->  8707  CG  ARG  208    F      3.89
+150.   6940  CE  MET  180    E   <-->  8708  CD  ARG  208    F      3.69
+151.   6941  N   ARG  181    E   <-->  8505  OG  SER  181    F      3.17
+152.   6945  CB  ARG  181    E   <-->  8505  OG  SER  181    F      3.59
+153.   6949  CZ  ARG  181    E   <-->  8501  CA  SER  181    F      3.88
+154.   6950  NH1 ARG  181    E   <-->  8492  C   HIS  180    F      3.87
+155.   6950  NH1 ARG  181    E   <-->  8494  CB  HIS  180    F      3.86
+156.   6950  NH1 ARG  181    E   <-->  8500  N   SER  181    F      3.69
+157.   6950  NH1 ARG  181    E   <-->  8501  CA  SER  181    F      3.90
+158.   6951  NH2 ARG  181    E   <-->  8492  C   HIS  180    F      3.90
+159.   6951  NH2 ARG  181    E   <-->  8493  O   HIS  180    F      3.44
+160.   6964  SD  MET  183    E   <-->  8281  CE  LYS  153    F      3.66
+161.   6965  CE  MET  183    E   <-->  8724  CB  SER  210    F      3.70
+162.   6979  CG  PHE  185    E   <-->  8282  NZ  LYS  153    F      3.34
+163.   6980  CD1 PHE  185    E   <-->  8282  NZ  LYS  153    F      3.36
+164.   6981  CD2 PHE  185    E   <-->  8282  NZ  LYS  153    F      3.38
+165.   6982  CE1 PHE  185    E   <-->  8282  NZ  LYS  153    F      3.46
+166.   6983  CE2 PHE  185    E   <-->  8282  NZ  LYS  153    F      3.48
+167.   6983  CE2 PHE  185    E   <-->  8711  NH1 ARG  208    F      3.40
+168.   6984  CZ  PHE  185    E   <-->  8282  NZ  LYS  153    F      3.53
+169.   6998  CB  SER  187    E   <-->  8711  NH1 ARG  208    F      3.43
+170.   6999  OG  SER  187    E   <-->  8711  NH1 ARG  208    F      3.28
+171.   7011  O   SER  189    E   <-->  8692  NH1 ARG  206    F      3.13
+172.   7013  OG  SER  189    E   <-->  8689  CD  ARG  206    F      3.36
+173.   7013  OG  SER  189    E   <-->  8692  NH1 ARG  206    F      3.86
+174.   7025  CG2 VAL  191    E   <-->  8689  CD  ARG  206    F      3.82
+175.   7025  CG2 VAL  191    E   <-->  8690  NE  ARG  206    F      3.75
+176.   7025  CG2 VAL  191    E   <-->  8691  CZ  ARG  206    F      3.84
+177.   7036  CG  TRP  193    E   <-->  8322  CD1 LEU  159    F      3.81
+178.   7038  CD2 TRP  193    E   <-->  8322  CD1 LEU  159    F      3.81
+179.   7042  CZ2 TRP  193    E   <-->  8323  CD2 LEU  159    F      3.80
+180.   7042  CZ2 TRP  193    E   <-->  8662  CB  ALA  202    F      3.58
+181.   7044  CH2 TRP  193    E   <-->  8323  CD2 LEU  159    F      3.80
+182.   7213  CG  PRO  217    E   <-->  8224  CB  ALA  146    F      3.70
+
+Disulphide bonds
+----------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   6909  SG  CYS  176    E   <-->  8522  SG  CYS  184    F      2.03
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   6616  OD1 ASP  134    E   <-->  8257  NE2 HIS  150    F      2.83
+  2.   6747  OD1 ASP  155    E   <-->  8712  NH2 ARG  208    F      2.70
+
+Number of salt bridges:            2
+
+Number of disulphide bonds:        1
+
+Number of hydrogen bonds:         14
+
+Number of non-bonded contacts:   182
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains C }{ F
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3394  NE2 GLN   57    C   <-->  7637  OD2 ASP   67    F      3.27
+  2.   3432  OD1 ASN   62    C   <-->  7947  NH2 ARG  109    F      2.62
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3391  CG  GLN   57    C   <-->  7579  OH  TYR   55    F      3.44
+  2.   3392  CD  GLN   57    C   <-->  7579  OH  TYR   55    F      3.79
+  3.   3394  NE2 GLN   57    C   <-->  7576  CE1 TYR   55    F      3.44
+  4.   3394  NE2 GLN   57    C   <-->  7579  OH  TYR   55    F      3.55
+  5.   3394  NE2 GLN   57    C   <-->  7637  OD2 ASP   67    F      3.27
+  6.   3424  OG1 THR   61    C   <-->  7955  CD2 PHE  110    F      3.80
+  7.   3425  CG2 THR   61    C   <-->  7579  OH  TYR   55    F      3.42
+  8.   3425  CG2 THR   61    C   <-->  7953  CG  PHE  110    F      3.89
+  9.   3425  CG2 THR   61    C   <-->  7955  CD2 PHE  110    F      3.51
+ 10.   3426  N   ASN   62    C   <-->  7947  NH2 ARG  109    F      3.87
+ 11.   3427  CA  ASN   62    C   <-->  7947  NH2 ARG  109    F      3.61
+ 12.   3431  CG  ASN   62    C   <-->  7947  NH2 ARG  109    F      3.42
+ 13.   3432  OD1 ASN   62    C   <-->  7945  CZ  ARG  109    F      3.77
+ 14.   3432  OD1 ASN   62    C   <-->  7947  NH2 ARG  109    F      2.62
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    14
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains D }{ F
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4820  OD1 ASP   66    D   <-->  8001  OH  TYR  117    F      2.77
+  2.   4856  NH1 ARG   70    D   <-->  7962  O   THR  111    F      2.48
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4770  CZ  TYR   60    D   <-->  7936  CZ  PHE  108    F      3.85
+  2.   4771  OH  TYR   60    D   <-->  7402  CA  GLY   28    F      3.53
+  3.   4771  OH  TYR   60    D   <-->  7936  CZ  PHE  108    F      3.47
+  4.   4806  CD  GLN   64    D   <-->  7934  CE1 PHE  108    F      3.87
+  5.   4807  OE1 GLN   64    D   <-->  7934  CE1 PHE  108    F      3.25
+  6.   4819  CG  ASP   66    D   <-->  8001  OH  TYR  117    F      3.37
+  7.   4820  OD1 ASP   66    D   <-->  7978  CB  THR  115    F      3.84
+  8.   4820  OD1 ASP   66    D   <-->  8000  CZ  TYR  117    F      3.77
+  9.   4820  OD1 ASP   66    D   <-->  8001  OH  TYR  117    F      2.77
+ 10.   4821  OD2 ASP   66    D   <-->  8001  OH  TYR  117    F      3.21
+ 11.   4829  CD1 ILE   67    D   <-->  7935  CE2 PHE  108    F      3.49
+ 12.   4829  CD1 ILE   67    D   <-->  7936  CZ  PHE  108    F      3.79
+ 13.   4855  CZ  ARG   70    D   <-->  7962  O   THR  111    F      3.35
+ 14.   4856  NH1 ARG   70    D   <-->  7961  C   THR  111    F      3.45
+ 15.   4856  NH1 ARG   70    D   <-->  7962  O   THR  111    F      2.48
+ 16.   4856  NH1 ARG   70    D   <-->  7967  CA  ASP  114    F      3.62
+ 17.   4856  NH1 ARG   70    D   <-->  7972  OD1 ASP  114    F      3.28
+ 18.   4857  NH2 ARG   70    D   <-->  7962  O   THR  111    F      3.38
+ 19.   4857  NH2 ARG   70    D   <-->  7967  CA  ASP  114    F      3.88
+ 20.   4857  NH2 ARG   70    D   <-->  7974  N   THR  115    F      3.73
+ 21.   4857  NH2 ARG   70    D   <-->  7979  OG1 THR  115    F      3.73
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4856  NH1 ARG   70    D   <-->  7972  OD1 ASP  114    F      3.28
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    21
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains D }{ E
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4846  OE2 GLU   69    D   <-->  6116  NE2 HIS   55    E      2.82
+  2.   4857  NH2 ARG   70    D   <-->  5979  OH  TYR   40    E      2.70
+  3.   4910  NE  ARG   77    D   <-->  5935  O   ASN   36    E      2.81
+  4.   4913  NH2 ARG   77    D   <-->  5935  O   ASN   36    E      3.29
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4844  CD  GLU   69    D   <-->  6115  CE1 HIS   55    E      3.79
+  2.   4844  CD  GLU   69    D   <-->  6116  NE2 HIS   55    E      3.34
+  3.   4845  OE1 GLU   69    D   <-->  5959  CZ  TYR   38    E      3.88
+  4.   4845  OE1 GLU   69    D   <-->  5960  OH  TYR   38    E      3.24
+  5.   4845  OE1 GLU   69    D   <-->  6116  NE2 HIS   55    E      3.46
+  6.   4846  OE2 GLU   69    D   <-->  6115  CE1 HIS   55    E      3.34
+  7.   4846  OE2 GLU   69    D   <-->  6116  NE2 HIS   55    E      2.82
+  8.   4853  CD  ARG   70    D   <-->  5958  CE2 TYR   38    E      3.74
+  9.   4853  CD  ARG   70    D   <-->  5960  OH  TYR   38    E      3.48
+ 10.   4854  NE  ARG   70    D   <-->  5958  CE2 TYR   38    E      3.35
+ 11.   4854  NE  ARG   70    D   <-->  5959  CZ  TYR   38    E      3.85
+ 12.   4854  NE  ARG   70    D   <-->  5960  OH  TYR   38    E      3.78
+ 13.   4855  CZ  ARG   70    D   <-->  5958  CE2 TYR   38    E      3.79
+ 14.   4855  CZ  ARG   70    D   <-->  5979  OH  TYR   40    E      3.89
+ 15.   4857  NH2 ARG   70    D   <-->  5978  CZ  TYR   40    E      3.74
+ 16.   4857  NH2 ARG   70    D   <-->  5979  OH  TYR   40    E      2.70
+ 17.   4882  CB  ALA   73    D   <-->  5960  OH  TYR   38    E      3.43
+ 18.   4906  O   ARG   77    D   <-->  5936  CB  ASN   36    E      3.50
+ 19.   4908  CG  ARG   77    D   <-->  6127  CD1 LEU   57    E      3.76
+ 20.   4909  CD  ARG   77    D   <-->  5935  O   ASN   36    E      3.85
+ 21.   4909  CD  ARG   77    D   <-->  5958  CE2 TYR   38    E      3.69
+ 22.   4909  CD  ARG   77    D   <-->  5959  CZ  TYR   38    E      3.67
+ 23.   4909  CD  ARG   77    D   <-->  5960  OH  TYR   38    E      3.69
+ 24.   4909  CD  ARG   77    D   <-->  6127  CD1 LEU   57    E      3.86
+ 25.   4910  NE  ARG   77    D   <-->  5934  C   ASN   36    E      3.78
+ 26.   4910  NE  ARG   77    D   <-->  5935  O   ASN   36    E      2.81
+ 27.   4910  NE  ARG   77    D   <-->  5958  CE2 TYR   38    E      3.67
+ 28.   4911  CZ  ARG   77    D   <-->  5935  O   ASN   36    E      3.48
+ 29.   4911  CZ  ARG   77    D   <-->  5958  CE2 TYR   38    E      3.55
+ 30.   4912  NH1 ARG   77    D   <-->  5958  CE2 TYR   38    E      3.40
+ 31.   4913  NH2 ARG   77    D   <-->  5935  O   ASN   36    E      3.29
+ 32.   4913  NH2 ARG   77    D   <-->  6444  O   GLY  108    E      3.53
+ 33.   4944  ND1 HIS   81    D   <-->  5932  N   ASN   36    E      3.48
+ 34.   4944  ND1 HIS   81    D   <-->  5936  CB  ASN   36    E      3.87
+ 35.   4944  ND1 HIS   81    D   <-->  5938  OD1 ASN   36    E      3.77
+ 36.   4946  CE1 HIS   81    D   <-->  5937  CG  ASN   36    E      3.86
+ 37.   4946  CE1 HIS   81    D   <-->  5938  OD1 ASN   36    E      3.25
+ 38.   4947  NE2 HIS   81    D   <-->  5938  OD1 ASN   36    E      3.65
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4846  OE2 GLU   69    D   <-->  6116  NE2 HIS   55    E      2.82
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    38
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ozg   Chains C }{ E
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3376  CG  ASP   55    C   <-->  6453  CB  ALA  113    E      3.85
+  2.   3378  OD2 ASP   55    C   <-->  6453  CB  ALA  113    E      3.42
+  3.   3393  OE1 GLN   57    C   <-->  6452  O   ALA  113    E      2.96
+  4.   3393  OE1 GLN   57    C   <-->  6453  CB  ALA  113    E      3.62
+  5.   3404  CE2 PHE   58    C   <-->  6446  CA  GLY  109    E      3.78
+  6.   3404  CE2 PHE   58    C   <-->  6447  C   GLY  109    E      3.78
+  7.   3404  CE2 PHE   58    C   <-->  6449  N   ALA  113    E      3.73
+  8.   3405  CZ  PHE   58    C   <-->  6446  CA  GLY  109    E      3.67
+  9.   3405  CZ  PHE   58    C   <-->  6447  C   GLY  109    E      3.47
+ 10.   3405  CZ  PHE   58    C   <-->  6448  O   GLY  109    E      3.75
+ 11.   3405  CZ  PHE   58    C   <-->  6449  N   ALA  113    E      3.77
+
+Number of non-bonded contacts:    11
+
+
+
+

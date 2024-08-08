@@ -1,0 +1,118 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 3bk3   Chains B }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1195  OD1 ASN   59    B   <-->  1643  N   THR    3    C      3.15
+  2.   1196  ND2 ASN   59    B   <-->  1646  O   THR    3    C      3.22
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1190  CA  ASN   59    B   <-->  1642  CD1 ILE    2    C      3.69
+  2.   1192  O   ASN   59    B   <-->  1642  CD1 ILE    2    C      3.51
+  3.   1193  CB  ASN   59    B   <-->  1642  CD1 ILE    2    C      3.83
+  4.   1194  CG  ASN   59    B   <-->  1642  CD1 ILE    2    C      3.72
+  5.   1195  OD1 ASN   59    B   <-->  1641  CG2 ILE    2    C      3.79
+  6.   1195  OD1 ASN   59    B   <-->  1642  CD1 ILE    2    C      3.10
+  7.   1195  OD1 ASN   59    B   <-->  1643  N   THR    3    C      3.15
+  8.   1196  ND2 ASN   59    B   <-->  1646  O   THR    3    C      3.22
+  9.   1216  CB  ILE   62    B   <-->  1642  CD1 ILE    2    C      3.75
+ 10.   1218  CG2 ILE   62    B   <-->  1642  CD1 ILE    2    C      3.85
+ 11.   1219  CD1 ILE   62    B   <-->  1630  O   LEU    1    C      3.44
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    11
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 3bk3   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    690  O   LEU  100    A   <-->  1670  N   ALA    7    C      2.94
+  2.    704  N   ASN  102    A   <-->  1657  O   THR    5    C      2.80
+  3.    707  O   ASN  102    A   <-->  1654  N   THR    5    C      3.22
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    140  NE1 TRP   28    A   <-->  1634  CD2 LEU    1    C      3.65
+  2.    145  CH2 TRP   28    A   <-->  1640  CG1 ILE    2    C      3.58
+  3.    169  CD2 TRP   31    A   <-->  1621  NE1 TRP   -1    C      3.58
+  4.    170  NE1 TRP   31    A   <-->  1621  NE1 TRP   -1    C      3.71
+  5.    170  NE1 TRP   31    A   <-->  1624  CZ2 TRP   -1    C      3.53
+  6.    171  CE2 TRP   31    A   <-->  1621  NE1 TRP   -1    C      3.23
+  7.    173  CZ2 TRP   31    A   <-->  1621  NE1 TRP   -1    C      3.29
+  8.    175  CH2 TRP   31    A   <-->  1621  NE1 TRP   -1    C      3.63
+  9.    193  C   ALA   34    A   <-->  1781  CD1 ILE   21    C      3.75
+ 10.    194  O   ALA   34    A   <-->  1781  CD1 ILE   21    C      3.47
+ 11.    195  CB  ALA   34    A   <-->  1825  CD1 ILE   27    C      3.69
+ 12.    595  O   SER   88    A   <-->  1781  CD1 ILE   21    C      3.69
+ 13.    613  CD2 LEU   90    A   <-->  1824  CG2 ILE   27    C      3.84
+ 14.    678  CG1 VAL   98    A   <-->  1902  O   CYS   38    C      3.78
+ 15.    686  CG2 VAL   99    A   <-->  1668  OE1 GLU    6    C      3.57
+ 16.    690  O   LEU  100    A   <-->  1662  CA  GLU    6    C      3.38
+ 17.    690  O   LEU  100    A   <-->  1663  C   GLU    6    C      3.67
+ 18.    690  O   LEU  100    A   <-->  1665  CB  GLU    6    C      3.52
+ 19.    690  O   LEU  100    A   <-->  1670  N   ALA    7    C      2.94
+ 20.    690  O   LEU  100    A   <-->  1674  CB  ALA    7    C      3.80
+ 21.    694  CD2 LEU  100    A   <-->  1889  CB  ALA   36    C      3.80
+ 22.    696  CA  LYS  101    A   <-->  1657  O   THR    5    C      3.19
+ 23.    697  C   LYS  101    A   <-->  1657  O   THR    5    C      3.47
+ 24.    699  CB  LYS  101    A   <-->  1656  C   THR    5    C      3.87
+ 25.    699  CB  LYS  101    A   <-->  1657  O   THR    5    C      3.40
+ 26.    702  CE  LYS  101    A   <-->  1652  C   GLY    4    C      3.59
+ 27.    702  CE  LYS  101    A   <-->  1653  O   GLY    4    C      3.42
+ 28.    704  N   ASN  102    A   <-->  1657  O   THR    5    C      2.80
+ 29.    705  CA  ASN  102    A   <-->  1657  O   THR    5    C      3.87
+ 30.    707  O   ASN  102    A   <-->  1651  CA  GLY    4    C      3.66
+ 31.    707  O   ASN  102    A   <-->  1654  N   THR    5    C      3.22
+ 32.    707  O   ASN  102    A   <-->  1657  O   THR    5    C      3.65
+ 33.    710  OD1 ASN  102    A   <-->  1674  CB  ALA    7    C      3.90
+ 34.    711  ND2 ASN  102    A   <-->  1671  CA  ALA    7    C      3.72
+ 35.    711  ND2 ASN  102    A   <-->  1674  CB  ALA    7    C      3.73
+ 36.    719  CD2 TYR  103    A   <-->  1641  CG2 ILE    2    C      3.10
+ 37.    719  CD2 TYR  103    A   <-->  1645  C   THR    3    C      3.50
+ 38.    719  CD2 TYR  103    A   <-->  1646  O   THR    3    C      3.13
+ 39.    719  CD2 TYR  103    A   <-->  1650  N   GLY    4    C      3.85
+ 40.    719  CD2 TYR  103    A   <-->  1651  CA  GLY    4    C      3.77
+ 41.    721  CE2 TYR  103    A   <-->  1638  O   ILE    2    C      3.81
+ 42.    721  CE2 TYR  103    A   <-->  1641  CG2 ILE    2    C      3.27
+ 43.    721  CE2 TYR  103    A   <-->  1645  C   THR    3    C      3.55
+ 44.    721  CE2 TYR  103    A   <-->  1646  O   THR    3    C      3.66
+ 45.    721  CE2 TYR  103    A   <-->  1650  N   GLY    4    C      3.57
+ 46.    721  CE2 TYR  103    A   <-->  1651  CA  GLY    4    C      3.59
+
+Number of hydrogen bonds:          3
+
+Number of non-bonded contacts:    46
+
+

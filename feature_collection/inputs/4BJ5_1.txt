@@ -1,0 +1,141 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4bj5   Chains A }{ E
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    155  O   LEU   79    A   <-->  6256  NE2 HIS  709    E      3.11
+  2.   2039  NE2 GLN  351    A   <-->  6173  OG1 THR  700    E      2.90
+  3.   2237  O   ALA  375    A   <-->  6558  NH1 ARG  747    E      2.78
+  4.   2237  O   ALA  375    A   <-->  6559  NH2 ARG  747    E      3.27
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    155  O   LEU   79    A   <-->  6254  CD2 HIS  709    E      3.38
+  2.    155  O   LEU   79    A   <-->  6256  NE2 HIS  709    E      3.11
+  3.    159  CD2 LEU   79    A   <-->  6239  O   PHE  708    E      3.81
+  4.    159  CD2 LEU   79    A   <-->  6255  CE1 HIS  709    E      3.50
+  5.    159  CD2 LEU   79    A   <-->  6256  NE2 HIS  709    E      3.78
+  6.   1964  CE1 PHE  342    A   <-->  6255  CE1 HIS  709    E      3.83
+  7.   1964  CE1 PHE  342    A   <-->  6256  NE2 HIS  709    E      3.60
+  8.   1965  CE2 PHE  342    A   <-->  6255  CE1 HIS  709    E      3.81
+  9.   1966  CZ  PHE  342    A   <-->  6253  ND1 HIS  709    E      3.63
+ 10.   1966  CZ  PHE  342    A   <-->  6254  CD2 HIS  709    E      3.76
+ 11.   1966  CZ  PHE  342    A   <-->  6255  CE1 HIS  709    E      3.21
+ 12.   1966  CZ  PHE  342    A   <-->  6256  NE2 HIS  709    E      3.27
+ 13.   1968  CA  ASN  343    A   <-->  6215  CG  PRO  705    E      3.74
+ 14.   1970  O   ASN  343    A   <-->  6215  CG  PRO  705    E      3.83
+ 15.   1971  CB  ASN  343    A   <-->  6215  CG  PRO  705    E      3.57
+ 16.   1972  CG  ASN  343    A   <-->  6215  CG  PRO  705    E      3.68
+ 17.   1973  OD1 ASN  343    A   <-->  6214  CB  PRO  705    E      3.39
+ 18.   1973  OD1 ASN  343    A   <-->  6215  CG  PRO  705    E      3.49
+ 19.   1996  CB  THR  346    A   <-->  6255  CE1 HIS  709    E      3.87
+ 20.   1997  OG1 THR  346    A   <-->  6255  CE1 HIS  709    E      3.10
+ 21.   1998  CG2 THR  346    A   <-->  6213  O   PRO  705    E      3.50
+ 22.   1998  CG2 THR  346    A   <-->  6240  CB  PHE  708    E      3.86
+ 23.   1998  CG2 THR  346    A   <-->  6253  ND1 HIS  709    E      3.78
+ 24.   1998  CG2 THR  346    A   <-->  6255  CE1 HIS  709    E      3.50
+ 25.   2004  CG  GLU  347    A   <-->  6174  CG2 THR  700    E      3.57
+ 26.   2007  OE2 GLU  347    A   <-->  6559  NH2 ARG  747    E      3.63
+ 27.   2029  CG1 VAL  350    A   <-->  6240  CB  PHE  708    E      3.55
+ 28.   2029  CG1 VAL  350    A   <-->  6241  CG  PHE  708    E      3.48
+ 29.   2029  CG1 VAL  350    A   <-->  6242  CD1 PHE  708    E      3.54
+ 30.   2030  CG2 VAL  350    A   <-->  6174  CG2 THR  700    E      3.66
+ 31.   2036  CG  GLN  351    A   <-->  6173  OG1 THR  700    E      3.74
+ 32.   2037  CD  GLN  351    A   <-->  6173  OG1 THR  700    E      3.75
+ 33.   2039  NE2 GLN  351    A   <-->  6172  CB  THR  700    E      3.64
+ 34.   2039  NE2 GLN  351    A   <-->  6173  OG1 THR  700    E      2.90
+ 35.   2039  NE2 GLN  351    A   <-->  6174  CG2 THR  700    E      3.56
+ 36.   2237  O   ALA  375    A   <-->  6557  CZ  ARG  747    E      3.46
+ 37.   2237  O   ALA  375    A   <-->  6558  NH1 ARG  747    E      2.78
+ 38.   2237  O   ALA  375    A   <-->  6559  NH2 ARG  747    E      3.27
+ 39.   2245  CD1 TYR  376    A   <-->  6215  CG  PRO  705    E      3.85
+ 40.   2258  ND2 ASN  377    A   <-->  6519  OD1 ASP  742    E      3.32
+ 41.   2299  OE1 GLN  382    A   <-->  6516  O   ASP  742    E      3.62
+ 42.   2300  NE2 GLN  382    A   <-->  6516  O   ASP  742    E      3.58
+ 43.   2304  O   ARG  383    A   <-->  6223  CD1 LEU  706    E      3.52
+ 44.   2313  CA  LEU  384    A   <-->  6223  CD1 LEU  706    E      3.82
+ 45.   2319  CD2 LEU  384    A   <-->  6251  CB  HIS  709    E      3.90
+ 46.   2324  CB  PRO  385    A   <-->  6250  O   HIS  709    E      3.61
+ 47.   2324  CB  PRO  385    A   <-->  6263  CD1 PHE  710    E      3.84
+ 48.   2324  CB  PRO  385    A   <-->  6303  OE1 GLN  715    E      3.74
+ 49.   2325  CG  PRO  385    A   <-->  6249  C   HIS  709    E      3.80
+ 50.   2325  CG  PRO  385    A   <-->  6250  O   HIS  709    E      3.64
+ 51.   2325  CG  PRO  385    A   <-->  6263  CD1 PHE  710    E      3.86
+ 52.   2326  CD  PRO  385    A   <-->  6223  CD1 LEU  706    E      3.59
+ 53.   2330  O   LEU  386    A   <-->  6303  OE1 GLN  715    E      3.60
+ 54.   2330  O   LEU  386    A   <-->  6304  NE2 GLN  715    E      3.55
+ 55.   2344  CB  LEU  388    A   <-->  6304  NE2 GLN  715    E      3.54
+ 56.   2345  CG  LEU  388    A   <-->  6304  NE2 GLN  715    E      3.66
+ 57.   2347  CD2 LEU  388    A   <-->  6269  CA  GLY  711    E      3.80
+ 58.   2347  CD2 LEU  388    A   <-->  6304  NE2 GLN  715    E      3.42
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2007  OE2 GLU  347    A   <-->  6559  NH2 ARG  747    E      3.63
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    58
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4bj5   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    443  NZ  LYS  115    A   <-->  3296  O   LEU  218    B      3.49
+  2.    443  NZ  LYS  115    A   <-->  3313  CG2 THR  220    B      3.58
+  3.    976  NZ  LYS  217    A   <-->  3291  CE  LYS  217    B      3.37
+  4.    984  CD2 LEU  218    A   <-->  3781  CG2 ILE  281    B      3.86
+  5.   1281  CG2 VAL  256    A   <-->  3595  CB  VAL  256    B      3.88
+  6.   1281  CG2 VAL  256    A   <-->  3597  CG2 VAL  256    B      3.80
+  7.   1465  CG2 ILE  281    A   <-->  3299  CD1 LEU  218    B      3.82
+  8.   1856  CE1 PHE  330    A   <-->  4162  CD1 PHE  330    B      3.85
+  9.   1856  CE1 PHE  330    A   <-->  4164  CE1 PHE  330    B      3.57
+ 10.   1856  CE1 PHE  330    A   <-->  4199  CE1 PHE  334    B      3.47
+ 11.   1879  O   VAL  333    A   <-->  4187  O   VAL  333    B      3.87
+ 12.   1879  O   VAL  333    A   <-->  4208  CD  PRO  335    B      3.32
+ 13.   1881  CG1 VAL  333    A   <-->  4531  CG  HIS  373    B      3.83
+ 14.   1881  CG1 VAL  333    A   <-->  4532  ND1 HIS  373    B      3.63
+ 15.   1882  CG2 VAL  333    A   <-->  4197  CD1 PHE  334    B      3.55
+ 16.   1882  CG2 VAL  333    A   <-->  4199  CE1 PHE  334    B      3.54
+ 17.   1891  CE1 PHE  334    A   <-->  4189  CG1 VAL  333    B      3.75
+ 18.   1900  CD  PRO  335    A   <-->  4187  O   VAL  333    B      3.69
+ 19.   2184  CG2 ILE  368    A   <-->  4164  CE1 PHE  330    B      3.88
+ 20.   2184  CG2 ILE  368    A   <-->  4166  CZ  PHE  330    B      3.68
+ 21.   2225  CD2 HIS  373    A   <-->  4189  CG1 VAL  333    B      3.82
+ 22.   2227  NE2 HIS  373    A   <-->  4189  CG1 VAL  333    B      3.67
+
+Number of non-bonded contacts:    22
+

@@ -1,0 +1,134 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 5e6p   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3684  OD2 ASP 1807    A   <-->  4240  NH1 ARG   88    B      3.24
+  2.   3852  NE2 GLN 1829    A   <-->  4471  O   LEU  120    B      2.99
+  3.   3883  O   ALA 1834    A   <-->  4139  NE2 GLN   70    B      2.94
+  4.   3913  O   LYS 1838    A   <-->  4084  N   GLY   63    B      3.30
+  5.   3926  N   THR 1840    A   <-->  4074  O   VAL   61    B      2.92
+  6.   3929  O   THR 1840    A   <-->  4071  N   VAL   61    B      2.95
+  7.   3931  OG1 THR 1840    A   <-->  4344  NE2 HIS  102    B      2.77
+  8.   3931  OG1 THR 1840    A   <-->  4344  NE2 HIS  102    B      2.77
+  9.   3938  N   LEU 1842    A   <-->  4056  O   PHE   59    B      3.02
+ 10.   3941  O   LEU 1842    A   <-->  4038  N   PHE   57    B      2.98
+ 11.   3946  OXT LEU 1842    A   <-->  4049  N   GLY   58    B      3.18
+ 12.   3946  OXT LEU 1842    A   <-->  4053  N   PHE   59    B      3.29
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3643  NE2 GLN 1803    A   <-->  4106  CG1 ILE   66    B      3.78
+  2.   3643  NE2 GLN 1803    A   <-->  4108  CD1 ILE   66    B      3.33
+  3.   3669  CB  TYR 1806    A   <-->  4108  CD1 ILE   66    B      3.83
+  4.   3670  CG  TYR 1806    A   <-->  4108  CD1 ILE   66    B      3.77
+  5.   3672  CD2 TYR 1806    A   <-->  4240  NH1 ARG   88    B      3.62
+  6.   3674  CE2 TYR 1806    A   <-->  4240  NH1 ARG   88    B      3.77
+  7.   3682  CG  ASP 1807    A   <-->  4240  NH1 ARG   88    B      3.69
+  8.   3683  OD1 ASP 1807    A   <-->  4240  NH1 ARG   88    B      3.55
+  9.   3684  OD2 ASP 1807    A   <-->  4240  NH1 ARG   88    B      3.24
+ 10.   3849  CG  GLN 1829    A   <-->  4222  O   GLY   86    B      3.78
+ 11.   3850  CD  GLN 1829    A   <-->  4222  O   GLY   86    B      3.15
+ 12.   3850  CD  GLN 1829    A   <-->  4471  O   LEU  120    B      3.82
+ 13.   3851  OE1 GLN 1829    A   <-->  4222  O   GLY   86    B      3.77
+ 14.   3852  NE2 GLN 1829    A   <-->  4221  C   GLY   86    B      3.35
+ 15.   3852  NE2 GLN 1829    A   <-->  4222  O   GLY   86    B      2.59
+ 16.   3852  NE2 GLN 1829    A   <-->  4223  N   ASP   87    B      3.67
+ 17.   3852  NE2 GLN 1829    A   <-->  4224  CA  ASP   87    B      3.29
+ 18.   3852  NE2 GLN 1829    A   <-->  4225  C   ASP   87    B      3.79
+ 19.   3852  NE2 GLN 1829    A   <-->  4229  OD1 ASP   87    B      3.63
+ 20.   3852  NE2 GLN 1829    A   <-->  4231  N   ARG   88    B      3.43
+ 21.   3852  NE2 GLN 1829    A   <-->  4471  O   LEU  120    B      2.99
+ 22.   3861  NE2 GLN 1830    A   <-->  4217  O   GLU   85    B      3.56
+ 23.   3876  CA  ALA 1833    A   <-->  4122  CD1 LEU   68    B      3.42
+ 24.   3878  O   ALA 1833    A   <-->  4083  OG  SER   62    B      3.50
+ 25.   3878  O   ALA 1833    A   <-->  4135  CB  GLN   70    B      3.87
+ 26.   3878  O   ALA 1833    A   <-->  4136  CG  GLN   70    B      3.51
+ 27.   3878  O   ALA 1833    A   <-->  4139  NE2 GLN   70    B      3.68
+ 28.   3879  CB  ALA 1833    A   <-->  4127  O   VAL   69    B      3.27
+ 29.   3879  CB  ALA 1833    A   <-->  4220  CA  GLY   86    B      3.69
+ 30.   3882  C   ALA 1834    A   <-->  4139  NE2 GLN   70    B      3.78
+ 31.   3883  O   ALA 1834    A   <-->  4139  NE2 GLN   70    B      2.94
+ 32.   3897  CB  GLU 1836    A   <-->  4082  CB  SER   62    B      3.47
+ 33.   3897  CB  GLU 1836    A   <-->  4083  OG  SER   62    B      3.40
+ 34.   3897  CB  GLU 1836    A   <-->  4084  N   GLY   63    B      3.80
+ 35.   3898  CG  GLU 1836    A   <-->  4083  OG  SER   62    B      3.53
+ 36.   3898  CG  GLU 1836    A   <-->  4084  N   GLY   63    B      3.88
+ 37.   3900  OE1 GLU 1836    A   <-->  4085  CA  GLY   63    B      3.38
+ 38.   3913  O   LYS 1838    A   <-->  4079  CA  SER   62    B      3.43
+ 39.   3913  O   LYS 1838    A   <-->  4080  C   SER   62    B      3.85
+ 40.   3913  O   LYS 1838    A   <-->  4082  CB  SER   62    B      3.74
+ 41.   3913  O   LYS 1838    A   <-->  4084  N   GLY   63    B      3.30
+ 42.   3913  O   LYS 1838    A   <-->  4343  CE1 HIS  102    B      3.68
+ 43.   3920  CA  VAL 1839    A   <-->  4074  O   VAL   61    B      3.65
+ 44.   3921  C   VAL 1839    A   <-->  4074  O   VAL   61    B      3.73
+ 45.   3924  CG1 VAL 1839    A   <-->  4070  CG2 THR   60    B      3.50
+ 46.   3924  CG1 VAL 1839    A   <-->  4138  OE1 GLN   70    B      3.65
+ 47.   3926  N   THR 1840    A   <-->  4074  O   VAL   61    B      2.92
+ 48.   3927  CA  THR 1840    A   <-->  4074  O   VAL   61    B      3.83
+ 49.   3928  C   THR 1840    A   <-->  4070  CG2 THR   60    B      3.86
+ 50.   3929  O   THR 1840    A   <-->  4065  CA  THR   60    B      3.52
+ 51.   3929  O   THR 1840    A   <-->  4066  C   THR   60    B      3.64
+ 52.   3929  O   THR 1840    A   <-->  4068  CB  THR   60    B      3.82
+ 53.   3929  O   THR 1840    A   <-->  4070  CG2 THR   60    B      3.21
+ 54.   3929  O   THR 1840    A   <-->  4071  N   VAL   61    B      2.95
+ 55.   3929  O   THR 1840    A   <-->  4072  CA  VAL   61    B      3.85
+ 56.   3929  O   THR 1840    A   <-->  4074  O   VAL   61    B      3.35
+ 57.   3930  CB  THR 1840    A   <-->  4344  NE2 HIS  102    B      3.50
+ 58.   3931  OG1 THR 1840    A   <-->  4342  CD2 HIS  102    B      3.68
+ 59.   3931  OG1 THR 1840    A   <-->  4343  CE1 HIS  102    B      3.75
+ 60.   3931  OG1 THR 1840    A   <-->  4344  NE2 HIS  102    B      2.77
+ 61.   3932  CG2 THR 1840    A   <-->  4374  CG1 VAL  106    B      3.87
+ 62.   3934  CA  ASP 1841    A   <-->  4069  OG1 THR   60    B      3.85
+ 63.   3938  N   LEU 1842    A   <-->  4056  O   PHE   59    B      3.02
+ 64.   3939  CA  LEU 1842    A   <-->  4056  O   PHE   59    B      3.67
+ 65.   3940  C   LEU 1842    A   <-->  4038  N   PHE   57    B      3.82
+ 66.   3940  C   LEU 1842    A   <-->  4042  CB  PHE   57    B      3.48
+ 67.   3940  C   LEU 1842    A   <-->  4056  O   PHE   59    B      3.64
+ 68.   3941  O   LEU 1842    A   <-->  4038  N   PHE   57    B      2.98
+ 69.   3941  O   LEU 1842    A   <-->  4039  CA  PHE   57    B      3.63
+ 70.   3941  O   LEU 1842    A   <-->  4042  CB  PHE   57    B      3.16
+ 71.   3941  O   LEU 1842    A   <-->  4043  CG  PHE   57    B      3.76
+ 72.   3941  O   LEU 1842    A   <-->  4045  CD2 PHE   57    B      3.66
+ 73.   3942  CB  LEU 1842    A   <-->  4045  CD2 PHE   57    B      3.89
+ 74.   3944  CD1 LEU 1842    A   <-->  4071  N   VAL   61    B      3.72
+ 75.   3944  CD1 LEU 1842    A   <-->  4075  CB  VAL   61    B      3.63
+ 76.   3945  CD2 LEU 1842    A   <-->  4397  CB  ILE  109    B      3.83
+ 77.   3945  CD2 LEU 1842    A   <-->  4399  CG2 ILE  109    B      3.77
+ 78.   3946  OXT LEU 1842    A   <-->  4038  N   PHE   57    B      3.79
+ 79.   3946  OXT LEU 1842    A   <-->  4042  CB  PHE   57    B      3.40
+ 80.   3946  OXT LEU 1842    A   <-->  4049  N   GLY   58    B      3.18
+ 81.   3946  OXT LEU 1842    A   <-->  4053  N   PHE   59    B      3.29
+ 82.   3946  OXT LEU 1842    A   <-->  4055  C   PHE   59    B      3.84
+ 83.   3946  OXT LEU 1842    A   <-->  4056  O   PHE   59    B      2.84
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3684  OD2 ASP 1807    A   <-->  4240  NH1 ARG   88    B      3.24
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:         12
+
+Number of non-bonded contacts:    83
+

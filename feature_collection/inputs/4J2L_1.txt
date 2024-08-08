@@ -1,0 +1,317 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4j2l   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     90  O   ILE  580    A   <-->  2003  N   PHE   35    C      2.91
+  2.    103  N   GLN  582    A   <-->  2006  O   PHE   35    C      2.53
+  3.    106  O   GLN  582    A   <-->  2021  N   TRP   37    C      2.90
+  4.    905  N   LEU  686    A   <-->  2069  O   PRO   42    C      2.83
+  5.    908  O   LEU  686    A   <-->  2084  N   LEU   44    C      2.89
+  6.    918  OG1 THR  687    A   <-->  2087  O   LEU   44    C      3.08
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     41  CB  TYR  574    A   <-->  2008  CG  PHE   35    C      3.58
+  2.     41  CB  TYR  574    A   <-->  2010  CD2 PHE   35    C      3.53
+  3.     41  CB  TYR  574    A   <-->  2012  CE2 PHE   35    C      3.82
+  4.     42  CG  TYR  574    A   <-->  2058  CD2 LEU   40    C      3.84
+  5.     43  CD1 TYR  574    A   <-->  2009  CD1 PHE   35    C      3.87
+  6.     43  CD1 TYR  574    A   <-->  2011  CE1 PHE   35    C      3.76
+  7.     44  CD2 TYR  574    A   <-->  2058  CD2 LEU   40    C      3.13
+  8.     45  CE1 TYR  574    A   <-->  2050  OG  SER   39    C      3.79
+  9.     46  CE2 TYR  574    A   <-->  2048  O   SER   39    C      3.59
+ 10.     46  CE2 TYR  574    A   <-->  2050  OG  SER   39    C      3.68
+ 11.     46  CE2 TYR  574    A   <-->  2058  CD2 LEU   40    C      3.75
+ 12.     47  CZ  TYR  574    A   <-->  2048  O   SER   39    C      3.88
+ 13.     47  CZ  TYR  574    A   <-->  2050  OG  SER   39    C      3.45
+ 14.     48  OH  TYR  574    A   <-->  2048  O   SER   39    C      3.60
+ 15.     48  OH  TYR  574    A   <-->  2050  OG  SER   39    C      3.68
+ 16.     59  CZ  PHE  575    A   <-->  2054  O   LEU   40    C      3.78
+ 17.     90  O   ILE  580    A   <-->  1997  CA  VAL   34    C      3.69
+ 18.     90  O   ILE  580    A   <-->  1998  C   VAL   34    C      3.75
+ 19.     90  O   ILE  580    A   <-->  2002  CG2 VAL   34    C      3.71
+ 20.     90  O   ILE  580    A   <-->  2003  N   PHE   35    C      2.91
+ 21.     90  O   ILE  580    A   <-->  2004  CA  PHE   35    C      3.79
+ 22.     90  O   ILE  580    A   <-->  2006  O   PHE   35    C      3.77
+ 23.     90  O   ILE  580    A   <-->  2007  CB  PHE   35    C      3.79
+ 24.     91  CB  ILE  580    A   <-->  2002  CG2 VAL   34    C      3.88
+ 25.     93  CG2 ILE  580    A   <-->  2002  CG2 VAL   34    C      3.87
+ 26.     96  CA  ILE  581    A   <-->  2006  O   PHE   35    C      3.05
+ 27.     97  C   ILE  581    A   <-->  2006  O   PHE   35    C      3.26
+ 28.     99  CB  ILE  581    A   <-->  2006  O   PHE   35    C      3.82
+ 29.    100  CG1 ILE  581    A   <-->  2057  CD1 LEU   40    C      3.84
+ 30.    101  CG2 ILE  581    A   <-->  2006  O   PHE   35    C      3.61
+ 31.    101  CG2 ILE  581    A   <-->  2021  N   TRP   37    C      3.46
+ 32.    101  CG2 ILE  581    A   <-->  2022  CA  TRP   37    C      3.31
+ 33.    101  CG2 ILE  581    A   <-->  2025  CB  TRP   37    C      3.68
+ 34.    103  N   GLN  582    A   <-->  2005  C   PHE   35    C      3.73
+ 35.    103  N   GLN  582    A   <-->  2006  O   PHE   35    C      2.53
+ 36.    104  CA  GLN  582    A   <-->  2006  O   PHE   35    C      3.59
+ 37.    106  O   GLN  582    A   <-->  2016  C   PRO   36    C      3.83
+ 38.    106  O   GLN  582    A   <-->  2021  N   TRP   37    C      2.90
+ 39.    106  O   GLN  582    A   <-->  2022  CA  TRP   37    C      3.70
+ 40.    106  O   GLN  582    A   <-->  2025  CB  TRP   37    C      3.45
+ 41.    106  O   GLN  582    A   <-->  2026  CG  TRP   37    C      3.66
+ 42.    106  O   GLN  582    A   <-->  2027  CD1 TRP   37    C      3.21
+ 43.    107  CB  GLN  582    A   <-->  2001  CG1 VAL   34    C      3.63
+ 44.    107  CB  GLN  582    A   <-->  2006  O   PHE   35    C      3.67
+ 45.    110  OE1 GLN  582    A   <-->  2001  CG1 VAL   34    C      3.57
+ 46.    114  C   LEU  583    A   <-->  2027  CD1 TRP   37    C      3.78
+ 47.    115  O   LEU  583    A   <-->  2027  CD1 TRP   37    C      3.79
+ 48.    152  CD1 LEU  588    A   <-->  2002  CG2 VAL   34    C      3.69
+ 49.    202  CD1 LEU  594    A   <-->  2057  CD1 LEU   40    C      3.71
+ 50.    240  O   PHE  599    A   <-->  2033  CZ3 TRP   37    C      3.84
+ 51.    267  C   SER  602    A   <-->  2034  CH2 TRP   37    C      3.59
+ 52.    268  O   SER  602    A   <-->  2032  CZ2 TRP   37    C      3.51
+ 53.    268  O   SER  602    A   <-->  2034  CH2 TRP   37    C      3.46
+ 54.    269  CB  SER  602    A   <-->  2031  CE3 TRP   37    C      3.73
+ 55.    269  CB  SER  602    A   <-->  2033  CZ3 TRP   37    C      3.68
+ 56.    270  OG  SER  602    A   <-->  2026  CG  TRP   37    C      3.68
+ 57.    270  OG  SER  602    A   <-->  2028  CD2 TRP   37    C      3.04
+ 58.    270  OG  SER  602    A   <-->  2029  NE1 TRP   37    C      3.72
+ 59.    270  OG  SER  602    A   <-->  2030  CE2 TRP   37    C      3.10
+ 60.    270  OG  SER  602    A   <-->  2031  CE3 TRP   37    C      3.23
+ 61.    270  OG  SER  602    A   <-->  2032  CZ2 TRP   37    C      3.36
+ 62.    270  OG  SER  602    A   <-->  2033  CZ3 TRP   37    C      3.43
+ 63.    270  OG  SER  602    A   <-->  2034  CH2 TRP   37    C      3.49
+ 64.    271  N   ALA  603    A   <-->  2034  CH2 TRP   37    C      3.72
+ 65.    272  CA  ALA  603    A   <-->  2034  CH2 TRP   37    C      3.76
+ 66.    321  CD1 LEU  609    A   <-->  2039  CB  HIS   38    C      3.72
+ 67.    344  CB  ASP  612    A   <-->  2091  CD2 LEU   44    C      3.61
+ 68.    345  CG  ASP  612    A   <-->  2091  CD2 LEU   44    C      3.90
+ 69.    347  OD2 ASP  612    A   <-->  2091  CD2 LEU   44    C      3.81
+ 70.    509  CG1 VAL  634    A   <-->  2091  CD2 LEU   44    C      3.32
+ 71.    630  OH  TYR  649    A   <-->  2054  O   LEU   40    C      3.89
+ 72.    630  OH  TYR  649    A   <-->  2072  CD  PRO   42    C      3.85
+ 73.    708  CH2 TRP  658    A   <-->  2054  O   LEU   40    C      3.88
+ 74.    893  C   ILE  684    A   <-->  2064  CG1 VAL   41    C      3.56
+ 75.    894  O   ILE  684    A   <-->  2064  CG1 VAL   41    C      3.06
+ 76.    894  O   ILE  684    A   <-->  2065  CG2 VAL   41    C      3.72
+ 77.    894  O   ILE  684    A   <-->  2071  CG  PRO   42    C      3.71
+ 78.    894  O   ILE  684    A   <-->  2072  CD  PRO   42    C      3.57
+ 79.    897  CG2 ILE  684    A   <-->  2064  CG1 VAL   41    C      3.81
+ 80.    897  CG2 ILE  684    A   <-->  2065  CG2 VAL   41    C      3.55
+ 81.    899  N   SER  685    A   <-->  2064  CG1 VAL   41    C      3.64
+ 82.    900  CA  SER  685    A   <-->  2064  CG1 VAL   41    C      3.14
+ 83.    900  CA  SER  685    A   <-->  2069  O   PRO   42    C      3.18
+ 84.    901  C   SER  685    A   <-->  2064  CG1 VAL   41    C      3.55
+ 85.    901  C   SER  685    A   <-->  2069  O   PRO   42    C      3.50
+ 86.    903  CB  SER  685    A   <-->  2069  O   PRO   42    C      3.24
+ 87.    903  CB  SER  685    A   <-->  2091  CD2 LEU   44    C      3.77
+ 88.    904  OG  SER  685    A   <-->  2069  O   PRO   42    C      3.85
+ 89.    904  OG  SER  685    A   <-->  2071  CG  PRO   42    C      3.61
+ 90.    905  N   LEU  686    A   <-->  2064  CG1 VAL   41    C      3.57
+ 91.    905  N   LEU  686    A   <-->  2069  O   PRO   42    C      2.83
+ 92.    907  C   LEU  686    A   <-->  2079  CD1 PHE   43    C      3.64
+ 93.    908  O   LEU  686    A   <-->  2069  O   PRO   42    C      3.75
+ 94.    908  O   LEU  686    A   <-->  2074  CA  PHE   43    C      3.55
+ 95.    908  O   LEU  686    A   <-->  2075  C   PHE   43    C      3.66
+ 96.    908  O   LEU  686    A   <-->  2079  CD1 PHE   43    C      3.74
+ 97.    908  O   LEU  686    A   <-->  2084  N   LEU   44    C      2.89
+ 98.    908  O   LEU  686    A   <-->  2089  CG  LEU   44    C      3.25
+ 99.    908  O   LEU  686    A   <-->  2091  CD2 LEU   44    C      3.61
+100.    909  CB  LEU  686    A   <-->  2079  CD1 PHE   43    C      3.80
+101.    911  CD1 LEU  686    A   <-->  2036  CA  HIS   38    C      3.47
+102.    911  CD1 LEU  686    A   <-->  2038  O   HIS   38    C      3.77
+103.    911  CD1 LEU  686    A   <-->  2039  CB  HIS   38    C      3.23
+104.    913  N   THR  687    A   <-->  2079  CD1 PHE   43    C      3.66
+105.    913  N   THR  687    A   <-->  2081  CE1 PHE   43    C      3.56
+106.    914  CA  THR  687    A   <-->  2079  CD1 PHE   43    C      3.78
+107.    914  CA  THR  687    A   <-->  2081  CE1 PHE   43    C      3.31
+108.    915  C   THR  687    A   <-->  2081  CE1 PHE   43    C      3.60
+109.    917  CB  THR  687    A   <-->  2089  CG  LEU   44    C      3.65
+110.    917  CB  THR  687    A   <-->  2090  CD1 LEU   44    C      3.71
+111.    918  OG1 THR  687    A   <-->  2087  O   LEU   44    C      3.08
+112.    918  OG1 THR  687    A   <-->  2089  CG  LEU   44    C      3.58
+113.    918  OG1 THR  687    A   <-->  2090  CD1 LEU   44    C      3.21
+114.    920  N   LEU  688    A   <-->  2081  CE1 PHE   43    C      3.77
+115.    920  N   LEU  688    A   <-->  2083  CZ  PHE   43    C      3.86
+116.    925  CG  LEU  688    A   <-->  2083  CZ  PHE   43    C      3.70
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:   116
+
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4j2l   Chains B }{ C
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    955  CB  PRO  569    B   <-->  1914  CG2 VAL   23    C      3.87
+  2.    998  OH  TYR  574    B   <-->  1918  O   TRP   24    C      3.57
+  3.   1057  CB  GLN  582    B   <-->  1976  NH1 ARG   30    C      3.15
+  4.   1058  CG  GLN  582    B   <-->  1976  NH1 ARG   30    C      3.47
+  5.   1059  CD  GLN  582    B   <-->  1976  NH1 ARG   30    C      3.07
+  6.   1060  OE1 GLN  582    B   <-->  1976  NH1 ARG   30    C      3.77
+  7.   1061  NE2 GLN  582    B   <-->  1975  CZ  ARG   30    C      3.78
+  8.   1061  NE2 GLN  582    B   <-->  1976  NH1 ARG   30    C      2.72
+  9.   1308  CB  SER  614    B   <-->  1896  CE  MET   21    C      3.50
+ 10.   1309  OG  SER  614    B   <-->  1896  CE  MET   21    C      3.22
+ 11.   1445  CD2 PHE  632    B   <-->  1895  SD  MET   21    C      3.67
+ 12.   1580  OH  TYR  649    B   <-->  1912  CB  VAL   23    C      3.65
+ 13.   1580  OH  TYR  649    B   <-->  1914  CG2 VAL   23    C      3.89
+
+Number of non-bonded contacts:    13
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4j2l   Chains C }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1900  O   PHE   22    C   <-->  2282  N   PHE   43    D      3.08
+  2.   1967  N   ARG   30    C   <-->  2208  O   VAL   34    D      3.04
+  3.   1970  O   ARG   30    C   <-->  2205  N   VAL   34    D      2.72
+  4.   1984  N   VAL   32    C   <-->  2196  O   VAL   32    D      3.02
+  5.   1987  O   VAL   32    C   <-->  2193  N   VAL   32    D      3.21
+  6.   1996  N   VAL   34    C   <-->  2179  O   ARG   30    D      3.12
+  7.   1999  O   VAL   34    C   <-->  2176  N   ARG   30    D      2.85
+  8.   2073  N   PHE   43    C   <-->  2109  O   PHE   22    D      3.12
+  9.   2076  O   PHE   43    C   <-->  2106  N   PHE   22    D      3.21
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1889  N   MET   21    C   <-->  2285  O   PHE   43    D      3.63
+  2.   1890  CA  MET   21    C   <-->  2285  O   PHE   43    D      3.13
+  3.   1891  C   MET   21    C   <-->  2285  O   PHE   43    D      3.68
+  4.   1893  CB  MET   21    C   <-->  2300  CD2 LEU   44    D      3.66
+  5.   1894  CG  MET   21    C   <-->  2279  CB  PRO   42    D      3.83
+  6.   1896  CE  MET   21    C   <-->  2279  CB  PRO   42    D      3.51
+  7.   1896  CE  MET   21    C   <-->  2280  CG  PRO   42    D      3.54
+  8.   1897  N   PHE   22    C   <-->  2285  O   PHE   43    D      3.35
+  9.   1900  O   PHE   22    C   <-->  2276  CA  PRO   42    D      3.68
+ 10.   1900  O   PHE   22    C   <-->  2277  C   PRO   42    D      3.88
+ 11.   1900  O   PHE   22    C   <-->  2282  N   PHE   43    D      3.08
+ 12.   1904  CD2 PHE   22    C   <-->  2285  O   PHE   43    D      3.56
+ 13.   1906  CE2 PHE   22    C   <-->  2285  O   PHE   43    D      3.59
+ 14.   1906  CE2 PHE   22    C   <-->  2289  CD2 PHE   43    D      3.75
+ 15.   1907  CZ  PHE   22    C   <-->  2286  CB  PHE   43    D      3.85
+ 16.   1907  CZ  PHE   22    C   <-->  2289  CD2 PHE   43    D      3.51
+ 17.   1919  CB  TRP   24    C   <-->  2257  O   SER   39    D      3.73
+ 18.   1920  CG  TRP   24    C   <-->  2259  OG  SER   39    D      3.87
+ 19.   1921  CD1 TRP   24    C   <-->  2255  CA  SER   39    D      3.84
+ 20.   1921  CD1 TRP   24    C   <-->  2271  O   VAL   41    D      3.17
+ 21.   1923  NE1 TRP   24    C   <-->  2271  O   VAL   41    D      3.57
+ 22.   1923  NE1 TRP   24    C   <-->  2286  CB  PHE   43    D      3.65
+ 23.   1926  CZ2 TRP   24    C   <-->  2286  CB  PHE   43    D      3.76
+ 24.   1926  CZ2 TRP   24    C   <-->  2287  CG  PHE   43    D      3.74
+ 25.   1950  CG2 VAL   27    C   <-->  2258  CB  SER   39    D      3.67
+ 26.   1950  CG2 VAL   27    C   <-->  2259  OG  SER   39    D      3.29
+ 27.   1961  CA  PRO   29    C   <-->  2208  O   VAL   34    D      3.56
+ 28.   1961  CA  PRO   29    C   <-->  2220  CE1 PHE   35    D      3.80
+ 29.   1962  C   PRO   29    C   <-->  2208  O   VAL   34    D      3.78
+ 30.   1964  CB  PRO   29    C   <-->  2204  CB  ALA   33    D      3.80
+ 31.   1964  CB  PRO   29    C   <-->  2208  O   VAL   34    D      3.70
+ 32.   1964  CB  PRO   29    C   <-->  2218  CD1 PHE   35    D      3.76
+ 33.   1964  CB  PRO   29    C   <-->  2220  CE1 PHE   35    D      3.10
+ 34.   1964  CB  PRO   29    C   <-->  2222  CZ  PHE   35    D      3.63
+ 35.   1967  N   ARG   30    C   <-->  2208  O   VAL   34    D      3.04
+ 36.   1969  C   ARG   30    C   <-->  2205  N   VAL   34    D      3.89
+ 37.   1970  O   ARG   30    C   <-->  2196  O   VAL   32    D      3.30
+ 38.   1970  O   ARG   30    C   <-->  2201  CA  ALA   33    D      3.49
+ 39.   1970  O   ARG   30    C   <-->  2202  C   ALA   33    D      3.58
+ 40.   1970  O   ARG   30    C   <-->  2205  N   VAL   34    D      2.72
+ 41.   1970  O   ARG   30    C   <-->  2206  CA  VAL   34    D      3.66
+ 42.   1970  O   ARG   30    C   <-->  2208  O   VAL   34    D      3.81
+ 43.   1970  O   ARG   30    C   <-->  2209  CB  VAL   34    D      3.68
+ 44.   1970  O   ARG   30    C   <-->  2211  CG2 VAL   34    D      3.90
+ 45.   1971  CB  ARG   30    C   <-->  2208  O   VAL   34    D      3.87
+ 46.   1972  CG  ARG   30    C   <-->  2208  O   VAL   34    D      3.71
+ 47.   1973  CD  ARG   30    C   <-->  2208  O   VAL   34    D      3.77
+ 48.   1974  NE  ARG   30    C   <-->  2229  CD  PRO   36    D      3.81
+ 49.   1975  CZ  ARG   30    C   <-->  2224  CA  PRO   36    D      3.81
+ 50.   1975  CZ  ARG   30    C   <-->  2227  CB  PRO   36    D      3.49
+ 51.   1977  NH2 ARG   30    C   <-->  2224  CA  PRO   36    D      3.68
+ 52.   1977  NH2 ARG   30    C   <-->  2227  CB  PRO   36    D      3.00
+ 53.   1979  CA  SER   31    C   <-->  2196  O   VAL   32    D      3.57
+ 54.   1980  C   SER   31    C   <-->  2196  O   VAL   32    D      3.79
+ 55.   1984  N   VAL   32    C   <-->  2196  O   VAL   32    D      3.02
+ 56.   1987  O   VAL   32    C   <-->  2188  CA  SER   31    D      3.85
+ 57.   1987  O   VAL   32    C   <-->  2189  C   SER   31    D      3.88
+ 58.   1987  O   VAL   32    C   <-->  2193  N   VAL   32    D      3.21
+ 59.   1990  CG2 VAL   32    C   <-->  2211  CG2 VAL   34    D      3.15
+ 60.   1992  CA  ALA   33    C   <-->  2179  O   ARG   30    D      3.32
+ 61.   1993  C   ALA   33    C   <-->  2179  O   ARG   30    D      3.70
+ 62.   1996  N   VAL   34    C   <-->  2178  C   ARG   30    D      3.83
+ 63.   1996  N   VAL   34    C   <-->  2179  O   ARG   30    D      3.12
+ 64.   1999  O   VAL   34    C   <-->  2170  CA  PRO   29    D      3.43
+ 65.   1999  O   VAL   34    C   <-->  2171  C   PRO   29    D      3.62
+ 66.   1999  O   VAL   34    C   <-->  2173  CB  PRO   29    D      3.27
+ 67.   1999  O   VAL   34    C   <-->  2176  N   ARG   30    D      2.85
+ 68.   1999  O   VAL   34    C   <-->  2177  CA  ARG   30    D      3.78
+ 69.   1999  O   VAL   34    C   <-->  2179  O   ARG   30    D      3.75
+ 70.   1999  O   VAL   34    C   <-->  2180  CB  ARG   30    D      3.81
+ 71.   2011  CE1 PHE   35    C   <-->  2173  CB  PRO   29    D      3.85
+ 72.   2018  CB  PRO   36    C   <-->  2184  CZ  ARG   30    D      3.57
+ 73.   2018  CB  PRO   36    C   <-->  2186  NH2 ARG   30    D      3.56
+ 74.   2038  O   HIS   38    C   <-->  2130  CD1 TRP   24    D      3.76
+ 75.   2038  O   HIS   38    C   <-->  2132  NE1 TRP   24    D      3.84
+ 76.   2044  NE2 HIS   38    C   <-->  2186  NH2 ARG   30    D      3.41
+ 77.   2048  O   SER   39    C   <-->  2128  CB  TRP   24    D      3.74
+ 78.   2048  O   SER   39    C   <-->  2130  CD1 TRP   24    D      3.79
+ 79.   2050  OG  SER   39    C   <-->  2158  CG1 VAL   27    D      3.81
+ 80.   2062  O   VAL   41    C   <-->  2130  CD1 TRP   24    D      3.41
+ 81.   2062  O   VAL   41    C   <-->  2132  NE1 TRP   24    D      3.80
+ 82.   2067  CA  PRO   42    C   <-->  2109  O   PHE   22    D      3.74
+ 83.   2068  C   PRO   42    C   <-->  2109  O   PHE   22    D      3.89
+ 84.   2073  N   PHE   43    C   <-->  2109  O   PHE   22    D      3.12
+ 85.   2076  O   PHE   43    C   <-->  2099  CA  MET   21    D      3.76
+ 86.   2076  O   PHE   43    C   <-->  2102  CB  MET   21    D      3.76
+ 87.   2076  O   PHE   43    C   <-->  2106  N   PHE   22    D      3.21
+ 88.   2076  O   PHE   43    C   <-->  2109  O   PHE   22    D      3.31
+ 89.   2076  O   PHE   43    C   <-->  2113  CD2 PHE   22    D      3.40
+ 90.   2076  O   PHE   43    C   <-->  2115  CE2 PHE   22    D      3.66
+ 91.   2077  CB  PHE   43    C   <-->  2116  CZ  PHE   22    D      3.80
+ 92.   2077  CB  PHE   43    C   <-->  2132  NE1 TRP   24    D      3.37
+ 93.   2077  CB  PHE   43    C   <-->  2133  CE2 TRP   24    D      3.81
+ 94.   2077  CB  PHE   43    C   <-->  2135  CZ2 TRP   24    D      3.79
+ 95.   2078  CG  PHE   43    C   <-->  2135  CZ2 TRP   24    D      3.85
+ 96.   2080  CD2 PHE   43    C   <-->  2115  CE2 PHE   22    D      3.42
+ 97.   2080  CD2 PHE   43    C   <-->  2116  CZ  PHE   22    D      3.48
+ 98.   2080  CD2 PHE   43    C   <-->  2135  CZ2 TRP   24    D      3.88
+ 99.   2085  CA  LEU   44    C   <-->  2102  CB  MET   21    D      3.79
+
+Number of hydrogen bonds:          9
+
+Number of non-bonded contacts:    99
+
+

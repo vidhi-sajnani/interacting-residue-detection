@@ -1,0 +1,109 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 3hhr   Chains B }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2324  OG  SER  145    B   <-->  3930  OD1 ASP  152    C      2.58
+  2.   2325  N   LEU  146    B   <-->  4329  OG  SER  201    C      3.01
+  3.   2338  OG1 THR  147    B   <-->  3931  OD2 ASP  152    C      2.61
+  4.   2361  NE2 HIS  150    B   <-->  3867  OD1 ASN  143    C      2.98
+  5.   2373  OD1 ASP  152    B   <-->  4323  OH  TYR  200    C      2.65
+  6.   2784  N   SER  201    B   <-->  4323  OH  TYR  200    C      3.10
+  7.   2789  OG  SER  201    B   <-->  4323  OH  TYR  200    C      2.83
+  8.   2789  OG  SER  201    B   <-->  4323  OH  TYR  200    C      2.83
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2320  CA  SER  145    B   <-->  4316  CB  TYR  200    C      3.84
+  2.   2323  CB  SER  145    B   <-->  3930  OD1 ASP  152    C      3.42
+  3.   2323  CB  SER  145    B   <-->  3931  OD2 ASP  152    C      3.84
+  4.   2323  CB  SER  145    B   <-->  4316  CB  TYR  200    C      3.64
+  5.   2323  CB  SER  145    B   <-->  4317  CG  TYR  200    C      3.61
+  6.   2323  CB  SER  145    B   <-->  4319  CD2 TYR  200    C      3.87
+  7.   2324  OG  SER  145    B   <-->  3929  CG  ASP  152    C      3.22
+  8.   2324  OG  SER  145    B   <-->  3930  OD1 ASP  152    C      2.58
+  9.   2324  OG  SER  145    B   <-->  3931  OD2 ASP  152    C      3.13
+ 10.   2324  OG  SER  145    B   <-->  4316  CB  TYR  200    C      3.69
+ 11.   2324  OG  SER  145    B   <-->  4324  N   SER  201    C      3.85
+ 12.   2325  N   LEU  146    B   <-->  4329  OG  SER  201    C      3.01
+ 13.   2326  CA  LEU  146    B   <-->  4329  OG  SER  201    C      3.73
+ 14.   2329  CB  LEU  146    B   <-->  4328  CB  SER  201    C      3.81
+ 15.   2329  CB  LEU  146    B   <-->  4329  OG  SER  201    C      3.25
+ 16.   2330  CG  LEU  146    B   <-->  4329  OG  SER  201    C      3.75
+ 17.   2331  CD1 LEU  146    B   <-->  4329  OG  SER  201    C      3.42
+ 18.   2332  CD2 LEU  146    B   <-->  3917  CE1 HIS  150    C      3.72
+ 19.   2337  CB  THR  147    B   <-->  3931  OD2 ASP  152    C      3.45
+ 20.   2338  OG1 THR  147    B   <-->  3929  CG  ASP  152    C      3.63
+ 21.   2338  OG1 THR  147    B   <-->  3931  OD2 ASP  152    C      2.61
+ 22.   2339  CG2 THR  147    B   <-->  3911  C   HIS  150    C      3.80
+ 23.   2339  CG2 THR  147    B   <-->  3912  O   HIS  150    C      3.54
+ 24.   2339  CG2 THR  147    B   <-->  3929  CG  ASP  152    C      3.76
+ 25.   2339  CG2 THR  147    B   <-->  3930  OD1 ASP  152    C      3.89
+ 26.   2339  CG2 THR  147    B   <-->  3931  OD2 ASP  152    C      3.24
+ 27.   2351  CD1 ILE  149    B   <-->  3866  CG  ASN  143    C      3.46
+ 28.   2351  CD1 ILE  149    B   <-->  3867  OD1 ASN  143    C      3.22
+ 29.   2351  CD1 ILE  149    B   <-->  3872  O   VAL  144    C      3.46
+ 30.   2356  CB  HIS  150    B   <-->  4322  CZ  TYR  200    C      3.79
+ 31.   2356  CB  HIS  150    B   <-->  4323  OH  TYR  200    C      3.62
+ 32.   2359  CD2 HIS  150    B   <-->  3859  CD1 LEU  142    C      3.88
+ 33.   2359  CD2 HIS  150    B   <-->  3867  OD1 ASN  143    C      3.62
+ 34.   2359  CD2 HIS  150    B   <-->  3928  CB  ASP  152    C      3.55
+ 35.   2359  CD2 HIS  150    B   <-->  3929  CG  ASP  152    C      3.53
+ 36.   2359  CD2 HIS  150    B   <-->  3931  OD2 ASP  152    C      3.16
+ 37.   2360  CE1 HIS  150    B   <-->  3859  CD1 LEU  142    C      3.83
+ 38.   2360  CE1 HIS  150    B   <-->  3867  OD1 ASN  143    C      3.88
+ 39.   2360  CE1 HIS  150    B   <-->  3868  ND2 ASN  143    C      3.49
+ 40.   2361  NE2 HIS  150    B   <-->  3857  CB  LEU  142    C      3.52
+ 41.   2361  NE2 HIS  150    B   <-->  3859  CD1 LEU  142    C      3.49
+ 42.   2361  NE2 HIS  150    B   <-->  3866  CG  ASN  143    C      3.53
+ 43.   2361  NE2 HIS  150    B   <-->  3867  OD1 ASN  143    C      2.98
+ 44.   2361  NE2 HIS  150    B   <-->  3868  ND2 ASN  143    C      3.37
+ 45.   2361  NE2 HIS  150    B   <-->  3928  CB  ASP  152    C      3.83
+ 46.   2361  NE2 HIS  150    B   <-->  3931  OD2 ASP  152    C      3.81
+ 47.   2372  CG  ASP  152    B   <-->  4321  CE2 TYR  200    C      3.68
+ 48.   2372  CG  ASP  152    B   <-->  4323  OH  TYR  200    C      3.65
+ 49.   2373  OD1 ASP  152    B   <-->  4321  CE2 TYR  200    C      3.39
+ 50.   2373  OD1 ASP  152    B   <-->  4322  CZ  TYR  200    C      3.42
+ 51.   2373  OD1 ASP  152    B   <-->  4323  OH  TYR  200    C      2.65
+ 52.   2374  OD2 ASP  152    B   <-->  4303  CG  PRO  198    C      3.89
+ 53.   2374  OD2 ASP  152    B   <-->  4321  CE2 TYR  200    C      3.62
+ 54.   2777  CG  TYR  200    B   <-->  4304  CD  PRO  198    C      3.80
+ 55.   2783  OH  TYR  200    B   <-->  4261  CG2 ILE  192    C      3.31
+ 56.   2784  N   SER  201    B   <-->  4323  OH  TYR  200    C      3.10
+ 57.   2785  CA  SER  201    B   <-->  4323  OH  TYR  200    C      3.06
+ 58.   2788  CB  SER  201    B   <-->  4323  OH  TYR  200    C      3.53
+ 59.   2789  OG  SER  201    B   <-->  3859  CD1 LEU  142    C      3.81
+ 60.   2789  OG  SER  201    B   <-->  4302  CB  PRO  198    C      3.67
+ 61.   2789  OG  SER  201    B   <-->  4303  CG  PRO  198    C      3.84
+ 62.   2789  OG  SER  201    B   <-->  4322  CZ  TYR  200    C      3.88
+ 63.   2789  OG  SER  201    B   <-->  4323  OH  TYR  200    C      2.83
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2361  NE2 HIS  150    B   <-->  3931  OD2 ASP  152    C      3.81
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          8
+
+Number of non-bonded contacts:    63

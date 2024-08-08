@@ -1,0 +1,94 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4hmy   Chains B }{ C
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4679  CG  ASN   23    B   <--> 13923  CG  GLN   83    C      3.87
+  2.   4680  OD1 ASN   23    B   <--> 13923  CG  GLN   83    C      3.75
+  3.   4899  CB  PRO   52    B   <--> 13890  CG  HIS   80    C      3.74
+  4.   4899  CB  PRO   52    B   <--> 13891  ND1 HIS   80    C      3.38
+  5.   4925  CA  ASN   56    B   <--> 13648  CZ  PHE   51    C      3.43
+  6.   4926  C   ASN   56    B   <--> 13648  CZ  PHE   51    C      3.81
+  7.   4927  O   ASN   56    B   <--> 13647  CE2 PHE   51    C      3.72
+  8.   4927  O   ASN   56    B   <--> 13648  CZ  PHE   51    C      3.30
+  9.   4929  CG  ASN   56    B   <--> 13647  CE2 PHE   51    C      3.73
+ 10.   4929  CG  ASN   56    B   <--> 13648  CZ  PHE   51    C      3.47
+ 11.   4929  CG  ASN   56    B   <--> 13776  CZ3 TRP   66    C      3.42
+ 12.   4929  CG  ASN   56    B   <--> 13777  CH2 TRP   66    C      3.78
+ 13.   4930  OD1 ASN   56    B   <--> 13647  CE2 PHE   51    C      3.13
+ 14.   4930  OD1 ASN   56    B   <--> 13648  CZ  PHE   51    C      3.24
+ 15.   4930  OD1 ASN   56    B   <--> 13776  CZ3 TRP   66    C      2.93
+ 16.   4930  OD1 ASN   56    B   <--> 13777  CH2 TRP   66    C      3.09
+ 17.   4931  ND2 ASN   56    B   <--> 13776  CZ3 TRP   66    C      3.17
+ 18.   4931  ND2 ASN   56    B   <--> 13777  CH2 TRP   66    C      3.88
+ 19.   4931  ND2 ASN   56    B   <--> 13902  CD2 TYR   81    C      3.19
+ 20.   4931  ND2 ASN   56    B   <--> 13904  CE2 TYR   81    C      3.16
+ 21.   4949  O   GLN   59    B   <--> 13661  CB  VAL   53    C      3.56
+ 22.   4949  O   GLN   59    B   <--> 13662  CG1 VAL   53    C      3.02
+ 23.   5164  O   ILE   85    B   <--> 13629  O   ILE   49    C      3.34
+ 24.   5164  O   ILE   85    B   <--> 13632  CG2 ILE   49    C      2.93
+ 25.   5167  CG2 ILE   85    B   <--> 13632  CG2 ILE   49    C      3.33
+ 26.   5167  CG2 ILE   85    B   <--> 13832  CG2 ILE   74    C      3.86
+ 27.   5170  CA  MET   86    B   <--> 13629  O   ILE   49    C      3.90
+ 28.   5171  C   MET   86    B   <--> 13629  O   ILE   49    C      3.56
+ 29.   5172  O   MET   86    B   <--> 13628  C   ILE   49    C      3.53
+ 30.   5172  O   MET   86    B   <--> 13629  O   ILE   49    C      2.74
+ 31.   5172  O   MET   86    B   <--> 13634  N   GLY   50    C      3.68
+ 32.   5172  O   MET   86    B   <--> 13635  CA  GLY   50    C      3.00
+ 33.   5174  CG  MET   86    B   <--> 13906  OH  TYR   81    C      3.86
+ 34.   5180  O   ALA   87    B   <--> 13634  N   GLY   50    C      3.78
+ 35.   5180  O   ALA   87    B   <--> 13635  CA  GLY   50    C      3.25
+ 36.   5186  CB  VAL   88    B   <--> 13630  CB  ILE   49    C      3.61
+ 37.   5186  CB  VAL   88    B   <--> 13632  CG2 ILE   49    C      3.40
+ 38.   5187  CG1 VAL   88    B   <--> 13630  CB  ILE   49    C      3.52
+ 39.   5187  CG1 VAL   88    B   <--> 13632  CG2 ILE   49    C      3.71
+ 40.   5188  CG2 VAL   88    B   <--> 13632  CG2 ILE   49    C      3.62
+ 41.   5189  N   ASN   89    B   <--> 13634  N   GLY   50    C      3.77
+ 42.   5193  CB  ASN   89    B   <--> 13626  N   ILE   49    C      3.22
+ 43.   5193  CB  ASN   89    B   <--> 13628  C   ILE   49    C      3.86
+ 44.   5193  CB  ASN   89    B   <--> 13634  N   GLY   50    C      3.06
+ 45.   5193  CB  ASN   89    B   <--> 13635  CA  GLY   50    C      3.78
+ 46.   5194  CG  ASN   89    B   <--> 13615  O   PRO   47    C      3.69
+ 47.   5194  CG  ASN   89    B   <--> 13620  CA  THR   48    C      3.22
+ 48.   5194  CG  ASN   89    B   <--> 13621  C   THR   48    C      3.39
+ 49.   5194  CG  ASN   89    B   <--> 13626  N   ILE   49    C      2.87
+ 50.   5194  CG  ASN   89    B   <--> 13627  CA  ILE   49    C      3.87
+ 51.   5194  CG  ASN   89    B   <--> 13634  N   GLY   50    C      3.89
+ 52.   5195  OD1 ASN   89    B   <--> 13614  C   PRO   47    C      3.86
+ 53.   5195  OD1 ASN   89    B   <--> 13615  O   PRO   47    C      2.97
+ 54.   5195  OD1 ASN   89    B   <--> 13620  CA  THR   48    C      3.36
+ 55.   5195  OD1 ASN   89    B   <--> 13621  C   THR   48    C      3.15
+ 56.   5195  OD1 ASN   89    B   <--> 13626  N   ILE   49    C      2.71
+ 57.   5195  OD1 ASN   89    B   <--> 13627  CA  ILE   49    C      3.45
+ 58.   5195  OD1 ASN   89    B   <--> 13630  CB  ILE   49    C      3.12
+ 59.   5195  OD1 ASN   89    B   <--> 13631  CG1 ILE   49    C      3.06
+ 60.   5196  ND2 ASN   89    B   <--> 13615  O   PRO   47    C      3.74
+ 61.   5196  ND2 ASN   89    B   <--> 13619  N   THR   48    C      3.73
+ 62.   5196  ND2 ASN   89    B   <--> 13620  CA  THR   48    C      2.98
+ 63.   5196  ND2 ASN   89    B   <--> 13621  C   THR   48    C      3.72
+ 64.   5196  ND2 ASN   89    B   <--> 13623  CB  THR   48    C      3.80
+ 65.   5196  ND2 ASN   89    B   <--> 13625  CG2 THR   48    C      3.71
+ 66.   5196  ND2 ASN   89    B   <--> 13626  N   ILE   49    C      3.59
+ 67.   5203  CG2 THR   90    B   <--> 13635  CA  GLY   50    C      3.63
+ 68.   5203  CG2 THR   90    B   <--> 13636  C   GLY   50    C      3.88
+ 69.   5203  CG2 THR   90    B   <--> 13637  O   GLY   50    C      3.27
+ 70.   5228  CD  LYS   93    B   <--> 13656  ND2 ASN   52    C      3.73
+ 71.   5230  NZ  LYS   93    B   <--> 13525  CE2 TYR   35    C      3.64
+ 72.   5413  CE  LYS  117    B   <--> 13825  NZ  LYS   73    C      3.66
+ 73.   5414  NZ  LYS  117    B   <--> 13825  NZ  LYS   73    C      2.95
+ 74.   5449  CZ  TYR  121    B   <--> 13631  CG1 ILE   49    C      3.42
+ 75.   5450  OH  TYR  121    B   <--> 13631  CG1 ILE   49    C      2.93
+ 76.   5450  OH  TYR  121    B   <--> 13633  CD1 ILE   49    C      3.04
+
+Number of non-bonded contacts:    76
+

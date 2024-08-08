@@ -1,0 +1,101 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 5k39   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    263  OE1 GLN   37    A   <-->  2389  N   LEU  147    B      2.84
+  2.   1037  O   PHE  136    A   <-->  2388  ND2 ASN  146    B      2.99
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    248  N   ILE   36    A   <-->  2396  CD2 LEU  147    B      3.68
+  2.    249  CA  ILE   36    A   <-->  2396  CD2 LEU  147    B      3.76
+  3.    250  C   ILE   36    A   <-->  2396  CD2 LEU  147    B      3.72
+  4.    256  N   GLN   37    A   <-->  2396  CD2 LEU  147    B      3.79
+  5.    262  CD  GLN   37    A   <-->  2225  CZ  PHE  124    B      3.73
+  6.    262  CD  GLN   37    A   <-->  2385  CB  ASN  146    B      3.79
+  7.    263  OE1 GLN   37    A   <-->  2224  CE2 PHE  124    B      3.59
+  8.    263  OE1 GLN   37    A   <-->  2225  CZ  PHE  124    B      3.81
+  9.    263  OE1 GLN   37    A   <-->  2382  CA  ASN  146    B      3.77
+ 10.    263  OE1 GLN   37    A   <-->  2383  C   ASN  146    B      3.76
+ 11.    263  OE1 GLN   37    A   <-->  2385  CB  ASN  146    B      3.17
+ 12.    263  OE1 GLN   37    A   <-->  2389  N   LEU  147    B      2.84
+ 13.    263  OE1 GLN   37    A   <-->  2390  CA  LEU  147    B      3.66
+ 14.    263  OE1 GLN   37    A   <-->  2393  CB  LEU  147    B      3.37
+ 15.    264  NE2 GLN   37    A   <-->  2225  CZ  PHE  124    B      3.43
+ 16.    264  NE2 GLN   37    A   <-->  2385  CB  ASN  146    B      3.70
+ 17.    585  CD2 LEU   78    A   <-->  2166  CG1 VAL  117    B      3.71
+ 18.    612  CG2 VAL   82    A   <-->  2218  O   PHE  124    B      3.38
+ 19.    612  CG2 VAL   82    A   <-->  2221  CD1 PHE  124    B      3.63
+ 20.    678  ND2 ASN   91    A   <-->  2223  CE1 PHE  124    B      3.69
+ 21.    695  CB  ALA   93    A   <-->  2224  CE2 PHE  124    B      3.73
+ 22.    695  CB  ALA   93    A   <-->  2225  CZ  PHE  124    B      3.58
+ 23.    710  CB  CYS   95    A   <-->  2395  CD1 LEU  147    B      3.72
+ 24.    717  O   TYR   96    A   <-->  2451  CD1 ILE  154    B      3.83
+ 25.    729  O   VAL   97    A   <-->  2450  CG2 ILE  154    B      3.41
+ 26.    731  CG1 VAL   97    A   <-->  2144  SD  MET  114    B      3.77
+ 27.    731  CG1 VAL   97    A   <-->  2483  CZ  PHE  157    B      3.78
+ 28.    752  CD2 TRP   99    A   <-->  2450  CG2 ILE  154    B      3.77
+ 29.    754  CE2 TRP   99    A   <-->  2450  CG2 ILE  154    B      3.49
+ 30.    756  CZ2 TRP   99    A   <-->  2448  CB  ILE  154    B      3.67
+ 31.    756  CZ2 TRP   99    A   <-->  2450  CG2 ILE  154    B      3.49
+ 32.    757  CZ3 TRP   99    A   <-->  2452  N   ARG  155    B      3.58
+ 33.    757  CZ3 TRP   99    A   <-->  2453  CA  ARG  155    B      3.66
+ 34.    758  CH2 TRP   99    A   <-->  2427  O   ALA  151    B      3.45
+ 35.    758  CH2 TRP   99    A   <-->  2448  CB  ILE  154    B      3.70
+ 36.    758  CH2 TRP   99    A   <-->  2450  CG2 ILE  154    B      3.71
+ 37.    758  CH2 TRP   99    A   <-->  2452  N   ARG  155    B      3.74
+ 38.   1029  CD  ARG  135    A   <-->  2245  CZ  ARG  127    B      3.87
+ 39.   1029  CD  ARG  135    A   <-->  2246  NH1 ARG  127    B      3.85
+ 40.   1030  NE  ARG  135    A   <-->  2243  CD  ARG  127    B      3.90
+ 41.   1030  NE  ARG  135    A   <-->  2244  NE  ARG  127    B      3.46
+ 42.   1030  NE  ARG  135    A   <-->  2245  CZ  ARG  127    B      3.55
+ 43.   1030  NE  ARG  135    A   <-->  2247  NH2 ARG  127    B      3.88
+ 44.   1031  CZ  ARG  135    A   <-->  2245  CZ  ARG  127    B      3.84
+ 45.   1031  CZ  ARG  135    A   <-->  2247  NH2 ARG  127    B      3.70
+ 46.   1033  NH2 ARG  135    A   <-->  2247  NH2 ARG  127    B      3.87
+ 47.   1037  O   PHE  136    A   <-->  2372  CB  ALA  144    B      3.64
+ 48.   1037  O   PHE  136    A   <-->  2385  CB  ASN  146    B      3.75
+ 49.   1037  O   PHE  136    A   <-->  2386  CG  ASN  146    B      3.86
+ 50.   1037  O   PHE  136    A   <-->  2388  ND2 ASN  146    B      2.99
+ 51.   1042  CE1 PHE  136    A   <-->  2229  O   GLY  125    B      3.46
+ 52.   1057  CG  PRO  138    A   <-->  2359  O   ASP  142    B      3.46
+ 53.   1057  CG  PRO  138    A   <-->  2372  CB  ALA  144    B      3.79
+ 54.   1058  CD  PRO  138    A   <-->  2372  CB  ALA  144    B      3.49
+ 55.   1065  OD1 ASN  139    A   <-->  1417  CG  PRO   22    B      3.82
+ 56.   1065  OD1 ASN  139    A   <-->  2360  CB  ASP  142    B      3.80
+ 57.   1103  O   LEU  145    A   <-->  2396  CD2 LEU  147    B      3.54
+ 58.   1106  CD1 LEU  145    A   <-->  2386  CG  ASN  146    B      3.66
+ 59.   1106  CD1 LEU  145    A   <-->  2387  OD1 ASN  146    B      3.84
+ 60.   1106  CD1 LEU  145    A   <-->  2388  ND2 ASN  146    B      3.46
+ 61.   1107  CD2 LEU  145    A   <-->  2406  CE2 PHE  148    B      3.52
+ 62.   1107  CD2 LEU  145    A   <-->  2407  CZ  PHE  148    B      3.60
+ 63.   1121  CG2 ILE  147    A   <-->  2403  CD1 PHE  148    B      3.79
+ 64.   1121  CG2 ILE  147    A   <-->  2405  CE1 PHE  148    B      3.73
+ 65.   1122  CD1 ILE  147    A   <-->  2428  CB  ALA  151    B      3.84
+ 66.   1148  O   TYR  150    A   <-->  2458  CD  ARG  155    B      3.60
+ 67.   1168  OE1 GLN  152    A   <-->  1399  OD2 ASP   20    B      3.63
+ 68.   1175  CG  GLN  153    A   <-->  2407  CZ  PHE  148    B      3.68
+ 69.   1176  CD  GLN  153    A   <-->  2407  CZ  PHE  148    B      3.57
+ 70.   1177  OE1 GLN  153    A   <-->  2407  CZ  PHE  148    B      3.86
+ 71.   1178  NE2 GLN  153    A   <-->  2407  CZ  PHE  148    B      3.89
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    71
+

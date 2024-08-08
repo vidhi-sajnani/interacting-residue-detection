@@ -1,0 +1,129 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 4ofy   Chains A }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    258  NE2 GLN   54    A   <-->  5508  OE1 GLN   53    D      2.61
+  2.    293  O   ASP   58    A   <-->  5982  NH1 ARG  115    D      3.04
+  3.    293  O   ASP   58    A   <-->  5983  NH2 ARG  115    D      2.48
+  4.    301  O   ASP   59    A   <-->  5910  NE2 GLN  105    D      3.06
+  5.    317  N   GLY   61    A   <-->  5909  OE1 GLN  105    D      2.84
+  6.    677  OG  SER  107    A   <-->  5563  O   LEU   61    D      2.59
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    256  CD  GLN   54    A   <-->  5508  OE1 GLN   53    D      3.13
+  2.    256  CD  GLN   54    A   <-->  5566  CD1 LEU   61    D      3.48
+  3.    257  OE1 GLN   54    A   <-->  5507  CD  GLN   53    D      3.71
+  4.    257  OE1 GLN   54    A   <-->  5508  OE1 GLN   53    D      2.93
+  5.    257  OE1 GLN   54    A   <-->  5509  NE2 GLN   53    D      3.73
+  6.    257  OE1 GLN   54    A   <-->  5566  CD1 LEU   61    D      3.40
+  7.    258  NE2 GLN   54    A   <-->  5507  CD  GLN   53    D      3.82
+  8.    258  NE2 GLN   54    A   <-->  5508  OE1 GLN   53    D      2.61
+  9.    258  NE2 GLN   54    A   <-->  5564  CB  LEU   61    D      3.64
+ 10.    258  NE2 GLN   54    A   <-->  5566  CD1 LEU   61    D      3.80
+ 11.    280  CE  MET   56    A   <-->  5565  CG  LEU   61    D      3.82
+ 12.    280  CE  MET   56    A   <-->  5566  CD1 LEU   61    D      3.60
+ 13.    292  C   ASP   58    A   <-->  5983  NH2 ARG  115    D      3.64
+ 14.    293  O   ASP   58    A   <-->  5981  CZ  ARG  115    D      3.17
+ 15.    293  O   ASP   58    A   <-->  5982  NH1 ARG  115    D      3.04
+ 16.    293  O   ASP   58    A   <-->  5983  NH2 ARG  115    D      2.48
+ 17.    295  CG  ASP   58    A   <-->  5982  NH1 ARG  115    D      3.86
+ 18.    297  OD2 ASP   58    A   <-->  5982  NH1 ARG  115    D      3.28
+ 19.    300  C   ASP   59    A   <-->  5983  NH2 ARG  115    D      3.59
+ 20.    301  O   ASP   59    A   <-->  5910  NE2 GLN  105    D      3.06
+ 21.    302  CB  ASP   59    A   <-->  5983  NH2 ARG  115    D      3.66
+ 22.    306  N   PHE   60    A   <-->  5983  NH2 ARG  115    D      3.41
+ 23.    307  CA  PHE   60    A   <-->  5908  CD  GLN  105    D      3.78
+ 24.    307  CA  PHE   60    A   <-->  5909  OE1 GLN  105    D      3.50
+ 25.    307  CA  PHE   60    A   <-->  5910  NE2 GLN  105    D      3.70
+ 26.    308  C   PHE   60    A   <-->  5909  OE1 GLN  105    D      3.63
+ 27.    310  CB  PHE   60    A   <-->  5982  NH1 ARG  115    D      3.89
+ 28.    310  CB  PHE   60    A   <-->  5983  NH2 ARG  115    D      3.88
+ 29.    311  CG  PHE   60    A   <-->  5909  OE1 GLN  105    D      3.72
+ 30.    313  CD2 PHE   60    A   <-->  5907  CG  GLN  105    D      3.85
+ 31.    313  CD2 PHE   60    A   <-->  5908  CD  GLN  105    D      3.86
+ 32.    313  CD2 PHE   60    A   <-->  5909  OE1 GLN  105    D      3.89
+ 33.    313  CD2 PHE   60    A   <-->  5978  CG  ARG  115    D      3.85
+ 34.    315  CE2 PHE   60    A   <-->  5906  CB  GLN  105    D      3.59
+ 35.    315  CE2 PHE   60    A   <-->  5907  CG  GLN  105    D      3.87
+ 36.    315  CE2 PHE   60    A   <-->  5965  N   ILE  114    D      3.80
+ 37.    315  CE2 PHE   60    A   <-->  5967  C   ILE  114    D      3.82
+ 38.    315  CE2 PHE   60    A   <-->  5968  O   ILE  114    D      3.13
+ 39.    316  CZ  PHE   60    A   <-->  5906  CB  GLN  105    D      3.85
+ 40.    316  CZ  PHE   60    A   <-->  5962  CB  PRO  113    D      3.72
+ 41.    316  CZ  PHE   60    A   <-->  5968  O   ILE  114    D      3.88
+ 42.    317  N   GLY   61    A   <-->  5908  CD  GLN  105    D      3.80
+ 43.    317  N   GLY   61    A   <-->  5909  OE1 GLN  105    D      2.84
+ 44.    318  CA  GLY   61    A   <-->  5509  NE2 GLN   53    D      3.81
+ 45.    318  CA  GLY   61    A   <-->  5566  CD1 LEU   61    D      3.57
+ 46.    318  CA  GLY   61    A   <-->  5909  OE1 GLN  105    D      3.81
+ 47.    393  C   PRO   71    A   <-->  5925  CD1 LEU  107    D      3.57
+ 48.    394  O   PRO   71    A   <-->  5925  CD1 LEU  107    D      3.47
+ 49.    395  CB  PRO   71    A   <-->  5490  CD2 TYR   51    D      3.75
+ 50.    395  CB  PRO   71    A   <-->  5491  CE1 TYR   51    D      3.89
+ 51.    395  CB  PRO   71    A   <-->  5492  CE2 TYR   51    D      3.57
+ 52.    395  CB  PRO   71    A   <-->  5493  CZ  TYR   51    D      3.64
+ 53.    395  CB  PRO   71    A   <-->  5925  CD1 LEU  107    D      3.77
+ 54.    396  CG  PRO   71    A   <-->  5491  CE1 TYR   51    D      3.54
+ 55.    396  CG  PRO   71    A   <-->  5493  CZ  TYR   51    D      3.60
+ 56.    398  N   GLY   72    A   <-->  5925  CD1 LEU  107    D      3.80
+ 57.    661  CD  GLN  105    A   <-->  5560  N   LEU   61    D      3.57
+ 58.    662  OE1 GLN  105    A   <-->  5560  N   LEU   61    D      3.20
+ 59.    662  OE1 GLN  105    A   <-->  5561  CA  LEU   61    D      3.68
+ 60.    662  OE1 GLN  105    A   <-->  5564  CB  LEU   61    D      3.06
+ 61.    662  OE1 GLN  105    A   <-->  5565  CG  LEU   61    D      3.31
+ 62.    662  OE1 GLN  105    A   <-->  5566  CD1 LEU   61    D      3.28
+ 63.    663  NE2 GLN  105    A   <-->  5563  O   LEU   61    D      3.87
+ 64.    673  CA  SER  107    A   <-->  5559  OG  SER   60    D      3.88
+ 65.    673  CA  SER  107    A   <-->  5563  O   LEU   61    D      3.81
+ 66.    676  CB  SER  107    A   <-->  5563  O   LEU   61    D      3.14
+ 67.    677  OG  SER  107    A   <-->  5562  C   LEU   61    D      3.53
+ 68.    677  OG  SER  107    A   <-->  5563  O   LEU   61    D      2.59
+ 69.    681  O   GLU  108    A   <-->  5575  CD2 LEU   62    D      3.60
+ 70.    681  O   GLU  108    A   <-->  5643  O   PRO   71    D      3.80
+ 71.    684  CD  GLU  108    A   <-->  5643  O   PRO   71    D      3.71
+ 72.    685  OE1 GLU  108    A   <-->  5683  CD2 PHE   77    D      3.84
+ 73.    685  OE1 GLU  108    A   <-->  5685  CE2 PHE   77    D      3.58
+ 74.    686  OE2 GLU  108    A   <-->  5643  O   PRO   71    D      3.89
+ 75.    686  OE2 GLU  108    A   <-->  5648  CA  GLY   72    D      3.81
+ 76.    686  OE2 GLU  108    A   <-->  5649  C   GLY   72    D      3.41
+ 77.    686  OE2 GLU  108    A   <-->  5651  N   HIS   73    D      2.94
+ 78.    686  OE2 GLU  108    A   <-->  5652  CA  HIS   73    D      3.41
+ 79.    686  OE2 GLU  108    A   <-->  5655  CB  HIS   73    D      3.50
+ 80.    693  N   ASP  110    A   <-->  5644  CB  PRO   71    D      3.68
+ 81.    729  CB  ALA  114    A   <-->  5558  CB  SER   60    D      3.56
+ 82.    729  CB  ALA  114    A   <-->  5559  OG  SER   60    D      3.26
+ 83.    743  CG2 VAL  116    A   <-->  5553  O   GLY   59    D      3.52
+ 84.    743  CG2 VAL  116    A   <-->  5555  CA  SER   60    D      3.88
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    297  OD2 ASP   58    A   <-->  5982  NH1 ARG  115    D      3.28
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    84
+

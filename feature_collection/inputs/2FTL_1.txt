@@ -1,0 +1,172 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 2ftl   Chains E }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    158  OH  TYR   39    E   <-->  1885  N   ILE   19    I      2.89
+  2.    162  O   HIS   40    E   <-->  1873  NE  ARG   17    I      3.10
+  3.    162  O   HIS   40    E   <-->  1876  NH2 ARG   17    I      2.78
+  4.    172  O   PHE   41    E   <-->  1866  N   ARG   17    I      2.87
+  5.   1351  O   SER  190    E   <-->  1860  NZ  LYS   15    I      2.97
+  6.   1353  OG  SER  190    E   <-->  1860  NZ  LYS   15    I      2.99
+  7.   1368  NE2 GLN  192    E   <-->  1849  O   CYS   14    I      2.90
+  8.   1369  N   GLY  193    E   <-->  1855  O   LYS   15    I      2.66
+  9.   1373  N   ASP  194    E   <-->  1855  O   LYS   15    I      3.17
+ 10.   1381  N   SER  195    E   <-->  1855  O   LYS   15    I      2.84
+ 11.   1386  OG  SER  195    E   <-->  1852  N   LYS   15    I      2.90
+ 12.   1480  O   SER  214    E   <-->  1852  N   LYS   15    I      3.23
+ 13.   1497  N   GLY  216    E   <-->  1842  O   PRO   13    I      3.06
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    156  CE2 TYR   39    E   <-->  1869  O   ARG   17    I      3.33
+  2.    157  CZ  TYR   39    E   <-->  1885  N   ILE   19    I      3.65
+  3.    158  OH  TYR   39    E   <-->  1878  CA  ILE   18    I      3.63
+  4.    158  OH  TYR   39    E   <-->  1879  C   ILE   18    I      3.72
+  5.    158  OH  TYR   39    E   <-->  1883  CG2 ILE   18    I      3.80
+  6.    158  OH  TYR   39    E   <-->  1885  N   ILE   19    I      2.89
+  7.    158  OH  TYR   39    E   <-->  1887  CA  ILE   19    I      3.79
+  8.    158  OH  TYR   39    E   <-->  1893  CB  ILE   19    I      3.78
+  9.    161  C   HIS   40    E   <-->  1876  NH2 ARG   17    I      3.80
+ 10.    162  O   HIS   40    E   <-->  1869  O   ARG   17    I      3.64
+ 11.    162  O   HIS   40    E   <-->  1873  NE  ARG   17    I      3.10
+ 12.    162  O   HIS   40    E   <-->  1874  CZ  ARG   17    I      3.36
+ 13.    162  O   HIS   40    E   <-->  1876  NH2 ARG   17    I      2.78
+ 14.    170  CA  PHE   41    E   <-->  1869  O   ARG   17    I      3.31
+ 15.    171  C   PHE   41    E   <-->  1866  N   ARG   17    I      3.85
+ 16.    172  O   PHE   41    E   <-->  1862  CA  ALA   16    I      3.46
+ 17.    172  O   PHE   41    E   <-->  1863  C   ALA   16    I      3.63
+ 18.    172  O   PHE   41    E   <-->  1865  CB  ALA   16    I      3.50
+ 19.    172  O   PHE   41    E   <-->  1866  N   ARG   17    I      2.87
+ 20.    172  O   PHE   41    E   <-->  1867  CA  ARG   17    I      3.89
+ 21.    173  CB  PHE   41    E   <-->  1869  O   ARG   17    I      3.30
+ 22.    185  SG  CYS   42    E   <-->  1865  CB  ALA   16    I      3.48
+ 23.    286  O   HIS   57    E   <-->  2051  O   GLY   37    I      3.85
+ 24.    287  CB  HIS   57    E   <-->  2051  O   GLY   37    I      3.64
+ 25.    290  CD2 HIS   57    E   <-->  1850  CB  CYS   14    I      3.63
+ 26.    290  CD2 HIS   57    E   <-->  2047  O   GLY   36    I      3.49
+ 27.    292  NE2 HIS   57    E   <-->  1850  CB  CYS   14    I      3.58
+ 28.    292  NE2 HIS   57    E   <-->  1852  N   LYS   15    I      3.84
+ 29.    292  NE2 HIS   57    E   <-->  2047  O   GLY   36    I      3.81
+ 30.    337  CE  LYS   60    E   <-->  1882  CG1 ILE   18    I      3.86
+ 31.    337  CE  LYS   60    E   <-->  1883  CG2 ILE   18    I      3.54
+ 32.    339  NZ  LYS   60    E   <-->  1883  CG2 ILE   18    I      3.82
+ 33.    620  O   SER   96    E   <-->  2070  CD  ARG   39    I      3.41
+ 34.    625  CA  ASN   97    E   <-->  2070  CD  ARG   39    I      3.87
+ 35.    629  O   ASN   97    E   <-->  2070  CD  ARG   39    I      3.40
+ 36.    629  O   ASN   97    E   <-->  2072  NE  ARG   39    I      3.74
+ 37.    629  O   ASN   97    E   <-->  2074  CZ  ARG   39    I      3.85
+ 38.    629  O   ASN   97    E   <-->  2076  NH1 ARG   39    I      3.59
+ 39.    635  OD1 ASN   97    E   <-->  2072  NE  ARG   39    I      3.89
+ 40.    635  OD1 ASN   97    E   <-->  2074  CZ  ARG   39    I      3.83
+ 41.    635  OD1 ASN   97    E   <-->  2078  NH2 ARG   39    I      3.56
+ 42.    652  CD1 LEU   99    E   <-->  1851  SG  CYS   14    I      3.65
+ 43.    652  CD1 LEU   99    E   <-->  2057  SG  CYS   38    I      3.78
+ 44.    653  CD2 LEU   99    E   <-->  2056  CB  CYS   38    I      3.72
+ 45.    653  CD2 LEU   99    E   <-->  2057  SG  CYS   38    I      3.64
+ 46.   1015  CG  TYR  151    E   <-->  1875  NH1 ARG   17    I      3.67
+ 47.   1019  CD2 TYR  151    E   <-->  1875  NH1 ARG   17    I      3.56
+ 48.   1023  CE2 TYR  151    E   <-->  1875  NH1 ARG   17    I      3.72
+ 49.   1027  OH  TYR  151    E   <-->  2031  CG2 VAL   34    I      3.43
+ 50.   1345  CG  ASP  189    E   <-->  1860  NZ  LYS   15    I      3.73
+ 51.   1346  OD1 ASP  189    E   <-->  1860  NZ  LYS   15    I      3.29
+ 52.   1347  OD2 ASP  189    E   <-->  1860  NZ  LYS   15    I      3.69
+ 53.   1350  C   SER  190    E   <-->  1858  CD  LYS   15    I      3.80
+ 54.   1350  C   SER  190    E   <-->  1860  NZ  LYS   15    I      3.70
+ 55.   1351  O   SER  190    E   <-->  1858  CD  LYS   15    I      3.60
+ 56.   1351  O   SER  190    E   <-->  1859  CE  LYS   15    I      3.28
+ 57.   1351  O   SER  190    E   <-->  1860  NZ  LYS   15    I      2.97
+ 58.   1353  OG  SER  190    E   <-->  1858  CD  LYS   15    I      3.55
+ 59.   1353  OG  SER  190    E   <-->  1859  CE  LYS   15    I      3.84
+ 60.   1353  OG  SER  190    E   <-->  1860  NZ  LYS   15    I      2.99
+ 61.   1355  CA  CYS  191    E   <-->  1858  CD  LYS   15    I      3.86
+ 62.   1356  C   CYS  191    E   <-->  1856  CB  LYS   15    I      3.71
+ 63.   1356  C   CYS  191    E   <-->  1857  CG  LYS   15    I      3.88
+ 64.   1357  O   CYS  191    E   <-->  1855  O   LYS   15    I      3.48
+ 65.   1357  O   CYS  191    E   <-->  1856  CB  LYS   15    I      3.51
+ 66.   1361  CA  GLN  192    E   <-->  1854  C   LYS   15    I      3.69
+ 67.   1361  CA  GLN  192    E   <-->  1855  O   LYS   15    I      3.43
+ 68.   1361  CA  GLN  192    E   <-->  1864  O   ALA   16    I      3.72
+ 69.   1362  C   GLN  192    E   <-->  1855  O   LYS   15    I      3.49
+ 70.   1364  CB  GLN  192    E   <-->  1864  O   ALA   16    I      3.47
+ 71.   1365  CG  GLN  192    E   <-->  1864  O   ALA   16    I      3.45
+ 72.   1366  CD  GLN  192    E   <-->  1849  O   CYS   14    I      3.88
+ 73.   1368  NE2 GLN  192    E   <-->  1848  C   CYS   14    I      3.78
+ 74.   1368  NE2 GLN  192    E   <-->  1849  O   CYS   14    I      2.90
+ 75.   1368  NE2 GLN  192    E   <-->  1853  CA  LYS   15    I      3.84
+ 76.   1368  NE2 GLN  192    E   <-->  1857  CG  LYS   15    I      3.80
+ 77.   1369  N   GLY  193    E   <-->  1854  C   LYS   15    I      3.50
+ 78.   1369  N   GLY  193    E   <-->  1855  O   LYS   15    I      2.66
+ 79.   1369  N   GLY  193    E   <-->  1863  C   ALA   16    I      3.48
+ 80.   1369  N   GLY  193    E   <-->  1864  O   ALA   16    I      3.58
+ 81.   1369  N   GLY  193    E   <-->  1866  N   ARG   17    I      3.68
+ 82.   1369  N   GLY  193    E   <-->  1870  CB  ARG   17    I      3.79
+ 83.   1370  CA  GLY  193    E   <-->  1855  O   LYS   15    I      3.55
+ 84.   1370  CA  GLY  193    E   <-->  1866  N   ARG   17    I      3.86
+ 85.   1370  CA  GLY  193    E   <-->  1870  CB  ARG   17    I      3.60
+ 86.   1371  C   GLY  193    E   <-->  1855  O   LYS   15    I      3.63
+ 87.   1373  N   ASP  194    E   <-->  1855  O   LYS   15    I      3.17
+ 88.   1375  C   ASP  194    E   <-->  1855  O   LYS   15    I      3.87
+ 89.   1381  N   SER  195    E   <-->  1854  C   LYS   15    I      3.74
+ 90.   1381  N   SER  195    E   <-->  1855  O   LYS   15    I      2.84
+ 91.   1382  CA  SER  195    E   <-->  1855  O   LYS   15    I      3.51
+ 92.   1385  CB  SER  195    E   <-->  1854  C   LYS   15    I      3.19
+ 93.   1385  CB  SER  195    E   <-->  1855  O   LYS   15    I      3.08
+ 94.   1385  CB  SER  195    E   <-->  1861  N   ALA   16    I      3.44
+ 95.   1385  CB  SER  195    E   <-->  1862  CA  ALA   16    I      3.72
+ 96.   1386  OG  SER  195    E   <-->  1852  N   LYS   15    I      2.90
+ 97.   1386  OG  SER  195    E   <-->  1853  CA  LYS   15    I      2.90
+ 98.   1386  OG  SER  195    E   <-->  1854  C   LYS   15    I      2.71
+ 99.   1386  OG  SER  195    E   <-->  1855  O   LYS   15    I      3.01
+100.   1386  OG  SER  195    E   <-->  1856  CB  LYS   15    I      3.14
+101.   1386  OG  SER  195    E   <-->  1861  N   ALA   16    I      3.11
+102.   1480  O   SER  214    E   <-->  1847  CA  CYS   14    I      3.47
+103.   1480  O   SER  214    E   <-->  1848  C   CYS   14    I      3.85
+104.   1480  O   SER  214    E   <-->  1850  CB  CYS   14    I      3.80
+105.   1480  O   SER  214    E   <-->  1852  N   LYS   15    I      3.23
+106.   1484  CA  TRP  215    E   <-->  1842  O   PRO   13    I      3.26
+107.   1485  C   TRP  215    E   <-->  1842  O   PRO   13    I      3.62
+108.   1485  C   TRP  215    E   <-->  1859  CE  LYS   15    I      3.87
+109.   1486  O   TRP  215    E   <-->  1859  CE  LYS   15    I      3.89
+110.   1486  O   TRP  215    E   <-->  1860  NZ  LYS   15    I      3.79
+111.   1487  CB  TRP  215    E   <-->  1841  C   PRO   13    I      3.73
+112.   1487  CB  TRP  215    E   <-->  1842  O   PRO   13    I      3.30
+113.   1487  CB  TRP  215    E   <-->  1847  CA  CYS   14    I      3.89
+114.   1497  N   GLY  216    E   <-->  1842  O   PRO   13    I      3.06
+115.   1500  O   GLY  216    E   <-->  1840  CA  PRO   13    I      3.43
+116.   1500  O   GLY  216    E   <-->  1841  C   PRO   13    I      3.80
+117.   1500  O   GLY  216    E   <-->  1842  O   PRO   13    I      3.27
+118.   1500  O   GLY  216    E   <-->  1843  CB  PRO   13    I      3.40
+119.   1510  O   GLY  219    E   <-->  1859  CE  LYS   15    I      3.90
+120.   1565  CA  GLY  226    E   <-->  1860  NZ  LYS   15    I      3.69
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1347  OD2 ASP  189    E   <-->  1860  NZ  LYS   15    I      3.29
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:         13
+
+Number of non-bonded contacts:   120
+
