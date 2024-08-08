@@ -1,0 +1,83 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dan   Chains H }{ U
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2330  N   THR  165    H   <-->  3733  OE1 GLU   91    U      3.02
+  2.   2345  NE2 GLN  166    H   <-->  3753  O   TYR   94    U      3.02
+  3.   2346  N   ASP  167    H   <-->  3761  OH  TYR   94    U      3.18
+  4.   2352  OD1 ASP  167    H   <-->  3778  ND2 ASN   96    U      3.02
+  5.   2881  NH1 ARG  230    H   <-->  3734  OE2 GLU   91    U      3.04
+  6.   2882  NH2 ARG  230    H   <-->  3734  OE2 GLU   91    U      3.08
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2323  CA  MET  164    H   <-->  3733  OE1 GLU   91    U      3.70
+  2.   2324  C   MET  164    H   <-->  3733  OE1 GLU   91    U      3.80
+  3.   2326  CB  MET  164    H   <-->  3733  OE1 GLU   91    U      3.76
+  4.   2326  CB  MET  164    H   <-->  3761  OH  TYR   94    U      3.36
+  5.   2329  CE  MET  164    H   <-->  3730  CB  GLU   91    U      3.69
+  6.   2329  CE  MET  164    H   <-->  3731  CG  GLU   91    U      3.77
+  7.   2329  CE  MET  164    H   <-->  3732  CD  GLU   91    U      3.46
+  8.   2329  CE  MET  164    H   <-->  3733  OE1 GLU   91    U      3.46
+  9.   2329  CE  MET  164    H   <-->  3758  CE1 TYR   94    U      3.75
+ 10.   2330  N   THR  165    H   <-->  3733  OE1 GLU   91    U      3.02
+ 11.   2334  CB  THR  165    H   <-->  3733  OE1 GLU   91    U      3.72
+ 12.   2335  OG1 THR  165    H   <-->  3733  OE1 GLU   91    U      3.65
+ 13.   2338  CA  GLN  166    H   <-->  3761  OH  TYR   94    U      3.86
+ 14.   2341  CB  GLN  166    H   <-->  3758  CE1 TYR   94    U      3.57
+ 15.   2341  CB  GLN  166    H   <-->  3760  CZ  TYR   94    U      3.55
+ 16.   2341  CB  GLN  166    H   <-->  3761  OH  TYR   94    U      3.13
+ 17.   2343  CD  GLN  166    H   <-->  3753  O   TYR   94    U      3.78
+ 18.   2343  CD  GLN  166    H   <-->  3758  CE1 TYR   94    U      3.72
+ 19.   2343  CD  GLN  166    H   <-->  3760  CZ  TYR   94    U      3.85
+ 20.   2344  OE1 GLN  166    H   <-->  3753  O   TYR   94    U      3.68
+ 21.   2344  OE1 GLN  166    H   <-->  3756  CD1 TYR   94    U      3.81
+ 22.   2344  OE1 GLN  166    H   <-->  3758  CE1 TYR   94    U      3.73
+ 23.   2345  NE2 GLN  166    H   <-->  3753  O   TYR   94    U      3.02
+ 24.   2345  NE2 GLN  166    H   <-->  3759  CE2 TYR   94    U      3.76
+ 25.   2345  NE2 GLN  166    H   <-->  3760  CZ  TYR   94    U      3.72
+ 26.   2346  N   ASP  167    H   <-->  3761  OH  TYR   94    U      3.18
+ 27.   2350  CB  ASP  167    H   <-->  3761  OH  TYR   94    U      3.78
+ 28.   2351  CG  ASP  167    H   <-->  3761  OH  TYR   94    U      3.04
+ 29.   2352  OD1 ASP  167    H   <-->  3761  OH  TYR   94    U      3.29
+ 30.   2352  OD1 ASP  167    H   <-->  3778  ND2 ASN   96    U      3.02
+ 31.   2353  OD2 ASP  167    H   <-->  3759  CE2 TYR   94    U      3.86
+ 32.   2353  OD2 ASP  167    H   <-->  3760  CZ  TYR   94    U      3.81
+ 33.   2353  OD2 ASP  167    H   <-->  3761  OH  TYR   94    U      2.94
+ 34.   2880  CZ  ARG  230    H   <-->  3734  OE2 GLU   91    U      3.50
+ 35.   2881  NH1 ARG  230    H   <-->  3731  CG  GLU   91    U      3.85
+ 36.   2881  NH1 ARG  230    H   <-->  3732  CD  GLU   91    U      3.73
+ 37.   2881  NH1 ARG  230    H   <-->  3734  OE2 GLU   91    U      3.04
+ 38.   2882  NH2 ARG  230    H   <-->  3732  CD  GLU   91    U      3.45
+ 39.   2882  NH2 ARG  230    H   <-->  3734  OE2 GLU   91    U      3.08
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2881  NH1 ARG  230    H   <-->  3734  OE2 GLU   91    U      3.04
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    39

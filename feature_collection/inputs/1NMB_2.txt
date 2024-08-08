@@ -1,0 +1,67 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1nmb   Chains L }{ N
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3776  O   PHE   92    L   <-->  1949  N   ASN  329    N      2.83
+  2.   3768  O   ASP   91    L   <-->  1956  ND2 ASN  329    N      2.56
+  3.   3300  OH  TYR   32    L   <-->  1960  O   ASP  330    N      2.66
+  4.   3789  OG1 THR   93    L   <-->  2057  OD1 ASN  344    N      2.49
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3776  O   PHE   92    L   <-->  1943  CA  PRO  328    N      3.32
+  2.   3776  O   PHE   92    L   <-->  1944  C   PRO  328    N      3.54
+  3.   3776  O   PHE   92    L   <-->  1946  CB  PRO  328    N      3.29
+  4.   3783  CZ  PHE   92    L   <-->  1946  CB  PRO  328    N      3.85
+  5.   3788  CB  THR   93    L   <-->  1946  CB  PRO  328    N      3.70
+  6.   3789  OG1 THR   93    L   <-->  1946  CB  PRO  328    N      3.75
+  7.   3776  O   PHE   92    L   <-->  1949  N   ASN  329    N      2.83
+  8.   3776  O   PHE   92    L   <-->  1950  CA  ASN  329    N      3.88
+  9.   3781  CE1 PHE   92    L   <-->  1952  O   ASN  329    N      3.68
+ 10.   3297  CE1 TYR   32    L   <-->  1953  CB  ASN  329    N      3.63
+ 11.   3299  CZ  TYR   32    L   <-->  1953  CB  ASN  329    N      3.55
+ 12.   3300  OH  TYR   32    L   <-->  1953  CB  ASN  329    N      3.79
+ 13.   3776  O   PHE   92    L   <-->  1953  CB  ASN  329    N      3.82
+ 14.   3768  O   ASP   91    L   <-->  1954  CG  ASN  329    N      3.84
+ 15.   3767  C   ASP   91    L   <-->  1956  ND2 ASN  329    N      3.77
+ 16.   3768  O   ASP   91    L   <-->  1956  ND2 ASN  329    N      2.56
+ 17.   3776  O   PHE   92    L   <-->  1956  ND2 ASN  329    N      3.66
+ 18.   3300  OH  TYR   32    L   <-->  1957  N   ASP  330    N      3.63
+ 19.   3300  OH  TYR   32    L   <-->  1959  C   ASP  330    N      3.63
+ 20.   3298  CE2 TYR   32    L   <-->  1960  O   ASP  330    N      2.99
+ 21.   3299  CZ  TYR   32    L   <-->  1960  O   ASP  330    N      3.23
+ 22.   3300  OH  TYR   32    L   <-->  1960  O   ASP  330    N      2.66
+ 23.   3280  OG  SER   30    L   <-->  1966  CA  PRO  331    N      3.36
+ 24.   3280  OG  SER   30    L   <-->  1967  C   PRO  331    N      3.88
+ 25.   3280  OG  SER   30    L   <-->  1969  CB  PRO  331    N      3.64
+ 26.   3280  OG  SER   30    L   <-->  1972  N   THR  332    N      3.45
+ 27.   3783  CZ  PHE   92    L   <-->  2036  CE1 TYR  341    N      3.80
+ 28.   3789  OG1 THR   93    L   <-->  2049  C   GLY  343    N      3.87
+ 29.   3789  OG1 THR   93    L   <-->  2050  O   GLY  343    N      3.38
+ 30.   3790  CG2 THR   93    L   <-->  2050  O   GLY  343    N      3.73
+ 31.   3789  OG1 THR   93    L   <-->  2056  CG  ASN  344    N      3.13
+ 32.   3788  CB  THR   93    L   <-->  2057  OD1 ASN  344    N      3.74
+ 33.   3789  OG1 THR   93    L   <-->  2057  OD1 ASN  344    N      2.49
+ 34.   3789  OG1 THR   93    L   <-->  2058  ND2 ASN  344    N      3.31
+ 35.   3794  O   LEU   94    L   <-->  2058  ND2 ASN  344    N      3.67
+ 36.   3798  CD2 LEU   94    L   <-->  2245  CB  ALA  369    N      3.90
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    36

@@ -1,0 +1,187 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dan   Chains H }{ L
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2683  NH2 ARG  204    H   <-->   772  O   GLU   94    L      2.87
+  2.   2064  OG1 THR  129C   H   <-->   784  OD1 ASN   95    L      2.90
+  3.   2682  NH1 ARG  204    H   <-->   797  O   CYS   98    L      2.45
+  4.   2003  OE2 GLU  125    H   <-->   919  NH1 ARG  113    L      2.62
+  5.   2002  OE1 GLU  125    H   <-->   920  NH2 ARG  113    L      2.89
+  6.   1983  O   LEU  123    H   <-->   936  NE2 HIS  115    L      2.85
+  7.   1933  OD1 ASP  116    H   <-->  1068  OH  TYR  133    L      2.79
+  8.   1962  O   PRO  120    H   <-->  1082  N   GLY  136    L      2.93
+  9.   2695  N   TRP  207    H   <-->  1085  O   GLY  136    L      2.89
+ 10.   2687  O   GLY  205    H   <-->  1094  NZ  LYS  137    L      3.19
+ 11.   2693  OG1 THR  206    H   <-->  1094  NZ  LYS  137    L      2.73
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2054  CD  ARG  129B   H   <-->   750  C   CYS   91    L      3.89
+  2.   2054  CD  ARG  129B   H   <-->   751  O   CYS   91    L      3.88
+  3.   2057  NH1 ARG  129B   H   <-->   752  CB  CYS   91    L      3.21
+  4.   2683  NH2 ARG  204    H   <-->   771  C   GLU   94    L      3.83
+  5.   2672  OH  TYR  203    H   <-->   772  O   GLU   94    L      3.85
+  6.   2681  CZ  ARG  204    H   <-->   772  O   GLU   94    L      3.54
+  7.   2682  NH1 ARG  204    H   <-->   772  O   GLU   94    L      3.49
+  8.   2683  NH2 ARG  204    H   <-->   772  O   GLU   94    L      2.87
+  9.   2672  OH  TYR  203    H   <-->   782  CB  ASN   95    L      3.29
+ 10.   2064  OG1 THR  129C   H   <-->   783  CG  ASN   95    L      3.63
+ 11.   2028  CD1 PHE  128    H   <-->   784  OD1 ASN   95    L      3.67
+ 12.   2030  CE1 PHE  128    H   <-->   784  OD1 ASN   95    L      3.89
+ 13.   2063  CB  THR  129C   H   <-->   784  OD1 ASN   95    L      3.87
+ 14.   2064  OG1 THR  129C   H   <-->   784  OD1 ASN   95    L      2.90
+ 15.   2030  CE1 PHE  128    H   <-->   785  ND2 ASN   95    L      3.78
+ 16.   2682  NH1 ARG  204    H   <-->   791  CA  GLY   97    L      3.58
+ 17.   2682  NH1 ARG  204    H   <-->   792  C   GLY   97    L      3.21
+ 18.   2682  NH1 ARG  204    H   <-->   793  O   GLY   97    L      3.52
+ 19.   2682  NH1 ARG  204    H   <-->   794  N   CYS   98    L      3.36
+ 20.   2682  NH1 ARG  204    H   <-->   796  C   CYS   98    L      3.21
+ 21.   2679  CD  ARG  204    H   <-->   797  O   CYS   98    L      3.85
+ 22.   2681  CZ  ARG  204    H   <-->   797  O   CYS   98    L      3.67
+ 23.   2682  NH1 ARG  204    H   <-->   797  O   CYS   98    L      2.45
+ 24.   2668  CD2 TYR  203    H   <-->   803  O   GLU   99    L      3.81
+ 25.   2670  CE2 TYR  203    H   <-->   803  O   GLU   99    L      3.84
+ 26.   2677  CB  ARG  204    H   <-->   803  O   GLU   99    L      3.79
+ 27.   2676  O   ARG  204    H   <-->   805  CG  GLU   99    L      3.80
+ 28.   2028  CD1 PHE  128    H   <-->   812  O   GLN  100    L      3.37
+ 29.   2030  CE1 PHE  128    H   <-->   812  O   GLN  100    L      3.12
+ 30.   2032  CZ  PHE  128    H   <-->   812  O   GLN  100    L      3.81
+ 31.   2720  OH  TYR  208    H   <-->   814  CG  GLN  100    L      3.51
+ 32.   2720  OH  TYR  208    H   <-->   815  CD  GLN  100    L      3.78
+ 33.   2003  OE2 GLU  125    H   <-->   823  CG  TYR  101    L      3.69
+ 34.   2026  CB  PHE  128    H   <-->   824  CD1 TYR  101    L      3.81
+ 35.   2027  CG  PHE  128    H   <-->   824  CD1 TYR  101    L      3.76
+ 36.   2003  OE2 GLU  125    H   <-->   825  CD2 TYR  101    L      3.18
+ 37.   1995  N   GLU  125    H   <-->   826  CE1 TYR  101    L      3.82
+ 38.   2027  CG  PHE  128    H   <-->   826  CE1 TYR  101    L      3.90
+ 39.   2029  CD2 PHE  128    H   <-->   826  CE1 TYR  101    L      3.58
+ 40.   2003  OE2 GLU  125    H   <-->   827  CE2 TYR  101    L      3.50
+ 41.   1995  N   GLU  125    H   <-->   828  CZ  TYR  101    L      3.83
+ 42.   1983  O   LEU  123    H   <-->   829  OH  TYR  101    L      3.72
+ 43.   1989  CA  PRO  124    H   <-->   829  OH  TYR  101    L      3.52
+ 44.   1990  C   PRO  124    H   <-->   829  OH  TYR  101    L      3.81
+ 45.   1995  N   GLU  125    H   <-->   829  OH  TYR  101    L      3.43
+ 46.   2057  NH1 ARG  129B   H   <-->   833  O   CYS  102    L      3.87
+ 47.   2002  OE1 GLU  125    H   <-->   918  CZ  ARG  113    L      3.80
+ 48.   2003  OE2 GLU  125    H   <-->   918  CZ  ARG  113    L      3.21
+ 49.   2001  CD  GLU  125    H   <-->   919  NH1 ARG  113    L      3.58
+ 50.   2002  OE1 GLU  125    H   <-->   919  NH1 ARG  113    L      3.82
+ 51.   2003  OE2 GLU  125    H   <-->   919  NH1 ARG  113    L      2.62
+ 52.   2001  CD  GLU  125    H   <-->   920  NH2 ARG  113    L      3.33
+ 53.   2002  OE1 GLU  125    H   <-->   920  NH2 ARG  113    L      2.89
+ 54.   2003  OE2 GLU  125    H   <-->   920  NH2 ARG  113    L      3.04
+ 55.   1983  O   LEU  123    H   <-->   934  CD2 HIS  115    L      3.28
+ 56.   1980  N   LEU  123    H   <-->   936  NE2 HIS  115    L      3.76
+ 57.   1982  C   LEU  123    H   <-->   936  NE2 HIS  115    L      3.88
+ 58.   1983  O   LEU  123    H   <-->   936  NE2 HIS  115    L      2.85
+ 59.   2693  OG1 THR  206    H   <-->   961  OH  TYR  118    L      3.71
+ 60.   2694  CG2 THR  206    H   <-->   961  OH  TYR  118    L      3.80
+ 61.   1918  CD1 LEU  114    H   <-->  1060  O   TYR  133    L      3.83
+ 62.   1923  O   THR  115    H   <-->  1063  CD1 TYR  133    L      3.77
+ 63.   1915  O   LEU  114    H   <-->  1064  CD2 TYR  133    L      3.64
+ 64.   1916  CB  LEU  114    H   <-->  1064  CD2 TYR  133    L      3.87
+ 65.   1922  C   THR  115    H   <-->  1065  CE1 TYR  133    L      3.53
+ 66.   1923  O   THR  115    H   <-->  1065  CE1 TYR  133    L      3.53
+ 67.   1927  N   ASP  116    H   <-->  1065  CE1 TYR  133    L      3.75
+ 68.   1933  OD1 ASP  116    H   <-->  1065  CE1 TYR  133    L      3.31
+ 69.   1915  O   LEU  114    H   <-->  1066  CE2 TYR  133    L      3.44
+ 70.   1921  CA  THR  115    H   <-->  1066  CE2 TYR  133    L      3.90
+ 71.   1921  CA  THR  115    H   <-->  1067  CZ  TYR  133    L      3.70
+ 72.   1922  C   THR  115    H   <-->  1067  CZ  TYR  133    L      3.58
+ 73.   1927  N   ASP  116    H   <-->  1067  CZ  TYR  133    L      3.77
+ 74.   1933  OD1 ASP  116    H   <-->  1067  CZ  TYR  133    L      3.49
+ 75.   1921  CA  THR  115    H   <-->  1068  OH  TYR  133    L      3.83
+ 76.   1922  C   THR  115    H   <-->  1068  OH  TYR  133    L      3.73
+ 77.   1927  N   ASP  116    H   <-->  1068  OH  TYR  133    L      3.48
+ 78.   1932  CG  ASP  116    H   <-->  1068  OH  TYR  133    L      3.79
+ 79.   1933  OD1 ASP  116    H   <-->  1068  OH  TYR  133    L      2.79
+ 80.   1957  CG1 VAL  119    H   <-->  1072  O   PRO  134    L      3.54
+ 81.   1962  O   PRO  120    H   <-->  1077  CA  CYS  135    L      3.24
+ 82.   1979  SG  CYS  122    H   <-->  1077  CA  CYS  135    L      3.65
+ 83.   1962  O   PRO  120    H   <-->  1078  C   CYS  135    L      3.57
+ 84.   1979  SG  CYS  122    H   <-->  1078  C   CYS  135    L      3.10
+ 85.   1979  SG  CYS  122    H   <-->  1079  O   CYS  135    L      3.16
+ 86.   1962  O   PRO  120    H   <-->  1080  CB  CYS  135    L      3.51
+ 87.   1974  N   CYS  122    H   <-->  1080  CB  CYS  135    L      3.67
+ 88.   1975  CA  CYS  122    H   <-->  1080  CB  CYS  135    L      3.75
+ 89.   1979  SG  CYS  122    H   <-->  1080  CB  CYS  135    L      3.06
+ 90.   1975  CA  CYS  122    H   <-->  1081  SG  CYS  135    L      3.39
+ 91.   1978  CB  CYS  122    H   <-->  1081  SG  CYS  135    L      3.03
+ 92.   1979  SG  CYS  122    H   <-->  1081  SG  CYS  135    L      2.04
+ 93.   1962  O   PRO  120    H   <-->  1082  N   GLY  136    L      2.93
+ 94.   1974  N   CYS  122    H   <-->  1082  N   GLY  136    L      3.84
+ 95.   1979  SG  CYS  122    H   <-->  1082  N   GLY  136    L      3.40
+ 96.   1979  SG  CYS  122    H   <-->  1083  CA  GLY  136    L      3.75
+ 97.   2695  N   TRP  207    H   <-->  1083  CA  GLY  136    L      3.71
+ 98.   2698  O   TRP  207    H   <-->  1083  CA  GLY  136    L      3.37
+ 99.   2695  N   TRP  207    H   <-->  1084  C   GLY  136    L      3.70
+100.   2689  CA  THR  206    H   <-->  1085  O   GLY  136    L      3.47
+101.   2690  C   THR  206    H   <-->  1085  O   GLY  136    L      3.64
+102.   2694  CG2 THR  206    H   <-->  1085  O   GLY  136    L      3.76
+103.   2695  N   TRP  207    H   <-->  1085  O   GLY  136    L      2.89
+104.   2696  CA  TRP  207    H   <-->  1085  O   GLY  136    L      3.85
+105.   2699  CB  TRP  207    H   <-->  1085  O   GLY  136    L      3.68
+106.   2700  CG  TRP  207    H   <-->  1085  O   GLY  136    L      3.89
+107.   2701  CD1 TRP  207    H   <-->  1085  O   GLY  136    L      3.33
+108.   1957  CG1 VAL  119    H   <-->  1089  O   LYS  137    L      3.50
+109.   2687  O   GLY  205    H   <-->  1092  CD  LYS  137    L      3.53
+110.   2687  O   GLY  205    H   <-->  1093  CE  LYS  137    L      3.61
+111.   2686  C   GLY  205    H   <-->  1094  NZ  LYS  137    L      3.81
+112.   2687  O   GLY  205    H   <-->  1094  NZ  LYS  137    L      3.19
+113.   2693  OG1 THR  206    H   <-->  1094  NZ  LYS  137    L      2.73
+114.   1236  CH2 TRP   29    H   <-->  1100  CG1 ILE  138    L      3.65
+115.   1200  O   GLY   25    H   <-->  1101  CG2 ILE  138    L      3.59
+116.   1204  O   GLU   26    H   <-->  1102  CD1 ILE  138    L      3.65
+117.   1928  CA  ASP  116    H   <-->  1107  CB  PRO  139    L      3.82
+118.   1930  O   ASP  116    H   <-->  1107  CB  PRO  139    L      3.86
+119.   1933  OD1 ASP  116    H   <-->  1107  CB  PRO  139    L      3.69
+120.   1958  CG2 VAL  119    H   <-->  1108  CG  PRO  139    L      3.45
+121.   1958  CG2 VAL  119    H   <-->  1109  CD  PRO  139    L      3.59
+122.   1191  O   LYS   24    H   <-->  1117  CD1 ILE  140    L      3.39
+123.   1198  CA  GLY   25    H   <-->  1117  CD1 ILE  140    L      3.87
+124.   1199  C   GLY   25    H   <-->  1117  CD1 ILE  140    L      3.74
+125.   1206  CG  GLU   26    H   <-->  1117  CD1 ILE  140    L      3.57
+126.   1209  OE2 GLU   26    H   <-->  1125  CD2 LEU  141    L      3.81
+
+Disulphide bonds
+----------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1979  SG  CYS  122    H   <-->  1081  SG  CYS  135    L      2.04
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2058  NH2 ARG  129B   H   <-->   849  OD2 ASP  104    L      3.96
+  2.   2003  OE2 GLU  125    H   <-->   919  NH1 ARG  113    L      2.62
+
+Number of salt bridges:            2
+
+Number of disulphide bonds:        1
+
+Number of hydrogen bonds:         11
+
+Number of non-bonded contacts:   126

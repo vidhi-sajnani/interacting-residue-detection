@@ -1,0 +1,162 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1k4u   Chains P }{ S
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1389  NZ  LYS  385    P   <-->   762  O   VAL  503    S      2.63
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1026  CB  GLN  362    P   <-->   182  CB  PHE  466    S      3.43
+  2.   1023  CA  GLN  362    P   <-->   183  CG  PHE  466    S      3.69
+  3.   1026  CB  GLN  362    P   <-->   183  CG  PHE  466    S      3.66
+  4.   1045  CD  PRO  363    P   <-->   183  CG  PHE  466    S      3.53
+  5.   1022  N   GLN  362    P   <-->   184  CD1 PHE  466    S      3.87
+  6.   1023  CA  GLN  362    P   <-->   184  CD1 PHE  466    S      3.40
+  7.   1026  CB  GLN  362    P   <-->   184  CD1 PHE  466    S      3.79
+  8.   1044  CG  PRO  363    P   <-->   185  CD2 PHE  466    S      3.78
+  9.   1045  CD  PRO  363    P   <-->   185  CD2 PHE  466    S      3.17
+ 10.   1023  CA  GLN  362    P   <-->   186  CE1 PHE  466    S      3.83
+ 11.   1044  CG  PRO  363    P   <-->   187  CE2 PHE  466    S      3.65
+ 12.   1045  CD  PRO  363    P   <-->   187  CE2 PHE  466    S      3.32
+ 13.   1045  CD  PRO  363    P   <-->   188  CZ  PHE  466    S      3.79
+ 14.   1069  CG2 VAL  365    P   <-->   215  CD1 TYR  468    S      3.42
+ 15.   1067  CB  VAL  365    P   <-->   217  CE1 TYR  468    S      3.87
+ 16.   1068  CG1 VAL  365    P   <-->   217  CE1 TYR  468    S      3.86
+ 17.   1069  CG2 VAL  365    P   <-->   217  CE1 TYR  468    S      3.18
+ 18.   1068  CG1 VAL  365    P   <-->   219  CZ  TYR  468    S      3.73
+ 19.   1068  CG1 VAL  365    P   <-->   220  OH  TYR  468    S      3.81
+ 20.   1387  CD  LYS  385    P   <-->   288  C   PRO  473    S      3.51
+ 21.   1387  CD  LYS  385    P   <-->   289  O   PRO  473    S      3.74
+ 22.   1388  CE  LYS  385    P   <-->   289  O   PRO  473    S      3.76
+ 23.   1385  CB  LYS  385    P   <-->   290  CB  PRO  473    S      3.87
+ 24.   1387  CD  LYS  385    P   <-->   290  CB  PRO  473    S      3.70
+ 25.   1385  CB  LYS  385    P   <-->   300  N   GLU  474    S      3.17
+ 26.   1386  CG  LYS  385    P   <-->   300  N   GLU  474    S      3.66
+ 27.   1387  CD  LYS  385    P   <-->   300  N   GLU  474    S      3.48
+ 28.   1385  CB  LYS  385    P   <-->   301  CA  GLU  474    S      3.29
+ 29.   1386  CG  LYS  385    P   <-->   301  CA  GLU  474    S      3.57
+ 30.   1387  CD  LYS  385    P   <-->   301  CA  GLU  474    S      3.78
+ 31.   1385  CB  LYS  385    P   <-->   304  CB  GLU  474    S      3.37
+ 32.   1410  CD2 LEU  386    P   <-->   304  CB  GLU  474    S      3.23
+ 33.   1410  CD2 LEU  386    P   <-->   305  CG  GLU  474    S      3.85
+ 34.   1112  CG  ARG  368    P   <-->   321  OD1 ASP  475    S      3.64
+ 35.   1252  O   ARG  377    P   <-->   538  O   LYS  489    S      3.48
+ 36.   1253  CB  ARG  377    P   <-->   538  O   LYS  489    S      3.19
+ 37.   1253  CB  ARG  377    P   <-->   558  CA  VAL  490    S      3.54
+ 38.   1255  CD  ARG  377    P   <-->   559  C   VAL  490    S      3.67
+ 39.   1184  CD1 LEU  373    P   <-->   560  O   VAL  490    S      3.18
+ 40.   1185  CD2 LEU  373    P   <-->   560  O   VAL  490    S      3.88
+ 41.   1253  CB  ARG  377    P   <-->   560  O   VAL  490    S      3.67
+ 42.   1254  CG  ARG  377    P   <-->   560  O   VAL  490    S      3.62
+ 43.   1255  CD  ARG  377    P   <-->   560  O   VAL  490    S      2.70
+ 44.   1256  NE  ARG  377    P   <-->   560  O   VAL  490    S      3.85
+ 45.   1184  CD1 LEU  373    P   <-->   562  CG1 VAL  490    S      3.52
+ 46.   1198  CA  ILE  374    P   <-->   562  CG1 VAL  490    S      3.56
+ 47.   1201  CB  ILE  374    P   <-->   562  CG1 VAL  490    S      3.77
+ 48.   1202  CG1 ILE  374    P   <-->   562  CG1 VAL  490    S      3.07
+ 49.   1252  O   ARG  377    P   <-->   563  CG2 VAL  490    S      3.17
+ 50.   1278  SG  CYS  378    P   <-->   563  CG2 VAL  490    S      3.15
+ 51.   1135  CB  PRO  369    P   <-->   577  CB  ASN  491    S      3.83
+ 52.   1184  CD1 LEU  373    P   <-->   577  CB  ASN  491    S      3.87
+ 53.   1185  CD2 LEU  373    P   <-->   577  CB  ASN  491    S      3.24
+ 54.   1135  CB  PRO  369    P   <-->   578  CG  ASN  491    S      3.45
+ 55.   1136  CG  PRO  369    P   <-->   578  CG  ASN  491    S      3.26
+ 56.   1137  CD  PRO  369    P   <-->   578  CG  ASN  491    S      3.79
+ 57.   1132  CA  PRO  369    P   <-->   579  OD1 ASN  491    S      3.78
+ 58.   1135  CB  PRO  369    P   <-->   579  OD1 ASN  491    S      3.36
+ 59.   1136  CG  PRO  369    P   <-->   579  OD1 ASN  491    S      3.39
+ 60.   1137  CD  PRO  369    P   <-->   579  OD1 ASN  491    S      3.53
+ 61.   1136  CG  PRO  369    P   <-->   580  ND2 ASN  491    S      3.23
+ 62.   1137  CD  PRO  369    P   <-->   580  ND2 ASN  491    S      3.71
+ 63.   1136  CG  PRO  369    P   <-->   621  CB  TRP  494    S      3.30
+ 64.   1137  CD  PRO  369    P   <-->   621  CB  TRP  494    S      3.56
+ 65.   1136  CG  PRO  369    P   <-->   622  CG  TRP  494    S      3.44
+ 66.   1137  CD  PRO  369    P   <-->   622  CG  TRP  494    S      3.04
+ 67.   1136  CG  PRO  369    P   <-->   623  CD1 TRP  494    S      3.68
+ 68.   1137  CD  PRO  369    P   <-->   623  CD1 TRP  494    S      2.88
+ 69.   1111  CB  ARG  368    P   <-->   624  CD2 TRP  494    S      3.83
+ 70.   1137  CD  PRO  369    P   <-->   624  CD2 TRP  494    S      3.57
+ 71.   1084  CG  PRO  366    P   <-->   625  NE1 TRP  494    S      3.58
+ 72.   1108  CA  ARG  368    P   <-->   625  NE1 TRP  494    S      3.55
+ 73.   1137  CD  PRO  369    P   <-->   625  NE1 TRP  494    S      3.33
+ 74.   1108  CA  ARG  368    P   <-->   626  CE2 TRP  494    S      3.44
+ 75.   1111  CB  ARG  368    P   <-->   626  CE2 TRP  494    S      3.54
+ 76.   1137  CD  PRO  369    P   <-->   626  CE2 TRP  494    S      3.72
+ 77.   1068  CG1 VAL  365    P   <-->   628  CZ2 TRP  494    S      3.43
+ 78.   1082  O   PRO  366    P   <-->   628  CZ2 TRP  494    S      3.37
+ 79.   1107  N   ARG  368    P   <-->   628  CZ2 TRP  494    S      3.83
+ 80.   1108  CA  ARG  368    P   <-->   628  CZ2 TRP  494    S      3.56
+ 81.   1111  CB  ARG  368    P   <-->   628  CZ2 TRP  494    S      3.40
+ 82.   1111  CB  ARG  368    P   <-->   629  CZ3 TRP  494    S      3.80
+ 83.   1068  CG1 VAL  365    P   <-->   630  CH2 TRP  494    S      3.49
+ 84.   1111  CB  ARG  368    P   <-->   630  CH2 TRP  494    S      3.53
+ 85.   1278  SG  CYS  378    P   <-->   661  CA  GLU  496    S      3.89
+ 86.   1278  SG  CYS  378    P   <-->   664  CB  GLU  496    S      3.55
+ 87.   1277  CB  CYS  378    P   <-->   665  CG  GLU  496    S      3.76
+ 88.   1278  SG  CYS  378    P   <-->   665  CG  GLU  496    S      3.16
+ 89.   1326  OG1 THR  382    P   <-->   665  CG  GLU  496    S      3.88
+ 90.   1326  OG1 THR  382    P   <-->   666  CD  GLU  496    S      3.72
+ 91.   1284  N   SER  379    P   <-->   668  OE2 GLU  496    S      3.77
+ 92.   1288  CB  SER  379    P   <-->   668  OE2 GLU  496    S      3.31
+ 93.   1289  OG  SER  379    P   <-->   668  OE2 GLU  496    S      3.83
+ 94.   1326  OG1 THR  382    P   <-->   668  OE2 GLU  496    S      3.66
+ 95.   1326  OG1 THR  382    P   <-->   761  C   VAL  503    S      3.30
+ 96.   1389  NZ  LYS  385    P   <-->   761  C   VAL  503    S      3.79
+ 97.   1326  OG1 THR  382    P   <-->   762  O   VAL  503    S      3.60
+ 98.   1388  CE  LYS  385    P   <-->   762  O   VAL  503    S      2.88
+ 99.   1389  NZ  LYS  385    P   <-->   762  O   VAL  503    S      2.63
+100.   1314  CB  SER  381    P   <-->   763  CB  VAL  503    S      3.16
+101.   1315  OG  SER  381    P   <-->   763  CB  VAL  503    S      2.94
+102.   1321  N   THR  382    P   <-->   763  CB  VAL  503    S      3.85
+103.   1326  OG1 THR  382    P   <-->   763  CB  VAL  503    S      3.59
+104.   1314  CB  SER  381    P   <-->   764  CG1 VAL  503    S      3.55
+105.   1315  OG  SER  381    P   <-->   764  CG1 VAL  503    S      3.89
+106.   1321  N   THR  382    P   <-->   764  CG1 VAL  503    S      3.60
+107.   1325  CB  THR  382    P   <-->   764  CG1 VAL  503    S      3.87
+108.   1326  OG1 THR  382    P   <-->   764  CG1 VAL  503    S      2.72
+109.   1314  CB  SER  381    P   <-->   765  CG2 VAL  503    S      3.11
+110.   1315  OG  SER  381    P   <-->   765  CG2 VAL  503    S      2.78
+111.   1326  OG1 THR  382    P   <-->   775  N   GLY  504    S      3.13
+112.   1326  OG1 THR  382    P   <-->   776  CA  GLY  504    S      3.33
+113.   1327  CG2 THR  382    P   <-->   776  CA  GLY  504    S      3.87
+114.   1326  OG1 THR  382    P   <-->   777  C   GLY  504    S      3.46
+115.   1327  CG2 THR  382    P   <-->   777  C   GLY  504    S      3.75
+116.   1326  OG1 THR  382    P   <-->   778  O   GLY  504    S      3.01
+117.   1327  CG2 THR  382    P   <-->   778  O   GLY  504    S      3.71
+118.   1278  SG  CYS  378    P   <-->   788  CG2 ILE  505    S      3.30
+119.   1327  CG2 THR  382    P   <-->   788  CG2 ILE  505    S      3.70
+120.   1068  CG1 VAL  365    P   <-->   826  CG  PRO  507    S      3.60
+121.   1043  CB  PRO  363    P   <-->   863  CG2 VAL  509    S      3.61
+122.   1044  CG  PRO  363    P   <-->   863  CG2 VAL  509    S      3.38
+123.   1044  CG  PRO  363    P   <-->   879  CD1 PHE  510    S      3.71
+124.   1042  O   PRO  363    P   <-->   881  CE1 PHE  510    S      3.32
+125.   1044  CG  PRO  363    P   <-->   881  CE1 PHE  510    S      3.31
+126.   1045  CD  PRO  363    P   <-->   881  CE1 PHE  510    S      3.81
+127.   1026  CB  GLN  362    P   <-->   882  CE2 PHE  510    S      3.87
+128.   1045  CD  PRO  363    P   <-->   882  CE2 PHE  510    S      3.54
+129.   1041  C   PRO  363    P   <-->   883  CZ  PHE  510    S      3.88
+130.   1042  O   PRO  363    P   <-->   883  CZ  PHE  510    S      2.85
+131.   1044  CG  PRO  363    P   <-->   883  CZ  PHE  510    S      3.46
+132.   1045  CD  PRO  363    P   <-->   883  CZ  PHE  510    S      3.40
+133.   1069  CG2 VAL  365    P   <-->   883  CZ  PHE  510    S      3.49
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:   133
+

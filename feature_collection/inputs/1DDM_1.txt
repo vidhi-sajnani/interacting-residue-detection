@@ -1,0 +1,85 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1ddm   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1212  C   ILE  144    A   <-->  2153  ND2 ASN    4    B      3.84
+  2.   1213  O   ILE  144    A   <-->  2151  CG  ASN    4    B      3.54
+  3.   1213  O   ILE  144    A   <-->  2153  ND2 ASN    4    B      2.99
+  4.   1216  CG2 ILE  144    A   <-->  2150  CB  ASN    4    B      3.78
+  5.   1230  CA  GLU  145    A   <-->  2153  ND2 ASN    4    B      3.74
+  6.   1232  O   GLU  145    A   <-->  2189  CA  PHE    7    B      3.60
+  7.   1232  O   GLU  145    A   <-->  2208  N   GLU    8    B      3.46
+  8.   1232  O   GLU  145    A   <-->  2215  OE1 GLU    8    B      3.82
+  9.   1233  CB  GLU  145    A   <-->  2180  O   SER    6    B      3.29
+ 10.   1236  OE1 GLU  145    A   <-->  2180  O   SER    6    B      3.64
+ 11.   1245  CA  LYS  146    A   <-->  2243  CE1 PHE   10    B      3.82
+ 12.   1247  O   LYS  146    A   <-->  2241  CD1 PHE   10    B      3.65
+ 13.   1247  O   LYS  146    A   <-->  2243  CE1 PHE   10    B      3.22
+ 14.   1251  CE  LYS  146    A   <-->  2245  CZ  PHE   10    B      3.75
+ 15.   1252  NZ  LYS  146    A   <-->  2215  OE1 GLU    8    B      3.88
+ 16.   1269  O   VAL  147    A   <-->  2152  OD1 ASN    4    B      3.90
+ 17.   1284  C   SER  148    A   <-->  2152  OD1 ASN    4    B      3.56
+ 18.   1285  O   SER  148    A   <-->  2151  CG  ASN    4    B      3.83
+ 19.   1285  O   SER  148    A   <-->  2152  OD1 ASN    4    B      2.81
+ 20.   1293  N   PHE  149    A   <-->  2152  OD1 ASN    4    B      3.73
+ 21.   1294  CA  PHE  149    A   <-->  2152  OD1 ASN    4    B      3.15
+ 22.   1297  CB  PHE  149    A   <-->  2139  CB  SER    3    B      3.47
+ 23.   1297  CB  PHE  149    A   <-->  2152  OD1 ASN    4    B      3.48
+ 24.   1315  C   CYS  150    A   <-->  2118  O   PHE    2    B      3.43
+ 25.   1316  O   CYS  150    A   <-->  2117  C   PHE    2    B      3.85
+ 26.   1316  O   CYS  150    A   <-->  2118  O   PHE    2    B      2.78
+ 27.   1316  O   CYS  150    A   <-->  2136  CA  SER    3    B      3.72
+ 28.   1316  O   CYS  150    A   <-->  2139  CB  SER    3    B      3.55
+ 29.   1339  CG  PRO  152    A   <-->  2106  N   GLY    1    B      3.10
+ 30.   1339  CG  PRO  152    A   <-->  2107  CA  GLY    1    B      3.52
+ 31.   1340  CD  PRO  152    A   <-->  2106  N   GLY    1    B      3.85
+ 32.   1340  CD  PRO  152    A   <-->  2107  CA  GLY    1    B      3.75
+ 33.   1551  CZ  ARG  165    A   <-->  2238  O   PHE   10    B      3.84
+ 34.   1553  NH2 ARG  165    A   <-->  2238  O   PHE   10    B      3.12
+ 35.   1573  OD1 ASP  166    A   <-->  2262  OXT PRO   11    B      2.92
+ 36.   1910  C   SER  188    A   <-->  2125  CZ  PHE    2    B      3.83
+ 37.   1911  O   SER  188    A   <-->  2124  CE2 PHE    2    B      3.53
+ 38.   1911  O   SER  188    A   <-->  2125  CZ  PHE    2    B      3.39
+ 39.   1913  OG  SER  188    A   <-->  2124  CE2 PHE    2    B      3.56
+ 40.   1913  OG  SER  188    A   <-->  2125  CZ  PHE    2    B      3.28
+ 41.   1994  CB  PHE  195    A   <-->  2147  CA  ASN    4    B      3.67
+ 42.   1997  CD2 PHE  195    A   <-->  2160  N   MET    5    B      3.43
+ 43.   1997  CD2 PHE  195    A   <-->  2164  CB  MET    5    B      3.59
+ 44.   1999  CE2 PHE  195    A   <-->  2164  CB  MET    5    B      3.73
+ 45.   1999  CE2 PHE  195    A   <-->  2165  CG  MET    5    B      3.75
+ 46.   2038  C   CYS  198    A   <-->  2182  OG  SER    6    B      3.58
+ 47.   2039  O   CYS  198    A   <-->  2182  OG  SER    6    B      3.33
+ 48.   2040  CB  CYS  198    A   <-->  2181  CB  SER    6    B      3.72
+ 49.   2041  SG  CYS  198    A   <-->  2181  CB  SER    6    B      3.59
+ 50.   2041  SG  CYS  198    A   <-->  2182  OG  SER    6    B      3.52
+ 51.   2047  N   LEU  199    A   <-->  2182  OG  SER    6    B      3.79
+ 52.   2048  CA  LEU  199    A   <-->  2182  OG  SER    6    B      3.80
+ 53.   2051  CB  LEU  199    A   <-->  2181  CB  SER    6    B      3.85
+ 54.   2051  CB  LEU  199    A   <-->  2182  OG  SER    6    B      3.80
+ 55.   2054  CD2 LEU  199    A   <-->  2162  C   MET    5    B      3.73
+ 56.   2054  CD2 LEU  199    A   <-->  2164  CB  MET    5    B      3.54
+ 57.   2054  CD2 LEU  199    A   <-->  2177  N   SER    6    B      3.59
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1252  NZ  LYS  146    A   <-->  2215  OE1 GLU    8    B      3.88
+
+Number of salt bridges:            1
+
+Number of non-bonded contacts:    57

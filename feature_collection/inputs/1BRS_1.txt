@@ -1,0 +1,41 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1brs   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     48  OD1 ASP    8    A   <-->  1719  CB  LYS  108    B      3.84
+  2.    839  O   LYS  108    A   <-->  1728  CB  ILE  109    B      3.88
+  3.    841  CG  LYS  108    A   <-->  1741  NH1 ARG  110    B      3.63
+  4.    842  CD  LYS  108    A   <-->  1740  CZ  ARG  110    B      3.73
+  5.    842  CD  LYS  108    A   <-->  1741  NH1 ARG  110    B      3.80
+  6.    842  CD  LYS  108    A   <-->  1742  NH2 ARG  110    B      3.72
+  7.    843  CE  LYS  108    A   <-->  1739  NE  ARG  110    B      3.68
+  8.    843  CE  LYS  108    A   <-->  1740  CZ  ARG  110    B      3.51
+  9.    843  CE  LYS  108    A   <-->  1742  NH2 ARG  110    B      3.67
+ 10.    846  CA  ILE  109    A   <-->  1727  O   ILE  109    B      3.66
+ 11.    847  C   ILE  109    A   <-->  1725  CA  ILE  109    B      3.89
+ 12.    847  C   ILE  109    A   <-->  1726  C   ILE  109    B      3.52
+ 13.    847  C   ILE  109    A   <-->  1727  O   ILE  109    B      3.16
+ 14.    848  O   ILE  109    A   <-->  1718  O   LYS  108    B      3.66
+ 15.    848  O   ILE  109    A   <-->  1725  CA  ILE  109    B      3.34
+ 16.    848  O   ILE  109    A   <-->  1726  C   ILE  109    B      3.03
+ 17.    848  O   ILE  109    A   <-->  1727  O   ILE  109    B      3.10
+ 18.    848  O   ILE  109    A   <-->  1732  N   ARG  110    B      3.47
+ 19.    853  N   ARG  110    A   <-->  1727  O   ILE  109    B      3.52
+ 20.    859  CD  ARG  110    A   <-->  1734  C   ARG  110    B      3.86
+ 21.    859  CD  ARG  110    A   <-->  1735  O   ARG  110    B      3.34
+ 22.    861  CZ  ARG  110    A   <-->  1721  CD  LYS  108    B      3.80
+ 23.    862  NH1 ARG  110    A   <-->  1718  O   LYS  108    B      3.66
+ 24.    863  NH2 ARG  110    A   <-->  1721  CD  LYS  108    B      3.79
+
+Number of non-bonded contacts:    24

@@ -1,0 +1,105 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1nmb   Chains H }{ L
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4751  N   PHE  100E   H   <-->  3342  OH  TYR   36    L      2.65
+  2.   4224  NE2 GLN   39    H   <-->  3359  OE1 GLN   38    L      2.96
+  3.   4223  OE1 GLN   39    H   <-->  3360  NE2 GLN   38    L      2.91
+  4.   4657  OH  TYR   91    H   <-->  3360  NE2 GLN   38    L      3.05
+  5.   4657  OH  TYR   91    H   <-->  3387  O   GLY   42    L      2.89
+  6.   4747  N   GLY  100D   H   <-->  3772  OD2 ASP   91    L      3.21
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4748  CA  GLY  100D   H   <-->  3314  CG  ASN   34    L      3.82
+  2.   4747  N   GLY  100D   H   <-->  3315  OD1 ASN   34    L      3.87
+  3.   4747  N   GLY  100D   H   <-->  3316  ND2 ASN   34    L      3.74
+  4.   4748  CA  GLY  100D   H   <-->  3316  ND2 ASN   34    L      3.42
+  5.   4790  NE1 TRP  103    H   <-->  3338  CD2 TYR   36    L      3.74
+  6.   4754  O   PHE  100E   H   <-->  3340  CE2 TYR   36    L      3.46
+  7.   4790  NE1 TRP  103    H   <-->  3340  CE2 TYR   36    L      3.39
+  8.   4791  CE2 TRP  103    H   <-->  3340  CE2 TYR   36    L      3.88
+  9.   4793  CZ2 TRP  103    H   <-->  3340  CE2 TYR   36    L      3.81
+ 10.   4751  N   PHE  100E   H   <-->  3341  CZ  TYR   36    L      3.80
+ 11.   4748  CA  GLY  100D   H   <-->  3342  OH  TYR   36    L      3.32
+ 12.   4749  C   GLY  100D   H   <-->  3342  OH  TYR   36    L      3.43
+ 13.   4751  N   PHE  100E   H   <-->  3342  OH  TYR   36    L      2.65
+ 14.   4752  CA  PHE  100E   H   <-->  3342  OH  TYR   36    L      3.65
+ 15.   4754  O   PHE  100E   H   <-->  3342  OH  TYR   36    L      3.88
+ 16.   4755  CB  PHE  100E   H   <-->  3342  OH  TYR   36    L      3.77
+ 17.   4223  OE1 GLN   39    H   <-->  3358  CD  GLN   38    L      3.71
+ 18.   4224  NE2 GLN   39    H   <-->  3358  CD  GLN   38    L      3.55
+ 19.   4222  CD  GLN   39    H   <-->  3359  OE1 GLN   38    L      3.75
+ 20.   4223  OE1 GLN   39    H   <-->  3359  OE1 GLN   38    L      3.69
+ 21.   4224  NE2 GLN   39    H   <-->  3359  OE1 GLN   38    L      2.96
+ 22.   4222  CD  GLN   39    H   <-->  3360  NE2 GLN   38    L      3.52
+ 23.   4223  OE1 GLN   39    H   <-->  3360  NE2 GLN   38    L      2.91
+ 24.   4224  NE2 GLN   39    H   <-->  3360  NE2 GLN   38    L      3.39
+ 25.   4657  OH  TYR   91    H   <-->  3360  NE2 GLN   38    L      3.05
+ 26.   4657  OH  TYR   91    H   <-->  3385  CA  GLY   42    L      3.83
+ 27.   4657  OH  TYR   91    H   <-->  3386  C   GLY   42    L      3.69
+ 28.   4655  CE2 TYR   91    H   <-->  3387  O   GLY   42    L      3.78
+ 29.   4656  CZ  TYR   91    H   <-->  3387  O   GLY   42    L      3.74
+ 30.   4657  OH  TYR   91    H   <-->  3387  O   GLY   42    L      2.89
+ 31.   4786  CB  TRP  103    H   <-->  3398  O   VAL   44    L      3.39
+ 32.   4787  CG  TRP  103    H   <-->  3398  O   VAL   44    L      3.35
+ 33.   4788  CD1 TRP  103    H   <-->  3398  O   VAL   44    L      3.60
+ 34.   4789  CD2 TRP  103    H   <-->  3399  CB  VAL   44    L      3.65
+ 35.   4792  CE3 TRP  103    H   <-->  3399  CB  VAL   44    L      3.55
+ 36.   4789  CD2 TRP  103    H   <-->  3400  CG1 VAL   44    L      3.68
+ 37.   4791  CE2 TRP  103    H   <-->  3400  CG1 VAL   44    L      3.75
+ 38.   4792  CE3 TRP  103    H   <-->  3400  CG1 VAL   44    L      3.77
+ 39.   4655  CE2 TYR   91    H   <-->  3401  CG2 VAL   44    L      3.73
+ 40.   4656  CZ  TYR   91    H   <-->  3401  CG2 VAL   44    L      3.73
+ 41.   4657  OH  TYR   91    H   <-->  3401  CG2 VAL   44    L      3.77
+ 42.   4792  CE3 TRP  103    H   <-->  3401  CG2 VAL   44    L      3.84
+ 43.   4754  O   PHE  100E   H   <-->  3415  CB  LEU   46    L      3.75
+ 44.   4763  CA  ASP  101    H   <-->  3418  CD2 LEU   46    L      3.64
+ 45.   4781  OH  TYR  102    H   <-->  3496  CE1 HIS   55    L      3.76
+ 46.   4765  O   ASP  101    H   <-->  3497  NE2 HIS   55    L      3.76
+ 47.   4778  CE1 TYR  102    H   <-->  3497  NE2 HIS   55    L      3.71
+ 48.   4780  CZ  TYR  102    H   <-->  3497  NE2 HIS   55    L      3.45
+ 49.   4781  OH  TYR  102    H   <-->  3497  NE2 HIS   55    L      3.27
+ 50.   4224  NE2 GLN   39    H   <-->  3740  CZ  PHE   87    L      3.70
+ 51.   4726  O   TYR  100A   H   <-->  3768  O   ASP   91    L      3.35
+ 52.   4736  CA  ASP  100B   H   <-->  3772  OD2 ASP   91    L      3.56
+ 53.   4737  C   ASP  100B   H   <-->  3772  OD2 ASP   91    L      3.80
+ 54.   4743  N   GLY  100C   H   <-->  3772  OD2 ASP   91    L      3.42
+ 55.   4747  N   GLY  100D   H   <-->  3772  OD2 ASP   91    L      3.21
+ 56.   4748  CA  GLY  100D   H   <-->  3772  OD2 ASP   91    L      3.85
+ 57.   4284  CZ3 TRP   47    H   <-->  3796  CG  LEU   94    L      3.87
+ 58.   4285  CH2 TRP   47    H   <-->  3796  CG  LEU   94    L      3.55
+ 59.   4282  CE3 TRP   47    H   <-->  3800  CA  PRO   95    L      3.74
+ 60.   4284  CZ3 TRP   47    H   <-->  3800  CA  PRO   95    L      3.56
+ 61.   4282  CE3 TRP   47    H   <-->  3803  CB  PRO   95    L      3.38
+ 62.   4284  CZ3 TRP   47    H   <-->  3803  CB  PRO   95    L      3.45
+ 63.   4282  CE3 TRP   47    H   <-->  3806  N   PHE   96    L      3.78
+ 64.   4759  CE1 PHE  100E   H   <-->  3813  CD2 PHE   96    L      3.78
+ 65.   4761  CZ  PHE  100E   H   <-->  3813  CD2 PHE   96    L      3.76
+ 66.   4726  O   TYR  100A   H   <-->  3814  CE1 PHE   96    L      3.72
+ 67.   4726  O   TYR  100A   H   <-->  3816  CZ  PHE   96    L      3.80
+ 68.   4727  CB  TYR  100A   H   <-->  3816  CZ  PHE   96    L      3.58
+ 69.   4730  CD2 TYR  100A   H   <-->  3816  CZ  PHE   96    L      3.88
+ 70.   4259  CB  LEU   45    H   <-->  3829  CG  PHE   98    L      3.80
+ 71.   4258  O   LEU   45    H   <-->  3830  CD1 PHE   98    L      3.76
+ 72.   4261  CD1 LEU   45    H   <-->  3831  CD2 PHE   98    L      3.74
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    72

@@ -1,0 +1,164 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1bj1   Chains V }{ W
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3317  N   VAL   15    V   <-->  4581  O   THR   77    W      3.06
+  2.   3320  O   VAL   15    V   <-->  4593  N   GLN   79    W      3.04
+  3.   3333  N   PHE   17    V   <-->  4600  OE1 GLN   79    W      3.15
+  4.   3404  OG  SER   24    V   <-->  4395  O   CYS   51    W      2.96
+  5.   3624  N   SER   50    V   <-->  4471  OD1 ASN   62    W      2.86
+  6.   3633  O   CYS   51    V   <-->  4166  OG  SER   24    W      2.89
+  7.   3696  SG  CYS   60    V   <-->  4397  SG  CYS   51    W      3.17
+  8.   3709  OD1 ASN   62    V   <-->  4386  N   SER   50    W      2.91
+  9.   3819  O   THR   77    V   <-->  4079  N   VAL   15    W      2.94
+ 10.   3831  N   GLN   79    V   <-->  4082  O   VAL   15    W      2.87
+ 11.   3838  OE1 GLN   79    V   <-->  4095  N   PHE   17    W      3.17
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3311  CA  VAL   14    V   <-->  4581  O   THR   77    W      3.30
+  2.   3312  C   VAL   14    V   <-->  4581  O   THR   77    W      3.69
+  3.   3315  CG1 VAL   14    V   <-->  4598  CG  GLN   79    W      3.47
+  4.   3315  CG1 VAL   14    V   <-->  4601  NE2 GLN   79    W      3.75
+  5.   3316  CG2 VAL   14    V   <-->  4584  CG2 THR   77    W      3.73
+  6.   3316  CG2 VAL   14    V   <-->  4713  CD  GLU   93    W      3.68
+  7.   3316  CG2 VAL   14    V   <-->  4715  OE2 GLU   93    W      3.10
+  8.   3317  N   VAL   15    V   <-->  4581  O   THR   77    W      3.06
+  9.   3320  O   VAL   15    V   <-->  4586  CA  MET   78    W      3.79
+ 10.   3320  O   VAL   15    V   <-->  4587  C   MET   78    W      3.90
+ 11.   3320  O   VAL   15    V   <-->  4593  N   GLN   79    W      3.04
+ 12.   3320  O   VAL   15    V   <-->  4597  CB  GLN   79    W      3.58
+ 13.   3320  O   VAL   15    V   <-->  4598  CG  GLN   79    W      3.61
+ 14.   3323  CG2 VAL   15    V   <-->  4581  O   THR   77    W      3.61
+ 15.   3323  CG2 VAL   15    V   <-->  4590  CG  MET   78    W      3.68
+ 16.   3323  CG2 VAL   15    V   <-->  4592  CE  MET   78    W      3.62
+ 17.   3325  CA  LYS   16    V   <-->  4600  OE1 GLN   79    W      3.73
+ 18.   3330  CD  LYS   16    V   <-->  4601  NE2 GLN   79    W      3.87
+ 19.   3332  NZ  LYS   16    V   <-->  4601  NE2 GLN   79    W      3.51
+ 20.   3333  N   PHE   17    V   <-->  4597  CB  GLN   79    W      3.61
+ 21.   3333  N   PHE   17    V   <-->  4600  OE1 GLN   79    W      3.15
+ 22.   3334  CA  PHE   17    V   <-->  4596  O   GLN   79    W      3.68
+ 23.   3337  CB  PHE   17    V   <-->  4600  OE1 GLN   79    W      3.86
+ 24.   3339  CD1 PHE   17    V   <-->  4596  O   GLN   79    W      3.66
+ 25.   3341  CE1 PHE   17    V   <-->  4373  O   LYS   48    W      3.25
+ 26.   3397  NH1 ARG   23    V   <-->  4217  OE1 GLU   30    W      3.31
+ 27.   3397  NH1 ARG   23    V   <-->  4409  CB  PRO   53    W      3.86
+ 28.   3397  NH1 ARG   23    V   <-->  4410  CG  PRO   53    W      3.81
+ 29.   3402  O   SER   24    V   <-->  4397  SG  CYS   51    W      3.87
+ 30.   3403  CB  SER   24    V   <-->  4233  CD2 LEU   32    W      3.76
+ 31.   3403  CB  SER   24    V   <-->  4395  O   CYS   51    W      3.26
+ 32.   3403  CB  SER   24    V   <-->  4397  SG  CYS   51    W      3.75
+ 33.   3404  OG  SER   24    V   <-->  4383  CB  PRO   49    W      3.35
+ 34.   3404  OG  SER   24    V   <-->  4384  CG  PRO   49    W      3.37
+ 35.   3404  OG  SER   24    V   <-->  4395  O   CYS   51    W      2.96
+ 36.   3431  CE1 HIS   27    V   <-->  4232  CD1 LEU   32    W      3.87
+ 37.   3447  CD1 ILE   29    V   <-->  4213  O   GLU   30    W      3.60
+ 38.   3451  O   GLU   30    V   <-->  4209  CD1 ILE   29    W      3.81
+ 39.   3455  OE1 GLU   30    V   <-->  4159  NH1 ARG   23    W      3.35
+ 40.   3470  CD1 LEU   32    V   <-->  4193  CE1 HIS   27    W      3.69
+ 41.   3470  CD1 LEU   32    V   <-->  4209  CD1 ILE   29    W      3.87
+ 42.   3470  CD1 LEU   32    V   <-->  4449  N   GLY   59    W      3.53
+ 43.   3470  CD1 LEU   32    V   <-->  4450  CA  GLY   59    W      3.64
+ 44.   3471  CD2 LEU   32    V   <-->  4165  CB  SER   24    W      3.82
+ 45.   3610  C   LYS   48    V   <-->  4103  CE1 PHE   17    W      3.64
+ 46.   3611  O   LYS   48    V   <-->  4101  CD1 PHE   17    W      3.71
+ 47.   3611  O   LYS   48    V   <-->  4103  CE1 PHE   17    W      2.79
+ 48.   3611  O   LYS   48    V   <-->  4105  CZ  PHE   17    W      3.67
+ 49.   3616  NZ  LYS   48    V   <-->  4468  O   ASN   62    W      3.57
+ 50.   3618  CA  PRO   49    V   <-->  4471  OD1 ASN   62    W      3.25
+ 51.   3619  C   PRO   49    V   <-->  4471  OD1 ASN   62    W      3.46
+ 52.   3621  CB  PRO   49    V   <-->  4166  OG  SER   24    W      3.55
+ 53.   3622  CG  PRO   49    V   <-->  4166  OG  SER   24    W      3.51
+ 54.   3624  N   SER   50    V   <-->  4458  SG  CYS   60    W      3.89
+ 55.   3624  N   SER   50    V   <-->  4471  OD1 ASN   62    W      2.86
+ 56.   3628  CB  SER   50    V   <-->  4471  OD1 ASN   62    W      3.84
+ 57.   3629  OG  SER   50    V   <-->  4457  CB  CYS   60    W      3.64
+ 58.   3632  C   CYS   51    V   <-->  4165  CB  SER   24    W      3.89
+ 59.   3633  O   CYS   51    V   <-->  4165  CB  SER   24    W      3.11
+ 60.   3633  O   CYS   51    V   <-->  4166  OG  SER   24    W      2.89
+ 61.   3635  SG  CYS   51    V   <-->  4164  O   SER   24    W      3.89
+ 62.   3635  SG  CYS   51    V   <-->  4165  CB  SER   24    W      3.51
+ 63.   3635  SG  CYS   51    V   <-->  4457  CB  CYS   60    W      3.79
+ 64.   3635  SG  CYS   51    V   <-->  4458  SG  CYS   60    W      3.54
+ 65.   3641  CG1 VAL   52    V   <-->  4127  CG1 VAL   20    W      3.65
+ 66.   3647  CB  PRO   53    V   <-->  4159  NH1 ARG   23    W      3.77
+ 67.   3648  CG  PRO   53    V   <-->  4158  CZ  ARG   23    W      3.88
+ 68.   3648  CG  PRO   53    V   <-->  4159  NH1 ARG   23    W      3.52
+ 69.   3687  N   GLY   59    V   <-->  4232  CD1 LEU   32    W      3.30
+ 70.   3688  CA  GLY   59    V   <-->  4232  CD1 LEU   32    W      3.38
+ 71.   3695  CB  CYS   60    V   <-->  4391  OG  SER   50    W      3.37
+ 72.   3695  CB  CYS   60    V   <-->  4397  SG  CYS   51    W      3.56
+ 73.   3696  SG  CYS   60    V   <-->  4391  OG  SER   50    W      3.85
+ 74.   3696  SG  CYS   60    V   <-->  4397  SG  CYS   51    W      3.17
+ 75.   3706  O   ASN   62    V   <-->  4378  NZ  LYS   48    W      3.65
+ 76.   3709  OD1 ASN   62    V   <-->  4380  CA  PRO   49    W      3.34
+ 77.   3709  OD1 ASN   62    V   <-->  4381  C   PRO   49    W      3.54
+ 78.   3709  OD1 ASN   62    V   <-->  4386  N   SER   50    W      2.91
+ 79.   3709  OD1 ASN   62    V   <-->  4390  CB  SER   50    W      3.81
+ 80.   3709  OD1 ASN   62    V   <-->  4391  OG  SER   50    W      3.39
+ 81.   3819  O   THR   77    V   <-->  4072  N   VAL   14    W      3.89
+ 82.   3819  O   THR   77    V   <-->  4073  CA  VAL   14    W      3.07
+ 83.   3819  O   THR   77    V   <-->  4074  C   VAL   14    W      3.49
+ 84.   3819  O   THR   77    V   <-->  4079  N   VAL   15    W      2.94
+ 85.   3819  O   THR   77    V   <-->  4085  CG2 VAL   15    W      3.76
+ 86.   3822  CG2 THR   77    V   <-->  4078  CG2 VAL   14    W      3.37
+ 87.   3824  CA  MET   78    V   <-->  4082  O   VAL   15    W      3.59
+ 88.   3825  C   MET   78    V   <-->  4082  O   VAL   15    W      3.69
+ 89.   3827  CB  MET   78    V   <-->  4128  CG2 VAL   20    W      3.89
+ 90.   3828  CG  MET   78    V   <-->  4085  CG2 VAL   15    W      3.69
+ 91.   3830  CE  MET   78    V   <-->  4085  CG2 VAL   15    W      3.55
+ 92.   3830  CE  MET   78    V   <-->  4160  NH2 ARG   23    W      3.89
+ 93.   3831  N   GLN   79    V   <-->  4082  O   VAL   15    W      2.87
+ 94.   3832  CA  GLN   79    V   <-->  4082  O   VAL   15    W      3.79
+ 95.   3834  O   GLN   79    V   <-->  4096  CA  PHE   17    W      3.37
+ 96.   3834  O   GLN   79    V   <-->  4099  CB  PHE   17    W      3.68
+ 97.   3834  O   GLN   79    V   <-->  4101  CD1 PHE   17    W      3.40
+ 98.   3835  CB  GLN   79    V   <-->  4082  O   VAL   15    W      3.58
+ 99.   3835  CB  GLN   79    V   <-->  4095  N   PHE   17    W      3.47
+100.   3835  CB  GLN   79    V   <-->  4096  CA  PHE   17    W      3.88
+101.   3836  CG  GLN   79    V   <-->  4077  CG1 VAL   14    W      3.38
+102.   3836  CG  GLN   79    V   <-->  4082  O   VAL   15    W      3.46
+103.   3837  CD  GLN   79    V   <-->  4087  CA  LYS   16    W      3.90
+104.   3837  CD  GLN   79    V   <-->  4092  CD  LYS   16    W      3.80
+105.   3837  CD  GLN   79    V   <-->  4095  N   PHE   17    W      3.88
+106.   3838  OE1 GLN   79    V   <-->  4087  CA  LYS   16    W      3.69
+107.   3838  OE1 GLN   79    V   <-->  4092  CD  LYS   16    W      3.79
+108.   3838  OE1 GLN   79    V   <-->  4095  N   PHE   17    W      3.17
+109.   3839  NE2 GLN   79    V   <-->  4077  CG1 VAL   14    W      3.87
+110.   3839  NE2 GLN   79    V   <-->  4092  CD  LYS   16    W      3.51
+111.   3839  NE2 GLN   79    V   <-->  4094  NZ  LYS   16    W      3.25
+112.   3852  CB  MET   81    V   <-->  4103  CE1 PHE   17    W      3.85
+113.   3951  CD  GLU   93    V   <-->  4078  CG2 VAL   14    W      3.72
+114.   3953  OE2 GLU   93    V   <-->  4078  CG2 VAL   14    W      3.20
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3397  NH1 ARG   23    V   <-->  4217  OE1 GLU   30    W      3.31
+  2.   3455  OE1 GLU   30    V   <-->  4159  NH1 ARG   23    W      3.35
+
+Number of salt bridges:            2
+
+Number of hydrogen bonds:         11
+
+Number of non-bonded contacts:   114

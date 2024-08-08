@@ -1,0 +1,21 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dvf   Chains A }{ C
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    704  O   TRP   92    A   <-->  1968  OH  TYR   32    C      3.66
+  2.    713  CZ3 TRP   92    A   <-->  2439  O   ASN   92    C      3.50
+  3.    714  CH2 TRP   92    A   <-->  2439  O   ASN   92    C      3.21
+  4.    714  CH2 TRP   92    A   <-->  2450  CG2 THR   93    C      3.81
+
+Number of non-bonded contacts:     4

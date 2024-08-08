@@ -1,0 +1,219 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1lfd   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     99  O   ASN   27    A   <-->   877  NE2 GLN  225    B      3.08
+  2.    107  O   GLY   28    A   <-->  1008  N   ARG  241    B      2.89
+  3.    116  N   MET   30    A   <-->   993  O   SER  239    B      2.79
+  4.    127  O   TYR   31    A   <-->   990  N   SER  239    B      3.11
+  5.    135  OH  TYR   31    A   <-->   980  OE1 GLU  237    B      2.96
+  6.    145  N   SER   33    A   <-->   976  O   GLU  237    B      3.18
+  7.    145  N   SER   33    A   <-->   988  OD1 ASP  238    B      3.21
+  8.    150  OG  SER   33    A   <-->   976  O   GLU  237    B      2.59
+  9.    283  O   ASP   51    A   <-->   930  NZ  LYS  231    B      2.98
+ 10.    313  OD1 ASN   54    A   <-->   930  NZ  LYS  231    B      3.18
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     31  CG2 ILE   18    A   <-->   971  CG2 ILE  236    B      3.69
+  2.     48  NE  ARG   20    A   <-->   980  OE1 GLU  237    B      3.88
+  3.     51  NH2 ARG   20    A   <-->   980  OE1 GLU  237    B      3.44
+  4.     99  O   ASN   27    A   <-->   874  CG  GLN  225    B      3.31
+  5.     99  O   ASN   27    A   <-->   875  CD  GLN  225    B      3.60
+  6.     99  O   ASN   27    A   <-->   877  NE2 GLN  225    B      3.08
+  7.    105  CA  GLY   28    A   <-->   867  CG2 ILE  224    B      3.84
+  8.    105  CA  GLY   28    A   <-->  1011  O   ARG  241    B      3.61
+  9.    106  C   GLY   28    A   <-->  1011  O   ARG  241    B      3.80
+ 10.    107  O   GLY   28    A   <-->   997  CA  TYR  240    B      3.38
+ 11.    107  O   GLY   28    A   <-->   998  C   TYR  240    B      3.62
+ 12.    107  O   GLY   28    A   <-->  1000  CB  TYR  240    B      3.61
+ 13.    107  O   GLY   28    A   <-->  1003  CD2 TYR  240    B      3.68
+ 14.    107  O   GLY   28    A   <-->  1008  N   ARG  241    B      2.89
+ 15.    107  O   GLY   28    A   <-->  1009  CA  ARG  241    B      3.89
+ 16.    107  O   GLY   28    A   <-->  1010  C   ARG  241    B      3.87
+ 17.    107  O   GLY   28    A   <-->  1011  O   ARG  241    B      3.17
+ 18.    109  CA  ASN   29    A   <-->   993  O   SER  239    B      3.78
+ 19.    109  CA  ASN   29    A   <-->  1003  CD2 TYR  240    B      3.71
+ 20.    110  C   ASN   29    A   <-->   993  O   SER  239    B      3.73
+ 21.    112  CB  ASN   29    A   <-->  1005  CE2 TYR  240    B      3.77
+ 22.    113  CG  ASN   29    A   <-->   993  O   SER  239    B      3.77
+ 23.    115  ND2 ASN   29    A   <-->   993  O   SER  239    B      3.12
+ 24.    115  ND2 ASN   29    A   <-->  1003  CD2 TYR  240    B      3.84
+ 25.    115  ND2 ASN   29    A   <-->  1005  CE2 TYR  240    B      3.49
+ 26.    115  ND2 ASN   29    A   <-->  1006  CZ  TYR  240    B      3.55
+ 27.    116  N   MET   30    A   <-->   992  C   SER  239    B      3.86
+ 28.    116  N   MET   30    A   <-->   993  O   SER  239    B      2.79
+ 29.    117  CA  MET   30    A   <-->   993  O   SER  239    B      3.58
+ 30.    120  CB  MET   30    A   <-->   993  O   SER  239    B      3.48
+ 31.    124  N   TYR   31    A   <-->   993  O   SER  239    B      3.46
+ 32.    127  O   TYR   31    A   <-->   983  CA  ASP  238    B      3.70
+ 33.    127  O   TYR   31    A   <-->   984  C   ASP  238    B      3.90
+ 34.    127  O   TYR   31    A   <-->   990  N   SER  239    B      3.11
+ 35.    127  O   TYR   31    A   <-->   993  O   SER  239    B      3.46
+ 36.    132  CE1 TYR   31    A   <-->   976  O   GLU  237    B      3.53
+ 37.    132  CE1 TYR   31    A   <-->   980  OE1 GLU  237    B      3.83
+ 38.    133  CE2 TYR   31    A   <-->   994  CB  SER  239    B      3.42
+ 39.    134  CZ  TYR   31    A   <-->   980  OE1 GLU  237    B      3.82
+ 40.    134  CZ  TYR   31    A   <-->   994  CB  SER  239    B      3.45
+ 41.    135  OH  TYR   31    A   <-->   979  CD  GLU  237    B      3.70
+ 42.    135  OH  TYR   31    A   <-->   980  OE1 GLU  237    B      2.96
+ 43.    135  OH  TYR   31    A   <-->   994  CB  SER  239    B      3.73
+ 44.    137  CA  LYS   32    A   <-->   988  OD1 ASP  238    B      3.28
+ 45.    138  C   LYS   32    A   <-->   988  OD1 ASP  238    B      3.69
+ 46.    140  CB  LYS   32    A   <-->   988  OD1 ASP  238    B      3.56
+ 47.    141  CG  LYS   32    A   <-->   987  CG  ASP  238    B      3.87
+ 48.    143  CE  LYS   32    A   <-->  1007  OH  TYR  240    B      3.41
+ 49.    144  NZ  LYS   32    A   <-->  1007  OH  TYR  240    B      3.81
+ 50.    145  N   SER   33    A   <-->   976  O   GLU  237    B      3.18
+ 51.    145  N   SER   33    A   <-->   988  OD1 ASP  238    B      3.21
+ 52.    146  CA  SER   33    A   <-->   976  O   GLU  237    B      3.76
+ 53.    149  CB  SER   33    A   <-->   969  CB  ILE  236    B      3.87
+ 54.    149  CB  SER   33    A   <-->   971  CG2 ILE  236    B      3.89
+ 55.    149  CB  SER   33    A   <-->   973  N   GLU  237    B      3.88
+ 56.    149  CB  SER   33    A   <-->   976  O   GLU  237    B      3.11
+ 57.    150  OG  SER   33    A   <-->   975  C   GLU  237    B      3.66
+ 58.    150  OG  SER   33    A   <-->   976  O   GLU  237    B      2.59
+ 59.    153  C   ILE   34    A   <-->   972  CD1 ILE  236    B      3.74
+ 60.    283  O   ASP   51    A   <-->   930  NZ  LYS  231    B      2.98
+ 61.    294  CD  LYS   52    A   <-->   950  OD2 ASP  233    B      3.66
+ 62.    295  CE  LYS   52    A   <-->   949  OD1 ASP  233    B      3.55
+ 63.    295  CE  LYS   52    A   <-->   950  OD2 ASP  233    B      3.62
+ 64.    296  NZ  LYS   52    A   <-->   948  CG  ASP  233    B      3.39
+ 65.    296  NZ  LYS   52    A   <-->   949  OD1 ASP  233    B      2.97
+ 66.    296  NZ  LYS   52    A   <-->   950  OD2 ASP  233    B      3.24
+ 67.    296  NZ  LYS   52    A   <-->   954  O   PRO  234    B      3.44
+ 68.    313  OD1 ASN   54    A   <-->   930  NZ  LYS  231    B      3.18
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     51  NH2 ARG   20    A   <-->   980  OE1 GLU  237    B      3.44
+  2.    296  NZ  LYS   52    A   <-->   949  OD1 ASP  233    B      2.97
+
+Number of salt bridges:            2
+
+Number of hydrogen bonds:         10
+
+Number of non-bonded contacts:    68
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    159  N   LEU   35    A   <-->  3212  OE1 GLU  263    D      3.06
+  2.    266  NZ  LYS   48    A   <-->  3208  O   GLU  263    D      2.73
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    152  CA  ILE   34    A   <-->  3212  OE1 GLU  263    D      3.67
+  2.    152  CA  ILE   34    A   <-->  3213  OE2 GLU  263    D      3.85
+  3.    153  C   ILE   34    A   <-->  3212  OE1 GLU  263    D      3.85
+  4.    153  C   ILE   34    A   <-->  3213  OE2 GLU  263    D      3.83
+  5.    155  CB  ILE   34    A   <-->  3212  OE1 GLU  263    D      3.57
+  6.    159  N   LEU   35    A   <-->  3211  CD  GLU  263    D      3.47
+  7.    159  N   LEU   35    A   <-->  3212  OE1 GLU  263    D      3.06
+  8.    159  N   LEU   35    A   <-->  3213  OE2 GLU  263    D      3.21
+  9.    163  CB  LEU   35    A   <-->  3211  CD  GLU  263    D      3.78
+ 10.    163  CB  LEU   35    A   <-->  3213  OE2 GLU  263    D      3.46
+ 11.    166  CD2 LEU   35    A   <-->  3222  CE1 TYR  264    D      3.73
+ 12.    166  CD2 LEU   35    A   <-->  3224  CZ  TYR  264    D      3.67
+ 13.    166  CD2 LEU   35    A   <-->  3225  OH  TYR  264    D      3.25
+ 14.    189  C   GLN   39    A   <-->  3236  CB  ALA  266    D      3.77
+ 15.    190  O   GLN   39    A   <-->  3236  CB  ALA  266    D      3.66
+ 16.    191  CB  GLN   39    A   <-->  3236  CB  ALA  266    D      3.68
+ 17.    194  OE1 GLN   39    A   <-->  3242  CG  MET  267    D      3.61
+ 18.    195  NE2 GLN   39    A   <-->  3271  OE1 GLN  270    D      3.79
+ 19.    202  OD1 ASP   40    A   <-->  3236  CB  ALA  266    D      3.24
+ 20.    263  CG  LYS   48    A   <-->  3199  O   GLU  262    D      3.66
+ 21.    263  CG  LYS   48    A   <-->  3212  OE1 GLU  263    D      3.77
+ 22.    264  CD  LYS   48    A   <-->  3199  O   GLU  262    D      3.59
+ 23.    264  CD  LYS   48    A   <-->  3206  CA  GLU  263    D      3.81
+ 24.    264  CD  LYS   48    A   <-->  3212  OE1 GLU  263    D      3.25
+ 25.    265  CE  LYS   48    A   <-->  3199  O   GLU  262    D      3.12
+ 26.    265  CE  LYS   48    A   <-->  3208  O   GLU  263    D      3.61
+ 27.    266  NZ  LYS   48    A   <-->  3199  O   GLU  262    D      3.77
+ 28.    266  NZ  LYS   48    A   <-->  3207  C   GLU  263    D      3.54
+ 29.    266  NZ  LYS   48    A   <-->  3208  O   GLU  263    D      2.73
+ 30.    287  OD2 ASP   51    A   <-->  3201  CG  GLU  262    D      3.48
+ 31.    287  OD2 ASP   51    A   <-->  3202  CD  GLU  262    D      3.77
+ 32.    287  OD2 ASP   51    A   <-->  3203  OE1 GLU  262    D      3.74
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    32
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      4  O   GLY   14    A   <-->  2055  N   ILE   18    C      2.76
+  2.     13  N   CYS   16    A   <-->  2046  O   CYS   16    C      2.99
+  3.     16  O   CYS   16    A   <-->  2043  N   CYS   16    C      2.90
+  4.     25  N   ILE   18    A   <-->  2034  O   GLY   14    C      3.03
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      3  C   GLY   14    A   <-->  2055  N   ILE   18    C      3.64
+  2.      4  O   GLY   14    A   <-->  2050  CA  CYS   17    C      3.14
+  3.      4  O   GLY   14    A   <-->  2051  C   CYS   17    C      3.42
+  4.      4  O   GLY   14    A   <-->  2053  CB  CYS   17    C      3.79
+  5.      4  O   GLY   14    A   <-->  2055  N   ILE   18    C      2.76
+  6.      4  O   GLY   14    A   <-->  2056  CA  ILE   18    C      3.86
+  7.      4  O   GLY   14    A   <-->  2059  CB  ILE   18    C      3.85
+  8.      4  O   GLY   14    A   <-->  2060  CG1 ILE   18    C      3.57
+  9.      6  CA  ASP   15    A   <-->  2046  O   CYS   16    C      3.79
+ 10.      7  C   ASP   15    A   <-->  2046  O   CYS   16    C      3.84
+ 11.     13  N   CYS   16    A   <-->  2046  O   CYS   16    C      2.99
+ 12.     14  CA  CYS   16    A   <-->  2046  O   CYS   16    C      3.81
+ 13.     15  C   CYS   16    A   <-->  2046  O   CYS   16    C      3.66
+ 14.     16  O   CYS   16    A   <-->  2037  C   ASP   15    C      3.86
+ 15.     16  O   CYS   16    A   <-->  2043  N   CYS   16    C      2.90
+ 16.     16  O   CYS   16    A   <-->  2044  CA  CYS   16    C      3.56
+ 17.     16  O   CYS   16    A   <-->  2045  C   CYS   16    C      3.49
+ 18.     16  O   CYS   16    A   <-->  2046  O   CYS   16    C      2.81
+ 19.     16  O   CYS   16    A   <-->  2047  CB  CYS   16    C      3.72
+ 20.     18  SG  CYS   16    A   <-->  2195  CD1 LEU   35    C      3.63
+ 21.     20  CA  CYS   17    A   <-->  2034  O   GLY   14    C      3.20
+ 22.     21  C   CYS   17    A   <-->  2034  O   GLY   14    C      3.63
+ 23.     23  CB  CYS   17    A   <-->  2034  O   GLY   14    C      3.42
+ 24.     25  N   ILE   18    A   <-->  2034  O   GLY   14    C      3.03
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    24
+

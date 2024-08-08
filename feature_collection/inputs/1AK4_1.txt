@@ -1,0 +1,144 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1ak4   Chains A }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    516  NH1 ARG   55    A   <-->  5300  O   PRO  490    D      2.91
+  2.    517  NH2 ARG   55    A   <-->  5300  O   PRO  490    D      2.67
+  3.    590  NE2 GLN   63    A   <-->  5289  O   ALA  488    D      2.92
+  4.    667  O   ASN   71    A   <-->  5279  ND1 HIS  487    D      3.12
+  5.    678  O   GLY   72    A   <-->  5286  N   ALA  488    D      2.84
+  6.    949  O   ASN  102    A   <-->  5292  N   GLY  489    D      3.03
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    515  CZ  ARG   55    A   <-->  5300  O   PRO  490    D      3.20
+  2.    516  NH1 ARG   55    A   <-->  5293  CA  GLY  489    D      3.66
+  3.    516  NH1 ARG   55    A   <-->  5297  N   PRO  490    D      3.62
+  4.    516  NH1 ARG   55    A   <-->  5300  O   PRO  490    D      2.91
+  5.    516  NH1 ARG   55    A   <-->  5303  CD  PRO  490    D      3.65
+  6.    517  NH2 ARG   55    A   <-->  5299  C   PRO  490    D      3.85
+  7.    517  NH2 ARG   55    A   <-->  5300  O   PRO  490    D      2.67
+  8.    561  CD2 PHE   60    A   <-->  5317  CB  ALA  492    D      3.51
+  9.    563  CE2 PHE   60    A   <-->  5300  O   PRO  490    D      3.48
+ 10.    563  CE2 PHE   60    A   <-->  5306  C   ILE  491    D      3.88
+ 11.    563  CE2 PHE   60    A   <-->  5313  N   ALA  492    D      3.52
+ 12.    563  CE2 PHE   60    A   <-->  5314  CA  ALA  492    D      3.55
+ 13.    563  CE2 PHE   60    A   <-->  5317  CB  ALA  492    D      3.58
+ 14.    564  CZ  PHE   60    A   <-->  5300  O   PRO  490    D      3.88
+ 15.    564  CZ  PHE   60    A   <-->  5301  CB  PRO  490    D      3.61
+ 16.    564  CZ  PHE   60    A   <-->  5302  CG  PRO  490    D      3.77
+ 17.    564  CZ  PHE   60    A   <-->  5306  C   ILE  491    D      3.78
+ 18.    564  CZ  PHE   60    A   <-->  5307  O   ILE  491    D      3.53
+ 19.    564  CZ  PHE   60    A   <-->  5313  N   ALA  492    D      3.81
+ 20.    564  CZ  PHE   60    A   <-->  5314  CA  ALA  492    D      3.77
+ 21.    571  CG  MET   61    A   <-->  5302  CG  PRO  490    D      3.89
+ 22.    588  CD  GLN   63    A   <-->  5289  O   ALA  488    D      3.69
+ 23.    588  CD  GLN   63    A   <-->  5293  CA  GLY  489    D      3.74
+ 24.    589  OE1 GLN   63    A   <-->  5289  O   ALA  488    D      3.61
+ 25.    589  OE1 GLN   63    A   <-->  5293  CA  GLY  489    D      3.21
+ 26.    589  OE1 GLN   63    A   <-->  5303  CD  PRO  490    D      3.81
+ 27.    590  NE2 GLN   63    A   <-->  5288  C   ALA  488    D      3.58
+ 28.    590  NE2 GLN   63    A   <-->  5289  O   ALA  488    D      2.92
+ 29.    590  NE2 GLN   63    A   <-->  5293  CA  GLY  489    D      3.75
+ 30.    667  O   ASN   71    A   <-->  5279  ND1 HIS  487    D      3.12
+ 31.    667  O   ASN   71    A   <-->  5281  CE1 HIS  487    D      3.75
+ 32.    677  C   GLY   72    A   <-->  5286  N   ALA  488    D      3.78
+ 33.    678  O   GLY   72    A   <-->  5274  CA  HIS  487    D      3.61
+ 34.    678  O   GLY   72    A   <-->  5275  C   HIS  487    D      3.67
+ 35.    678  O   GLY   72    A   <-->  5286  N   ALA  488    D      2.84
+ 36.    678  O   GLY   72    A   <-->  5287  CA  ALA  488    D      3.73
+ 37.    678  O   GLY   72    A   <-->  5290  CB  ALA  488    D      3.54
+ 38.    685  OG1 THR   73    A   <-->  5279  ND1 HIS  487    D      3.40
+ 39.    685  OG1 THR   73    A   <-->  5281  CE1 HIS  487    D      3.42
+ 40.    686  CG2 THR   73    A   <-->  5262  CB  PRO  485    D      3.55
+ 41.    686  CG2 THR   73    A   <-->  5267  C   VAL  486    D      3.84
+ 42.    686  CG2 THR   73    A   <-->  5268  O   VAL  486    D      3.28
+ 43.    943  O   ALA  101    A   <-->  5290  CB  ALA  488    D      3.67
+ 44.    948  C   ASN  102    A   <-->  5290  CB  ALA  488    D      3.86
+ 45.    949  O   ASN  102    A   <-->  5287  CA  ALA  488    D      3.42
+ 46.    949  O   ASN  102    A   <-->  5288  C   ALA  488    D      3.72
+ 47.    949  O   ASN  102    A   <-->  5290  CB  ALA  488    D      3.53
+ 48.    949  O   ASN  102    A   <-->  5292  N   GLY  489    D      3.03
+ 49.    949  O   ASN  102    A   <-->  5295  O   GLY  489    D      3.55
+ 50.    961  CB  ALA  103    A   <-->  5271  CG2 VAL  486    D      3.66
+ 51.   1027  NE2 GLN  111    A   <-->  5290  CB  ALA  488    D      3.31
+ 52.   1049  CD1 PHE  113    A   <-->  5302  CG  PRO  490    D      3.81
+ 53.   1049  CD1 PHE  113    A   <-->  5303  CD  PRO  490    D      3.68
+ 54.   1051  CE1 PHE  113    A   <-->  5302  CG  PRO  490    D      3.87
+ 55.   1126  NE1 TRP  121    A   <-->  5307  O   ILE  491    D      3.63
+ 56.   1129  CZ2 TRP  121    A   <-->  5324  CG  PRO  493    D      3.43
+ 57.   1129  CZ2 TRP  121    A   <-->  5325  CD  PRO  493    D      3.46
+ 58.   1131  CH2 TRP  121    A   <-->  5324  CG  PRO  493    D      3.82
+ 59.   1140  CD1 LEU  122    A   <-->  5301  CB  PRO  490    D      3.76
+ 60.   1141  CD2 LEU  122    A   <-->  5301  CB  PRO  490    D      3.82
+ 61.   1178  CE1 HIS  126    A   <-->  5295  O   GLY  489    D      3.69
+ 62.   1178  CE1 HIS  126    A   <-->  5297  N   PRO  490    D      3.88
+ 63.   1178  CE1 HIS  126    A   <-->  5298  CA  PRO  490    D      3.80
+ 64.   1179  NE2 HIS  126    A   <-->  5298  CA  PRO  490    D      3.68
+ 65.   1179  NE2 HIS  126    A   <-->  5301  CB  PRO  490    D      3.73
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3416  CB  PRO  434    C   <-->  5806  NE  ARG  543    D      3.90
+  2.   3416  CB  PRO  434    C   <-->  5809  NH2 ARG  543    D      3.85
+  3.   3417  CG  PRO  434    C   <-->  5806  NE  ARG  543    D      3.70
+  4.   4318  NH2 ARG  532    C   <-->  5693  NH1 ARG  532    D      3.89
+  5.   4366  CD2 LEU  536    C   <-->  5765  ND2 ASN  539    D      3.75
+  6.   4386  CB  ASN  539    C   <-->  5764  OD1 ASN  539    D      3.59
+  7.   4387  CG  ASN  539    C   <-->  5762  CB  ASN  539    D      3.87
+  8.   4388  OD1 ASN  539    C   <-->  5762  CB  ASN  539    D      3.62
+  9.   4388  OD1 ASN  539    C   <-->  5808  NH1 ARG  543    D      3.45
+ 10.   4428  CG  ARG  543    C   <-->  5803  CB  ARG  543    D      3.81
+ 11.   4430  NE  ARG  543    C   <-->  5796  CG1 VAL  542    D      3.87
+ 12.   4430  NE  ARG  543    C   <-->  5800  CA  ARG  543    D      3.89
+ 13.   4430  NE  ARG  543    C   <-->  5803  CB  ARG  543    D      3.56
+ 14.   4431  CZ  ARG  543    C   <-->  5764  OD1 ASN  539    D      3.77
+ 15.   4431  CZ  ARG  543    C   <-->  5796  CG1 VAL  542    D      3.50
+ 16.   4432  NH1 ARG  543    C   <-->  4793  CG  PRO  434    D      3.87
+ 17.   4432  NH1 ARG  543    C   <-->  5796  CG1 VAL  542    D      3.37
+ 18.   4433  NH2 ARG  543    C   <-->  5759  CA  ASN  539    D      3.56
+ 19.   4433  NH2 ARG  543    C   <-->  5760  C   ASN  539    D      3.72
+ 20.   4433  NH2 ARG  543    C   <-->  5761  O   ASN  539    D      3.24
+ 21.   4433  NH2 ARG  543    C   <-->  5762  CB  ASN  539    D      3.57
+ 22.   4433  NH2 ARG  543    C   <-->  5763  CG  ASN  539    D      3.46
+ 23.   4433  NH2 ARG  543    C   <-->  5764  OD1 ASN  539    D      2.71
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2952  CD  LYS  151    B   <-->  5590  OD1 ASN  521    D      3.66
+  2.   2953  CE  LYS  151    B   <-->  5590  OD1 ASN  521    D      3.55
+  3.   2954  NZ  LYS  151    B   <-->  5588  CB  ASN  521    D      3.60
+  4.   2954  NZ  LYS  151    B   <-->  5589  CG  ASN  521    D      3.63
+  5.   2954  NZ  LYS  151    B   <-->  5590  OD1 ASN  521    D      3.36
+
+Number of non-bonded contacts:     5
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    65

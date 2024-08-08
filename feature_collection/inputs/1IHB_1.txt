@@ -1,0 +1,82 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1ihb   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    159  O   GLN   26    A   <-->  2167  NE  ARG  133    B      2.70
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    151  O   LEU   25    A   <-->  2166  CD  ARG  133    B      3.55
+  2.    158  C   GLN   26    A   <-->  2166  CD  ARG  133    B      3.66
+  3.    158  C   GLN   26    A   <-->  2167  NE  ARG  133    B      3.53
+  4.    159  O   GLN   26    A   <-->  2165  CG  ARG  133    B      3.56
+  5.    159  O   GLN   26    A   <-->  2166  CD  ARG  133    B      3.11
+  6.    159  O   GLN   26    A   <-->  2167  NE  ARG  133    B      2.70
+  7.    159  O   GLN   26    A   <-->  2168  CZ  ARG  133    B      3.86
+  8.    162  CD  GLN   26    A   <-->  2160  N   ARG  133    B      3.51
+  9.    162  CD  GLN   26    A   <-->  2163  O   ARG  133    B      3.90
+ 10.    163  OE1 GLN   26    A   <-->  2156  ND1 HIS  132    B      3.78
+ 11.    163  OE1 GLN   26    A   <-->  2158  CE1 HIS  132    B      3.73
+ 12.    163  OE1 GLN   26    A   <-->  2160  N   ARG  133    B      3.46
+ 13.    163  OE1 GLN   26    A   <-->  2162  C   ARG  133    B      3.80
+ 14.    163  OE1 GLN   26    A   <-->  2163  O   ARG  133    B      2.96
+ 15.    164  NE2 GLN   26    A   <-->  2149  O   GLY  131    B      3.83
+ 16.    164  NE2 GLN   26    A   <-->  2151  CA  HIS  132    B      3.27
+ 17.    164  NE2 GLN   26    A   <-->  2152  C   HIS  132    B      3.47
+ 18.    164  NE2 GLN   26    A   <-->  2156  ND1 HIS  132    B      3.88
+ 19.    164  NE2 GLN   26    A   <-->  2160  N   ARG  133    B      2.77
+ 20.    164  NE2 GLN   26    A   <-->  2161  CA  ARG  133    B      3.82
+ 21.    164  NE2 GLN   26    A   <-->  2164  CB  ARG  133    B      3.86
+ 22.    164  NE2 GLN   26    A   <-->  2165  CG  ARG  133    B      3.86
+ 23.    167  C   ASN   27    A   <-->  2167  NE  ARG  133    B      3.64
+ 24.    168  O   ASN   27    A   <-->  2166  CD  ARG  133    B      3.87
+ 25.    168  O   ASN   27    A   <-->  2167  NE  ARG  133    B      3.48
+ 26.    173  N   ASN   28    A   <-->  2170  NH2 ARG  133    B      3.62
+ 27.    174  CA  ASN   28    A   <-->  2170  NH2 ARG  133    B      3.60
+ 28.    177  CB  ASN   28    A   <-->  2170  NH2 ARG  133    B      3.37
+ 29.    375  NH2 ARG   54    A   <-->  1917  O   ASN  101    B      3.60
+ 30.    375  NH2 ARG   54    A   <-->  2185  ND1 HIS  135    B      3.74
+ 31.    383  NE  ARG   55    A   <-->  2184  CG  HIS  135    B      3.62
+ 32.    383  NE  ARG   55    A   <-->  2186  CD2 HIS  135    B      3.54
+ 33.    383  NE  ARG   55    A   <-->  2188  NE2 HIS  135    B      3.88
+ 34.    384  CZ  ARG   55    A   <-->  2184  CG  HIS  135    B      3.73
+ 35.    384  CZ  ARG   55    A   <-->  2186  CD2 HIS  135    B      3.15
+ 36.    384  CZ  ARG   55    A   <-->  2188  NE2 HIS  135    B      3.46
+ 37.    385  NH1 ARG   55    A   <-->  2186  CD2 HIS  135    B      3.68
+ 38.    385  NH1 ARG   55    A   <-->  2188  NE2 HIS  135    B      3.53
+ 39.    386  NH2 ARG   55    A   <-->  2184  CG  HIS  135    B      3.79
+ 40.    386  NH2 ARG   55    A   <-->  2186  CD2 HIS  135    B      3.10
+ 41.    386  NH2 ARG   55    A   <-->  2188  NE2 HIS  135    B      3.80
+ 42.    405  C   LEU   58    A   <-->  2182  O   HIS  135    B      3.87
+ 43.    406  O   LEU   58    A   <-->  2182  O   HIS  135    B      3.88
+ 44.    407  CB  LEU   58    A   <-->  2182  O   HIS  135    B      3.66
+ 45.    416  CG  ARG   59    A   <-->  2182  O   HIS  135    B      3.62
+ 46.    417  CD  ARG   59    A   <-->  2182  O   HIS  135    B      3.79
+ 47.    417  CD  ARG   59    A   <-->  2191  C   LYS  136    B      3.51
+ 48.    417  CD  ARG   59    A   <-->  2192  O   LYS  136    B      3.37
+ 49.    417  CD  ARG   59    A   <-->  2198  N   GLY  137    B      3.61
+ 50.    417  CD  ARG   59    A   <-->  2199  CA  GLY  137    B      3.64
+ 51.    418  NE  ARG   59    A   <-->  2199  CA  GLY  137    B      3.61
+ 52.    419  CZ  ARG   59    A   <-->  2199  CA  GLY  137    B      3.55
+ 53.    420  NH1 ARG   59    A   <-->  2199  CA  GLY  137    B      3.46
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    53
+

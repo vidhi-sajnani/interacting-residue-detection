@@ -1,0 +1,40 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1jtg   Chains B }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2033  N   VAL    3    B   <-->  3358  O   ASP   38    C      2.90
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2029  N   GLY    2    B   <-->  3381  CA  GLY   41    C      3.57
+  2.   2030  CA  GLY    2    B   <-->  3358  O   ASP   38    C      3.09
+  3.   2030  CA  GLY    2    B   <-->  3366  O   GLN   39    C      3.82
+  4.   2030  CA  GLY    2    B   <-->  3380  N   GLY   41    C      3.73
+  5.   2030  CA  GLY    2    B   <-->  3381  CA  GLY   41    C      3.63
+  6.   2031  C   GLY    2    B   <-->  3358  O   ASP   38    C      3.48
+  7.   2033  N   VAL    3    B   <-->  3358  O   ASP   38    C      2.90
+  8.   2038  CG1 VAL    3    B   <-->  3358  O   ASP   38    C      3.87
+  9.   2039  CG2 VAL    3    B   <-->  3358  O   ASP   38    C      3.64
+ 10.   2052  CB  THR    5    B   <-->  3371  NE2 GLN   39    C      3.82
+ 11.   2054  CG2 THR    5    B   <-->  3371  NE2 GLN   39    C      3.58
+ 12.   2063  CB  ALA    7    B   <-->  5137  OE1 GLU  272    C      3.56
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    12

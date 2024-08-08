@@ -1,0 +1,46 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dvf   Chains A }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    375  OH  TYR   49    A   <-->  2987  ND2 ASN   54    D      2.82
+  2.    704  O   TRP   92    A   <-->  3386  NH2 ARG  100B   D      2.85
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    230  OH  TYR   32    A   <-->  3382  CD  ARG  100B   D      3.43
+  2.    230  OH  TYR   32    A   <-->  3383  NE  ARG  100B   D      3.90
+  3.    373  CE2 TYR   49    A   <-->  2987  ND2 ASN   54    D      3.89
+  4.    374  CZ  TYR   49    A   <-->  2987  ND2 ASN   54    D      3.80
+  5.    375  OH  TYR   49    A   <-->  2984  CB  ASN   54    D      3.83
+  6.    375  OH  TYR   49    A   <-->  2985  CG  ASN   54    D      3.78
+  7.    375  OH  TYR   49    A   <-->  2987  ND2 ASN   54    D      2.82
+  8.    385  CE2 TYR   50    A   <-->  3016  NE2 GLN   58    D      3.29
+  9.    386  CZ  TYR   50    A   <-->  3016  NE2 GLN   58    D      3.71
+ 10.    387  OH  TYR   50    A   <-->  3016  NE2 GLN   58    D      3.37
+ 11.    407  OG1 THR   53    A   <-->  2999  ND2 ASN   56    D      3.75
+ 12.    704  O   TRP   92    A   <-->  3386  NH2 ARG  100B   D      2.85
+ 13.    708  CD2 TRP   92    A   <-->  3386  NH2 ARG  100B   D      3.81
+ 14.    711  CE3 TRP   92    A   <-->  3386  NH2 ARG  100B   D      3.42
+ 15.    713  CZ3 TRP   92    A   <-->  3384  CZ  ARG  100B   D      3.80
+ 16.    713  CZ3 TRP   92    A   <-->  3385  NH1 ARG  100B   D      3.88
+ 17.    713  CZ3 TRP   92    A   <-->  3386  NH2 ARG  100B   D      3.47
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    17

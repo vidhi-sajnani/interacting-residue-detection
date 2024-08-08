@@ -1,0 +1,89 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1jpp   Chains B }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5269  NZ  LYS  345    B   <-->  7774  OE1 GLU 1034    D      3.12
+  2.   5600  OD2 ASP  390    B   <-->  7712  ND2 ASN 1026    D      2.88
+  3.   5848  OD1 ASN  426    B   <-->  7697  N   ILE 1025    D      3.26
+  4.   5849  ND2 ASN  426    B   <-->  7700  O   ILE 1025    D      3.33
+  5.   5878  ND2 ASN  430    B   <-->  7670  O   LEU 1021    D      3.24
+  6.   5878  ND2 ASN  430    B   <-->  7678  O   ASP 1022    D      3.20
+  7.   5924  NZ  LYS  435    B   <-->  7682  OD2 ASP 1022    D      3.14
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5268  CE  LYS  345    B   <-->  7774  OE1 GLU 1034    D      3.57
+  2.   5269  NZ  LYS  345    B   <-->  7774  OE1 GLU 1034    D      3.12
+  3.   5331  NZ  LYS  354    B   <-->  7729  CB  SER 1028    D      3.49
+  4.   5331  NZ  LYS  354    B   <-->  7730  OG  SER 1028    D      3.71
+  5.   5544  CH2 TRP  383    B   <-->  7768  CA  GLU 1034    D      3.88
+  6.   5544  CH2 TRP  383    B   <-->  7769  C   GLU 1034    D      3.47
+  7.   5563  O   ARG  386    B   <-->  7717  CB  TYR 1027    D      3.83
+  8.   5563  O   ARG  386    B   <-->  7720  CD2 TYR 1027    D      3.83
+  9.   5565  CG  ARG  386    B   <-->  7717  CB  TYR 1027    D      3.74
+ 10.   5565  CG  ARG  386    B   <-->  7718  CG  TYR 1027    D      3.59
+ 11.   5565  CG  ARG  386    B   <-->  7720  CD2 TYR 1027    D      3.47
+ 12.   5566  CD  ARG  386    B   <-->  7718  CG  TYR 1027    D      3.84
+ 13.   5568  CZ  ARG  386    B   <-->  7751  CD2 TYR 1031    D      3.69
+ 14.   5568  CZ  ARG  386    B   <-->  7753  CE2 TYR 1031    D      3.44
+ 15.   5569  NH1 ARG  386    B   <-->  7753  CE2 TYR 1031    D      3.41
+ 16.   5570  NH2 ARG  386    B   <-->  7751  CD2 TYR 1031    D      2.90
+ 17.   5570  NH2 ARG  386    B   <-->  7753  CE2 TYR 1031    D      3.06
+ 18.   5598  CG  ASP  390    B   <-->  7712  ND2 ASN 1026    D      3.61
+ 19.   5600  OD2 ASP  390    B   <-->  7710  CG  ASN 1026    D      3.72
+ 20.   5600  OD2 ASP  390    B   <-->  7712  ND2 ASN 1026    D      2.88
+ 21.   5817  CA  GLY  422    B   <-->  7724  OH  TYR 1027    D      3.64
+ 22.   5848  OD1 ASN  426    B   <-->  7691  CA  PRO 1024    D      3.74
+ 23.   5848  OD1 ASN  426    B   <-->  7697  N   ILE 1025    D      3.26
+ 24.   5849  ND2 ASN  426    B   <-->  7700  O   ILE 1025    D      3.33
+ 25.   5849  ND2 ASN  426    B   <-->  7720  CD2 TYR 1027    D      3.80
+ 26.   5849  ND2 ASN  426    B   <-->  7722  CE2 TYR 1027    D      3.68
+ 27.   5871  N   ASN  430    B   <-->  7679  CB  ASP 1022    D      3.74
+ 28.   5871  N   ASN  430    B   <-->  7682  OD2 ASP 1022    D      3.49
+ 29.   5876  CG  ASN  430    B   <-->  7670  O   LEU 1021    D      3.71
+ 30.   5876  CG  ASN  430    B   <-->  7679  CB  ASP 1022    D      3.60
+ 31.   5877  OD1 ASN  430    B   <-->  7670  O   LEU 1021    D      3.34
+ 32.   5877  OD1 ASN  430    B   <-->  7679  CB  ASP 1022    D      3.32
+ 33.   5877  OD1 ASN  430    B   <-->  7680  CG  ASP 1022    D      3.70
+ 34.   5877  OD1 ASN  430    B   <-->  7682  OD2 ASP 1022    D      3.20
+ 35.   5878  ND2 ASN  430    B   <-->  7670  O   LEU 1021    D      3.24
+ 36.   5878  ND2 ASN  430    B   <-->  7678  O   ASP 1022    D      3.20
+ 37.   5878  ND2 ASN  430    B   <-->  7679  CB  ASP 1022    D      3.59
+ 38.   5924  NZ  LYS  435    B   <-->  7682  OD2 ASP 1022    D      3.14
+ 39.   6179  CA  HIS  470    B   <-->  7681  OD1 ASP 1022    D      3.69
+ 40.   6182  CB  HIS  470    B   <-->  7681  OD1 ASP 1022    D      3.82
+ 41.   6183  CG  HIS  470    B   <-->  7681  OD1 ASP 1022    D      3.64
+ 42.   6185  CD2 HIS  470    B   <-->  7681  OD1 ASP 1022    D      3.29
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5269  NZ  LYS  345    B   <-->  7774  OE1 GLU 1034    D      3.12
+  2.   5924  NZ  LYS  435    B   <-->  7682  OD2 ASP 1022    D      3.14
+
+Number of salt bridges:            2
+
+Number of hydrogen bonds:          7
+
+Number of non-bonded contacts:    42
+

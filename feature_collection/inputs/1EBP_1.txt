@@ -1,0 +1,215 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1ebp   Chains C }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3296  N   TYR    4    C   <-->  3448  O   CYS    6    D      3.08
+  2.   3299  O   TYR    4    C   <-->  3445  N   CYS    6    D      3.33
+  3.   3314  N   CYS    6    C   <-->  3430  O   TYR    4    D      3.04
+  4.   3317  O   CYS    6    C   <-->  3427  N   TYR    4    D      3.06
+  5.   3417  OE1 GLN   18    C   <-->  3444  OG  SER    5    D      2.98
+  6.   3417  OE1 GLN   18    C   <-->  3549  NE2 GLN   18    D      2.50
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3289  N   THR    3    C   <-->  3448  O   CYS    6    D      3.64
+  2.   3294  OG1 THR    3    C   <-->  3452  CA  HIS    7    D      3.61
+  3.   3294  OG1 THR    3    C   <-->  3455  CB  HIS    7    D      2.94
+  4.   3296  N   TYR    4    C   <-->  3448  O   CYS    6    D      3.08
+  5.   3297  CA  TYR    4    C   <-->  3448  O   CYS    6    D      3.83
+  6.   3299  O   TYR    4    C   <-->  3430  O   TYR    4    D      3.84
+  7.   3299  O   TYR    4    C   <-->  3440  CA  SER    5    D      3.57
+  8.   3299  O   TYR    4    C   <-->  3441  C   SER    5    D      3.90
+  9.   3299  O   TYR    4    C   <-->  3445  N   CYS    6    D      3.33
+ 10.   3299  O   TYR    4    C   <-->  3448  O   CYS    6    D      3.47
+ 11.   3300  CB  TYR    4    C   <-->  3448  O   CYS    6    D      3.86
+ 12.   3302  CD1 TYR    4    C   <-->  3510  CZ3 TRP   13    D      3.81
+ 13.   3309  CA  SER    5    C   <-->  3430  O   TYR    4    D      3.51
+ 14.   3310  C   SER    5    C   <-->  3430  O   TYR    4    D      3.77
+ 15.   3314  N   CYS    6    C   <-->  3430  O   TYR    4    D      3.04
+ 16.   3317  O   CYS    6    C   <-->  3424  CB  THR    3    D      3.50
+ 17.   3317  O   CYS    6    C   <-->  3427  N   TYR    4    D      3.06
+ 18.   3317  O   CYS    6    C   <-->  3428  CA  TYR    4    D      3.75
+ 19.   3317  O   CYS    6    C   <-->  3430  O   TYR    4    D      3.75
+ 20.   3317  O   CYS    6    C   <-->  3431  CB  TYR    4    D      3.54
+ 21.   3317  O   CYS    6    C   <-->  3434  CD2 TYR    4    D      3.59
+ 22.   3318  CB  CYS    6    C   <-->  3450  SG  CYS    6    D      3.81
+ 23.   3319  SG  CYS    6    C   <-->  3450  SG  CYS    6    D      3.75
+ 24.   3372  CG  TRP   13    C   <-->  3504  CD1 TRP   13    D      3.85
+ 25.   3372  CG  TRP   13    C   <-->  3506  NE1 TRP   13    D      3.87
+ 26.   3373  CD1 TRP   13    C   <-->  3504  CD1 TRP   13    D      3.04
+ 27.   3373  CD1 TRP   13    C   <-->  3506  NE1 TRP   13    D      3.37
+ 28.   3375  NE1 TRP   13    C   <-->  3504  CD1 TRP   13    D      3.31
+ 29.   3378  CZ2 TRP   13    C   <-->  3524  SG  CYS   15    D      3.84
+ 30.   3380  CH2 TRP   13    C   <-->  3524  SG  CYS   15    D      3.83
+ 31.   3393  SG  CYS   15    C   <-->  3509  CZ2 TRP   13    D      3.59
+ 32.   3416  CD  GLN   18    C   <-->  3549  NE2 GLN   18    D      3.28
+ 33.   3417  OE1 GLN   18    C   <-->  3443  CB  SER    5    D      3.80
+ 34.   3417  OE1 GLN   18    C   <-->  3444  OG  SER    5    D      2.98
+ 35.   3417  OE1 GLN   18    C   <-->  3547  CD  GLN   18    D      3.79
+ 36.   3417  OE1 GLN   18    C   <-->  3549  NE2 GLN   18    D      2.50
+ 37.   3418  NE2 GLN   18    C   <-->  3549  NE2 GLN   18    D      3.88
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2288  N   SER   92    B   <-->  3307  OH  TYR    4    C      2.83
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2283  CA  SER   91    B   <-->  3307  OH  TYR    4    C      3.44
+  2.   2284  C   SER   91    B   <-->  3307  OH  TYR    4    C      3.62
+  3.   2286  CB  SER   91    B   <-->  3307  OH  TYR    4    C      3.88
+  4.   2287  OG  SER   91    B   <-->  3305  CE2 TYR    4    C      3.84
+  5.   2287  OG  SER   91    B   <-->  3306  CZ  TYR    4    C      3.83
+  6.   2287  OG  SER   91    B   <-->  3307  OH  TYR    4    C      3.44
+  7.   2287  OG  SER   91    B   <-->  3407  CB  PRO   17    C      3.61
+  8.   2288  N   SER   92    B   <-->  3305  CE2 TYR    4    C      3.66
+  9.   2288  N   SER   92    B   <-->  3306  CZ  TYR    4    C      3.68
+ 10.   2288  N   SER   92    B   <-->  3307  OH  TYR    4    C      2.83
+ 11.   2289  CA  SER   92    B   <-->  3307  OH  TYR    4    C      3.80
+ 12.   2291  O   SER   92    B   <-->  3305  CE2 TYR    4    C      3.53
+ 13.   2291  O   SER   92    B   <-->  3409  CD  PRO   17    C      3.59
+ 14.   2292  CB  SER   92    B   <-->  3307  OH  TYR    4    C      3.73
+ 15.   2293  OG  SER   92    B   <-->  3307  OH  TYR    4    C      3.78
+ 16.   2298  CB  PHE   93    B   <-->  3391  O   CYS   15    C      3.74
+ 17.   2301  CD2 PHE   93    B   <-->  3303  CD2 TYR    4    C      3.72
+ 18.   2301  CD2 PHE   93    B   <-->  3392  CB  CYS   15    C      3.55
+ 19.   2303  CE2 PHE   93    B   <-->  3392  CB  CYS   15    C      3.71
+ 20.   2310  CG1 VAL   94    B   <-->  3408  CG  PRO   17    C      3.17
+ 21.   2310  CG1 VAL   94    B   <-->  3409  CD  PRO   17    C      3.23
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    644  N   SER   92    A   <-->  3438  OH  TYR    4    D      3.12
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    642  CB  SER   91    A   <-->  3538  CB  PRO   17    D      3.84
+  2.    642  CB  SER   91    A   <-->  3539  CG  PRO   17    D      3.90
+  3.    643  OG  SER   91    A   <-->  3538  CB  PRO   17    D      3.90
+  4.    644  N   SER   92    A   <-->  3435  CE1 TYR    4    D      3.82
+  5.    644  N   SER   92    A   <-->  3438  OH  TYR    4    D      3.12
+  6.    645  CA  SER   92    A   <-->  3438  OH  TYR    4    D      3.85
+  7.    648  CB  SER   92    A   <-->  3438  OH  TYR    4    D      3.42
+  8.    654  CB  PHE   93    A   <-->  3522  O   CYS   15    D      3.43
+  9.    655  CG  PHE   93    A   <-->  3522  O   CYS   15    D      3.78
+ 10.    657  CD2 PHE   93    A   <-->  3433  CD1 TYR    4    D      3.83
+ 11.    657  CD2 PHE   93    A   <-->  3435  CE1 TYR    4    D      3.71
+ 12.    666  CG1 VAL   94    A   <-->  3539  CG  PRO   17    D      3.54
+ 13.    666  CG1 VAL   94    A   <-->  3540  CD  PRO   17    D      3.54
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    13
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1092  N   MET  150    A   <-->  3344  O   GLY    9    C      2.85
+  2.   1100  N   THR  151    A   <-->  3348  O   PRO   10    C      3.02
+  3.   1105  OG1 THR  151    A   <-->  3348  O   PRO   10    C      2.81
+  4.   1107  N   SER  152    A   <-->  3355  O   LEU   11    C      3.15
+  5.   1112  OG  SER  152    A   <-->  3355  O   LEU   11    C      3.15
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    659  CE2 PHE   93    A   <-->  3380  CH2 TRP   13    C      3.74
+  2.   1086  CA  PRO  149    A   <-->  3344  O   GLY    9    C      3.59
+  3.   1087  C   PRO  149    A   <-->  3344  O   GLY    9    C      3.66
+  4.   1089  CB  PRO  149    A   <-->  3344  O   GLY    9    C      3.49
+  5.   1092  N   MET  150    A   <-->  3344  O   GLY    9    C      2.85
+  6.   1092  N   MET  150    A   <-->  3347  C   PRO   10    C      3.62
+  7.   1092  N   MET  150    A   <-->  3348  O   PRO   10    C      3.35
+  8.   1093  CA  MET  150    A   <-->  3344  O   GLY    9    C      3.78
+  9.   1093  CA  MET  150    A   <-->  3354  C   LEU   11    C      3.87
+ 10.   1093  CA  MET  150    A   <-->  3355  O   LEU   11    C      3.41
+ 11.   1094  C   MET  150    A   <-->  3355  O   LEU   11    C      3.41
+ 12.   1097  CG  MET  150    A   <-->  3334  CB  PHE    8    C      3.70
+ 13.   1097  CG  MET  150    A   <-->  3335  CG  PHE    8    C      3.79
+ 14.   1097  CG  MET  150    A   <-->  3336  CD1 PHE    8    C      3.50
+ 15.   1098  SD  MET  150    A   <-->  3336  CD1 PHE    8    C      3.52
+ 16.   1098  SD  MET  150    A   <-->  3361  CA  THR   12    C      3.58
+ 17.   1098  SD  MET  150    A   <-->  3362  C   THR   12    C      3.55
+ 18.   1098  SD  MET  150    A   <-->  3367  N   TRP   13    C      3.75
+ 19.   1099  CE  MET  150    A   <-->  3336  CD1 PHE    8    C      3.45
+ 20.   1099  CE  MET  150    A   <-->  3338  CE1 PHE    8    C      3.79
+ 21.   1099  CE  MET  150    A   <-->  3374  CD2 TRP   13    C      3.83
+ 22.   1099  CE  MET  150    A   <-->  3376  CE2 TRP   13    C      3.71
+ 23.   1100  N   THR  151    A   <-->  3348  O   PRO   10    C      3.02
+ 24.   1100  N   THR  151    A   <-->  3355  O   LEU   11    C      3.45
+ 25.   1101  CA  THR  151    A   <-->  3348  O   PRO   10    C      3.82
+ 26.   1104  CB  THR  151    A   <-->  3348  O   PRO   10    C      3.56
+ 27.   1105  OG1 THR  151    A   <-->  3348  O   PRO   10    C      2.81
+ 28.   1105  OG1 THR  151    A   <-->  3359  CD2 LEU   11    C      3.43
+ 29.   1106  CG2 THR  151    A   <-->  3348  O   PRO   10    C      3.60
+ 30.   1107  N   SER  152    A   <-->  3355  O   LEU   11    C      3.15
+ 31.   1108  CA  SER  152    A   <-->  3355  O   LEU   11    C      3.89
+ 32.   1111  CB  SER  152    A   <-->  3355  O   LEU   11    C      3.54
+ 33.   1112  OG  SER  152    A   <-->  3355  O   LEU   11    C      3.15
+ 34.   1119  ND1 HIS  153    A   <-->  3355  O   LEU   11    C      3.57
+ 35.   1121  CE1 HIS  153    A   <-->  3361  CA  THR   12    C      3.76
+ 36.   1121  CE1 HIS  153    A   <-->  3364  CB  THR   12    C      3.48
+ 37.   1121  CE1 HIS  153    A   <-->  3365  OG1 THR   12    C      2.87
+ 38.   1122  NE2 HIS  153    A   <-->  3365  OG1 THR   12    C      3.57
+ 39.   1527  CZ  PHE  205    A   <-->  3338  CE1 PHE    8    C      3.40
+ 40.   1527  CZ  PHE  205    A   <-->  3340  CZ  PHE    8    C      3.53
+
+Number of hydrogen bonds:          5
+
+Number of non-bonded contacts:    40
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1308  NH1 ARG  178    A   <-->  2929  CD2 LEU  175    B      3.58
+
+Number of non-bonded contacts:     1
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:    37

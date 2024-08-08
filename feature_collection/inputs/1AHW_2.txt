@@ -1,0 +1,69 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1ahw   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    227  NH1 ARG   30    A   <-->  4588  O   LYS  169    C      2.98
+  2.    711  O   HIS   91    A   <-->  4593  NZ  LYS  169    C      2.83
+  3.    721  O   GLY   92    A   <-->  4585  N   LYS  169    C      3.04
+  4.    731  N   SER   94    A   <-->  4576  O   THR  167    C      2.88
+  5.    736  OG  SER   94    A   <-->  4573  N   THR  167    C      2.82
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    227  NH1 ARG   30    A   <-->  4588  O   LYS  169    C      2.98
+  2.    246  CE1 TYR   32    A   <-->  4591  CD  LYS  169    C      3.77
+  3.    249  OH  TYR   32    A   <-->  4595  CA  THR  170    C      3.62
+  4.    249  OH  TYR   32    A   <-->  4596  C   THR  170    C      3.64
+  5.    249  OH  TYR   32    A   <-->  4601  N   ASN  171    C      3.31
+  6.    249  OH  TYR   32    A   <-->  4606  CG  ASN  171    C      3.52
+  7.    249  OH  TYR   32    A   <-->  4607  OD1 ASN  171    C      2.92
+  8.    415  CE2 TYR   50    A   <-->  4426  CD  LYS  149    C      3.84
+  9.    415  CE2 TYR   50    A   <-->  4427  CE  LYS  149    C      3.38
+ 10.    417  OH  TYR   50    A   <-->  4607  OD1 ASN  171    C      3.61
+ 11.    417  OH  TYR   50    A   <-->  4608  ND2 ASN  171    C      3.60
+ 12.    711  O   HIS   91    A   <-->  4592  CE  LYS  169    C      3.36
+ 13.    711  O   HIS   91    A   <-->  4593  NZ  LYS  169    C      2.83
+ 14.    712  CB  HIS   91    A   <-->  4593  NZ  LYS  169    C      3.84
+ 15.    713  CG  HIS   91    A   <-->  4593  NZ  LYS  169    C      3.52
+ 16.    715  CD2 HIS   91    A   <-->  4593  NZ  LYS  169    C      2.73
+ 17.    717  NE2 HIS   91    A   <-->  4593  NZ  LYS  169    C      3.72
+ 18.    721  O   GLY   92    A   <-->  4581  CA  ALA  168    C      3.45
+ 19.    721  O   GLY   92    A   <-->  4582  C   ALA  168    C      3.76
+ 20.    721  O   GLY   92    A   <-->  4585  N   LYS  169    C      3.04
+ 21.    721  O   GLY   92    A   <-->  4589  CB  LYS  169    C      3.79
+ 22.    723  CA  GLU   93    A   <-->  4576  O   THR  167    C      3.09
+ 23.    724  C   GLU   93    A   <-->  4576  O   THR  167    C      3.45
+ 24.    726  CB  GLU   93    A   <-->  4576  O   THR  167    C      3.32
+ 25.    726  CB  GLU   93    A   <-->  4584  CB  ALA  168    C      3.85
+ 26.    731  N   SER   94    A   <-->  4575  C   THR  167    C      3.88
+ 27.    731  N   SER   94    A   <-->  4576  O   THR  167    C      2.88
+ 28.    734  O   SER   94    A   <-->  4571  CE  LYS  166    C      3.80
+ 29.    735  CB  SER   94    A   <-->  4573  N   THR  167    C      3.57
+ 30.    736  OG  SER   94    A   <-->  4566  C   LYS  166    C      3.77
+ 31.    736  OG  SER   94    A   <-->  4573  N   THR  167    C      2.82
+ 32.    736  OG  SER   94    A   <-->  4574  CA  THR  167    C      3.46
+ 33.    736  OG  SER   94    A   <-->  4576  O   THR  167    C      3.62
+ 34.    736  OG  SER   94    A   <-->  4577  CB  THR  167    C      3.29
+ 35.    736  OG  SER   94    A   <-->  4578  OG1 THR  167    C      3.78
+ 36.    755  OH  TYR   96    A   <-->  4592  CE  LYS  169    C      3.67
+ 37.    755  OH  TYR   96    A   <-->  4593  NZ  LYS  169    C      3.49
+
+Number of hydrogen bonds:          5
+
+Number of non-bonded contacts:    37

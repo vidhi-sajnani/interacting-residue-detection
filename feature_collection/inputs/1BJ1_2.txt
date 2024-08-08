@@ -1,0 +1,202 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1bj1   Chains H }{ V
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1860  OD1 ASN   31    H   <-->  3340  CD2 PHE   17    V      3.76
+  2.   1860  OD1 ASN   31    H   <-->  3342  CE2 PHE   17    V      3.78
+  3.   2054  OH  TYR   54    H   <-->  3376  CE2 TYR   21    V      3.70
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7280  OH  TYR  102    K   <-->  3843  O   ILE   80    V      2.80
+  2.   7251  OH  TYR   99    K   <-->  3904  O   GLN   87    V      2.79
+  3.   6707  N   GLY   33    K   <-->  3917  O   GLN   89    V      2.92
+  4.   6874  OG1 THR   53    K   <-->  3921  OE1 GLN   89    V      3.20
+  5.   7255  O   PRO  100    K   <-->  3929  ND1 HIS   90    V      2.56
+  6.   7308  OG  SER  106    K   <-->  3932  NE2 HIS   90    V      2.93
+  7.   7308  OG  SER  106    K   <-->  3932  NE2 HIS   90    V      2.93
+  8.   7272  O   TYR  102    K   <-->  3945  N   GLU   93    V      3.05
+  9.   7293  N   GLY  104    K   <-->  3948  O   GLU   93    V      2.76
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   7308  OG  SER  106    K   <-->  3585  CE1 TYR   45    V      3.68
+  2.   7307  CB  SER  106    K   <-->  3588  OH  TYR   45    V      3.17
+  3.   7308  OG  SER  106    K   <-->  3588  OH  TYR   45    V      3.57
+  4.   7280  OH  TYR  102    K   <-->  3842  C   ILE   80    V      3.75
+  5.   7277  CE1 TYR  102    K   <-->  3843  O   ILE   80    V      3.62
+  6.   7279  CZ  TYR  102    K   <-->  3843  O   ILE   80    V      3.60
+  7.   7280  OH  TYR  102    K   <-->  3843  O   ILE   80    V      2.80
+  8.   6683  O   THR   30    K   <-->  3855  CE  MET   81    V      3.55
+  9.   6688  CA  ASN   31    K   <-->  3855  CE  MET   81    V      3.82
+ 10.   6693  OD1 ASN   31    K   <-->  3855  CE  MET   81    V      3.64
+ 11.   6882  CD1 TYR   54    K   <-->  3855  CE  MET   81    V      3.88
+ 12.   7279  CZ  TYR  102    K   <-->  3861  CG  ARG   82    V      3.75
+ 13.   7280  OH  TYR  102    K   <-->  3861  CG  ARG   82    V      3.32
+ 14.   7277  CE1 TYR  102    K   <-->  3862  CD  ARG   82    V      3.55
+ 15.   7278  CE2 TYR  102    K   <-->  3862  CD  ARG   82    V      3.67
+ 16.   7279  CZ  TYR  102    K   <-->  3862  CD  ARG   82    V      3.22
+ 17.   7280  OH  TYR  102    K   <-->  3862  CD  ARG   82    V      3.26
+ 18.   7308  OG  SER  106    K   <-->  3862  CD  ARG   82    V      3.23
+ 19.   7278  CE2 TYR  102    K   <-->  3863  NE  ARG   82    V      3.33
+ 20.   7279  CZ  TYR  102    K   <-->  3863  NE  ARG   82    V      3.26
+ 21.   7280  OH  TYR  102    K   <-->  3863  NE  ARG   82    V      3.15
+ 22.   7296  O   GLY  104    K   <-->  3864  CZ  ARG   82    V      3.26
+ 23.   7296  O   GLY  104    K   <-->  3865  NH1 ARG   82    V      3.75
+ 24.   7298  CA  SER  105    K   <-->  3865  NH1 ARG   82    V      3.88
+ 25.   7303  N   SER  106    K   <-->  3865  NH1 ARG   82    V      3.65
+ 26.   7308  OG  SER  106    K   <-->  3865  NH1 ARG   82    V      3.47
+ 27.   7296  O   GLY  104    K   <-->  3866  NH2 ARG   82    V      2.71
+ 28.   6847  NE1 TRP   50    K   <-->  3893  C   HIS   86    V      3.69
+ 29.   6847  NE1 TRP   50    K   <-->  3894  O   HIS   86    V      3.36
+ 30.   6921  CG2 THR   59    K   <-->  3894  O   HIS   86    V      3.81
+ 31.   6847  NE1 TRP   50    K   <-->  3903  C   GLN   87    V      3.84
+ 32.   6848  CE2 TRP   50    K   <-->  3903  C   GLN   87    V      3.74
+ 33.   6850  CZ2 TRP   50    K   <-->  3903  C   GLN   87    V      3.65
+ 34.   6847  NE1 TRP   50    K   <-->  3904  O   GLN   87    V      3.49
+ 35.   6848  CE2 TRP   50    K   <-->  3904  O   GLN   87    V      3.51
+ 36.   6850  CZ2 TRP   50    K   <-->  3904  O   GLN   87    V      3.84
+ 37.   7249  CE2 TYR   99    K   <-->  3904  O   GLN   87    V      3.63
+ 38.   7250  CZ  TYR   99    K   <-->  3904  O   GLN   87    V      3.53
+ 39.   7251  OH  TYR   99    K   <-->  3904  O   GLN   87    V      2.79
+ 40.   7327  NE1 TRP  108    K   <-->  3908  OE1 GLN   87    V      3.65
+ 41.   6850  CZ2 TRP   50    K   <-->  3910  N   GLY   88    V      3.56
+ 42.   6850  CZ2 TRP   50    K   <-->  3911  CA  GLY   88    V      3.78
+ 43.   6852  CH2 TRP   50    K   <-->  3911  CA  GLY   88    V      3.69
+ 44.   7249  CE2 TYR   99    K   <-->  3911  CA  GLY   88    V      3.59
+ 45.   7330  CZ2 TRP  108    K   <-->  3911  CA  GLY   88    V      3.79
+ 46.   7331  CZ3 TRP  108    K   <-->  3911  CA  GLY   88    V      3.60
+ 47.   7332  CH2 TRP  108    K   <-->  3911  CA  GLY   88    V      3.52
+ 48.   6852  CH2 TRP   50    K   <-->  3912  C   GLY   88    V      3.63
+ 49.   7331  CZ3 TRP  108    K   <-->  3912  C   GLY   88    V      3.76
+ 50.   7332  CH2 TRP  108    K   <-->  3912  C   GLY   88    V      3.45
+ 51.   7332  CH2 TRP  108    K   <-->  3913  O   GLY   88    V      3.82
+ 52.   7331  CZ3 TRP  108    K   <-->  3914  N   GLN   89    V      3.63
+ 53.   7332  CH2 TRP  108    K   <-->  3914  N   GLN   89    V      3.66
+ 54.   6696  CA  TYR   32    K   <-->  3917  O   GLN   89    V      3.74
+ 55.   6697  C   TYR   32    K   <-->  3917  O   GLN   89    V      3.79
+ 56.   6707  N   GLY   33    K   <-->  3917  O   GLN   89    V      2.92
+ 57.   6708  CA  GLY   33    K   <-->  3917  O   GLN   89    V      3.80
+ 58.   7247  CD2 TYR   99    K   <-->  3917  O   GLN   89    V      3.90
+ 59.   6851  CZ3 TRP   50    K   <-->  3918  CB  GLN   89    V      3.86
+ 60.   6707  N   GLY   33    K   <-->  3920  CD  GLN   89    V      3.72
+ 61.   6867  OD1 ASN   52    K   <-->  3920  CD  GLN   89    V      3.43
+ 62.   6869  N   THR   53    K   <-->  3920  CD  GLN   89    V      3.82
+ 63.   6874  OG1 THR   53    K   <-->  3920  CD  GLN   89    V      3.73
+ 64.   6683  O   THR   30    K   <-->  3921  OE1 GLN   89    V      3.09
+ 65.   6689  C   ASN   31    K   <-->  3921  OE1 GLN   89    V      3.77
+ 66.   6695  N   TYR   32    K   <-->  3921  OE1 GLN   89    V      3.82
+ 67.   6867  OD1 ASN   52    K   <-->  3921  OE1 GLN   89    V      3.83
+ 68.   6874  OG1 THR   53    K   <-->  3921  OE1 GLN   89    V      3.20
+ 69.   6876  N   TYR   54    K   <-->  3921  OE1 GLN   89    V      3.64
+ 70.   6880  CB  TYR   54    K   <-->  3921  OE1 GLN   89    V      3.59
+ 71.   6697  C   TYR   32    K   <-->  3922  NE2 GLN   89    V      3.83
+ 72.   6707  N   GLY   33    K   <-->  3922  NE2 GLN   89    V      3.36
+ 73.   6708  CA  GLY   33    K   <-->  3922  NE2 GLN   89    V      3.30
+ 74.   6862  CA  ASN   52    K   <-->  3922  NE2 GLN   89    V      3.22
+ 75.   6863  C   ASN   52    K   <-->  3922  NE2 GLN   89    V      3.48
+ 76.   6865  CB  ASN   52    K   <-->  3922  NE2 GLN   89    V      3.88
+ 77.   6866  CG  ASN   52    K   <-->  3922  NE2 GLN   89    V      3.54
+ 78.   6867  OD1 ASN   52    K   <-->  3922  NE2 GLN   89    V      3.21
+ 79.   6869  N   THR   53    K   <-->  3922  NE2 GLN   89    V      2.94
+ 80.   6874  OG1 THR   53    K   <-->  3922  NE2 GLN   89    V      3.45
+ 81.   6690  O   ASN   31    K   <-->  3924  CA  HIS   90    V      3.23
+ 82.   6690  O   ASN   31    K   <-->  3925  C   HIS   90    V      3.61
+ 83.   7277  CE1 TYR  102    K   <-->  3926  O   HIS   90    V      3.72
+ 84.   6701  CD1 TYR   32    K   <-->  3927  CB  HIS   90    V      3.72
+ 85.   7255  O   PRO  100    K   <-->  3927  CB  HIS   90    V      3.31
+ 86.   7255  O   PRO  100    K   <-->  3928  CG  HIS   90    V      3.26
+ 87.   7254  C   PRO  100    K   <-->  3929  ND1 HIS   90    V      3.77
+ 88.   7255  O   PRO  100    K   <-->  3929  ND1 HIS   90    V      2.56
+ 89.   7331  CZ3 TRP  108    K   <-->  3929  ND1 HIS   90    V      3.79
+ 90.   7275  CD1 TYR  102    K   <-->  3930  CD2 HIS   90    V      3.64
+ 91.   7331  CZ3 TRP  108    K   <-->  3930  CD2 HIS   90    V      3.71
+ 92.   7332  CH2 TRP  108    K   <-->  3930  CD2 HIS   90    V      3.77
+ 93.   7255  O   PRO  100    K   <-->  3931  CE1 HIS   90    V      3.62
+ 94.   7273  CB  TYR  102    K   <-->  3931  CE1 HIS   90    V      3.81
+ 95.   7275  CD1 TYR  102    K   <-->  3931  CE1 HIS   90    V      3.76
+ 96.   7307  CB  SER  106    K   <-->  3931  CE1 HIS   90    V      3.89
+ 97.   7308  OG  SER  106    K   <-->  3931  CE1 HIS   90    V      3.70
+ 98.   7331  CZ3 TRP  108    K   <-->  3931  CE1 HIS   90    V      3.42
+ 99.   7275  CD1 TYR  102    K   <-->  3932  NE2 HIS   90    V      3.48
+100.   7307  CB  SER  106    K   <-->  3932  NE2 HIS   90    V      3.49
+101.   7308  OG  SER  106    K   <-->  3932  NE2 HIS   90    V      2.93
+102.   7331  CZ3 TRP  108    K   <-->  3932  NE2 HIS   90    V      3.35
+103.   7332  CH2 TRP  108    K   <-->  3932  NE2 HIS   90    V      3.38
+104.   6690  O   ASN   31    K   <-->  3933  N   ILE   91    V      3.30
+105.   7275  CD1 TYR  102    K   <-->  3935  C   ILE   91    V      3.71
+106.   7277  CE1 TYR  102    K   <-->  3935  C   ILE   91    V      3.59
+107.   6703  CE1 TYR   32    K   <-->  3936  O   ILE   91    V      3.72
+108.   7260  CA  HIS  101    K   <-->  3936  O   ILE   91    V      3.31
+109.   7261  C   HIS  101    K   <-->  3936  O   ILE   91    V      3.88
+110.   7264  CG  HIS  101    K   <-->  3936  O   ILE   91    V      3.63
+111.   7266  CD2 HIS  101    K   <-->  3936  O   ILE   91    V      3.54
+112.   7269  N   TYR  102    K   <-->  3936  O   ILE   91    V      3.46
+113.   7275  CD1 TYR  102    K   <-->  3936  O   ILE   91    V      3.75
+114.   6703  CE1 TYR   32    K   <-->  3938  CG1 ILE   91    V      3.87
+115.   6705  CZ  TYR   32    K   <-->  3938  CG1 ILE   91    V      3.66
+116.   6706  OH  TYR   32    K   <-->  3938  CG1 ILE   91    V      3.36
+117.   6694  ND2 ASN   31    K   <-->  3940  CD1 ILE   91    V      3.75
+118.   6706  OH  TYR   32    K   <-->  3940  CD1 ILE   91    V      3.48
+119.   7275  CD1 TYR  102    K   <-->  3941  N   GLY   92    V      3.58
+120.   7277  CE1 TYR  102    K   <-->  3941  N   GLY   92    V      3.21
+121.   7279  CZ  TYR  102    K   <-->  3941  N   GLY   92    V      3.82
+122.   7265  ND1 HIS  101    K   <-->  3942  CA  GLY   92    V      3.63
+123.   7267  CE1 HIS  101    K   <-->  3942  CA  GLY   92    V      3.29
+124.   7268  NE2 HIS  101    K   <-->  3942  CA  GLY   92    V      3.58
+125.   7269  N   TYR  102    K   <-->  3942  CA  GLY   92    V      3.77
+126.   7272  O   TYR  102    K   <-->  3942  CA  GLY   92    V      3.21
+127.   7274  CG  TYR  102    K   <-->  3942  CA  GLY   92    V      3.90
+128.   7275  CD1 TYR  102    K   <-->  3942  CA  GLY   92    V      3.49
+129.   7277  CE1 TYR  102    K   <-->  3942  CA  GLY   92    V      3.45
+130.   7279  CZ  TYR  102    K   <-->  3942  CA  GLY   92    V      3.81
+131.   7267  CE1 HIS  101    K   <-->  3943  C   GLY   92    V      3.74
+132.   7272  O   TYR  102    K   <-->  3943  C   GLY   92    V      3.60
+133.   7279  CZ  TYR  102    K   <-->  3943  C   GLY   92    V      3.84
+134.   7280  OH  TYR  102    K   <-->  3944  O   GLY   92    V      3.89
+135.   7267  CE1 HIS  101    K   <-->  3945  N   GLU   93    V      3.76
+136.   7272  O   TYR  102    K   <-->  3945  N   GLU   93    V      3.05
+137.   7278  CE2 TYR  102    K   <-->  3948  O   GLU   93    V      3.60
+138.   7283  C   TYR  103    K   <-->  3948  O   GLU   93    V      3.76
+139.   7293  N   GLY  104    K   <-->  3948  O   GLU   93    V      2.76
+140.   7294  CA  GLY  104    K   <-->  3948  O   GLU   93    V      3.52
+141.   7288  CD2 TYR  103    K   <-->  3951  CD  GLU   93    V      3.63
+142.   7290  CE2 TYR  103    K   <-->  3951  CD  GLU   93    V      3.51
+143.   7288  CD2 TYR  103    K   <-->  3952  OE1 GLU   93    V      3.07
+144.   7290  CE2 TYR  103    K   <-->  3952  OE1 GLU   93    V      3.30
+145.   7290  CE2 TYR  103    K   <-->  3953  OE2 GLU   93    V      3.74
+146.   7280  OH  TYR  102    K   <-->  3959  CG  MET   94    V      3.82
+147.   7280  OH  TYR  102    K   <-->  3960  SD  MET   94    V      3.73
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   5551  CG1 VAL   94    J   <-->  3894  O   HIS   86    V      3.50
+
+Number of non-bonded contacts:     3

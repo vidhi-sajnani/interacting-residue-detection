@@ -1,0 +1,90 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1nmb   Chains H }{ N
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4726  O   TYR  100A   H   <-->  1956  ND2 ASN  329    N      2.80
+  2.   4359  OD2 ASP   56    H   <-->  2251  OG  SER  370    N      2.70
+  3.   4328  OH  TYR   52    H   <-->  2476  ND2 ASN  400    N      3.05
+  4.   4347  ND2 ASN   54    H   <-->  2480  O   THR  401    N      2.85
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4726  O   TYR  100A   H   <-->  1954  CG  ASN  329    N      3.70
+  2.   4726  O   TYR  100A   H   <-->  1955  OD1 ASN  329    N      3.78
+  3.   4725  C   TYR  100A   H   <-->  1956  ND2 ASN  329    N      3.77
+  4.   4726  O   TYR  100A   H   <-->  1956  ND2 ASN  329    N      2.80
+  5.   4708  CE1 TYR   99    H   <-->  2225  CG2 ILE  366    N      3.81
+  6.   4731  CE1 TYR  100A   H   <-->  2232  OG  SER  367    N      3.90
+  7.   4728  CG  TYR  100A   H   <-->  2238  CG1 ILE  368    N      3.89
+  8.   4729  CD1 TYR  100A   H   <-->  2238  CG1 ILE  368    N      3.20
+  9.   4731  CE1 TYR  100A   H   <-->  2238  CG1 ILE  368    N      3.85
+ 10.   4727  CB  TYR  100A   H   <-->  2240  CD1 ILE  368    N      3.36
+ 11.   4728  CG  TYR  100A   H   <-->  2240  CD1 ILE  368    N      3.57
+ 12.   4729  CD1 TYR  100A   H   <-->  2240  CD1 ILE  368    N      3.42
+ 13.   4731  CE1 TYR  100A   H   <-->  2245  CB  ALA  369    N      3.72
+ 14.   4733  CZ  TYR  100A   H   <-->  2245  CB  ALA  369    N      3.52
+ 15.   4734  OH  TYR  100A   H   <-->  2245  CB  ALA  369    N      3.23
+ 16.   4359  OD2 ASP   56    H   <-->  2250  CB  SER  370    N      3.23
+ 17.   4357  CG  ASP   56    H   <-->  2251  OG  SER  370    N      3.31
+ 18.   4358  OD1 ASP   56    H   <-->  2251  OG  SER  370    N      3.15
+ 19.   4359  OD2 ASP   56    H   <-->  2251  OG  SER  370    N      2.70
+ 20.   4359  OD2 ASP   56    H   <-->  2268  OG  SER  372    N      3.50
+ 21.   4326  CE2 TYR   52    H   <-->  2476  ND2 ASN  400    N      3.86
+ 22.   4327  CZ  TYR   52    H   <-->  2476  ND2 ASN  400    N      3.78
+ 23.   4328  OH  TYR   52    H   <-->  2476  ND2 ASN  400    N      3.05
+ 24.   4704  CB  TYR   99    H   <-->  2476  ND2 ASN  400    N      3.54
+ 25.   4705  CG  TYR   99    H   <-->  2476  ND2 ASN  400    N      3.40
+ 26.   4706  CD1 TYR   99    H   <-->  2476  ND2 ASN  400    N      3.72
+ 27.   4707  CD2 TYR   99    H   <-->  2476  ND2 ASN  400    N      3.72
+ 28.   4347  ND2 ASN   54    H   <-->  2478  CA  THR  401    N      3.84
+ 29.   4347  ND2 ASN   54    H   <-->  2479  C   THR  401    N      3.52
+ 30.   4344  CB  ASN   54    H   <-->  2480  O   THR  401    N      3.18
+ 31.   4345  CG  ASN   54    H   <-->  2480  O   THR  401    N      3.47
+ 32.   4347  ND2 ASN   54    H   <-->  2480  O   THR  401    N      2.85
+ 33.   4326  CE2 TYR   52    H   <-->  2483  CG2 THR  401    N      3.83
+ 34.   4328  OH  TYR   52    H   <-->  2483  CG2 THR  401    N      3.35
+ 35.   4339  O   GLY   53    H   <-->  2483  CG2 THR  401    N      3.72
+ 36.   4347  ND2 ASN   54    H   <-->  2502  CE3 TRP  403    N      3.86
+ 37.   4343  O   ASN   54    H   <-->  2503  CZ2 TRP  403    N      3.43
+ 38.   4345  CG  ASN   54    H   <-->  2503  CZ2 TRP  403    N      3.71
+ 39.   4347  ND2 ASN   54    H   <-->  2503  CZ2 TRP  403    N      3.49
+ 40.   4347  ND2 ASN   54    H   <-->  2504  CZ3 TRP  403    N      3.36
+ 41.   4359  OD2 ASP   56    H   <-->  2504  CZ3 TRP  403    N      3.52
+ 42.   4345  CG  ASN   54    H   <-->  2505  CH2 TRP  403    N      3.53
+ 43.   4346  OD1 ASN   54    H   <-->  2505  CH2 TRP  403    N      3.61
+ 44.   4347  ND2 ASN   54    H   <-->  2505  CH2 TRP  403    N      3.16
+ 45.   4356  CB  ASP   56    H   <-->  2505  CH2 TRP  403    N      3.88
+ 46.   4359  OD2 ASP   56    H   <-->  2505  CH2 TRP  403    N      3.79
+ 47.   4358  OD1 ASP   56    H   <-->  2760  NZ  LYS  432    N      3.89
+ 48.   4363  O   THR   57    H   <-->  2760  NZ  LYS  432    N      3.83
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   4358  OD1 ASP   56    H   <-->  2760  NZ  LYS  432    N      3.89
+
+Number of salt bridges:            1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    48

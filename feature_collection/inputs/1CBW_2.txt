@@ -1,0 +1,54 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1cbw   Chains D }{ G
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1987  O   GLY   28    D   <-->  2474  CE1 PHE   39    G      3.79
+  2.   2153  OE2 GLU   49    D   <-->  2452  CD  LYS   36    G      3.53
+  3.   2172  CB  MET   52    D   <-->  2459  CB  THR   37    G      3.88
+  4.   2172  CB  MET   52    D   <-->  2460  OG1 THR   37    G      3.77
+  5.   2175  CE  MET   52    D   <-->  2472  CD1 PHE   39    G      3.40
+  6.   2185  NH1 ARG   53    D   <-->  2449  O   LYS   36    G      3.53
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2153  OE2 GLU   49    D   <-->  2454  NZ  LYS   36    G      3.97
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1973  O   LYS   26    D   <-->  3271  N   ALA  149    H      2.96
+  2.   1973  O   LYS   26    D   <-->  3272  CA  ALA  149    H      3.81
+  3.   1973  O   LYS   26    D   <-->  3273  C   ALA  149    H      3.55
+  4.   1973  O   LYS   26    D   <-->  3274  O   ALA  149    H      3.77
+  5.   1973  O   LYS   26    D   <-->  3276  N   ASN  150    H      3.69
+  6.   1980  CA  ALA   27    D   <-->  3274  O   ALA  149    H      3.52
+  7.   1981  C   ALA   27    D   <-->  3274  O   ALA  149    H      3.60
+  8.   1982  O   ALA   27    D   <-->  3274  O   ALA  149    H      3.45
+  9.   1985  CA  GLY   28    D   <-->  3281  CG  ASN  150    H      3.52
+ 10.   1985  CA  GLY   28    D   <-->  3282  OD1 ASN  150    H      3.41
+ 11.   1985  CA  GLY   28    D   <-->  3283  ND2 ASN  150    H      3.82
+
+
+Number of salt bridges:            1
+
+Number of non-bonded contacts:     6

@@ -1,0 +1,138 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1fcc   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    121  N   ILE  253    A   <-->  1854  OE2 GLU   27    C      2.49
+  2.    129  N   SER  254    A   <-->  1853  OE1 GLU   27    C      2.69
+  3.    134  OG  SER  254    A   <-->  1853  OE1 GLU   27    C      3.23
+  4.   1143  OE1 GLU  380    A   <-->  1863  NZ  LYS   28    C      2.73
+  5.   1566  O   HIS  433    A   <-->  1924  ND2 ASN   35    C      3.20
+  6.   1579  OD1 ASN  434    A   <-->  1981  NE1 TRP   43    C      2.81
+  7.   1580  ND2 ASN  434    A   <-->  1923  OD1 ASN   35    C      2.44
+  8.   1594  O   TYR  436    A   <-->  1924  ND2 ASN   35    C      3.14
+  9.   1617  OE1 GLN  438    A   <-->  1899  NE2 GLN   32    C      3.27
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    108  O   LEU  251    A   <-->  1890  NZ  LYS   31    C      3.50
+  2.    114  CA  MET  252    A   <-->  1854  OE2 GLU   27    C      3.47
+  3.    115  C   MET  252    A   <-->  1852  CD  GLU   27    C      3.85
+  4.    115  C   MET  252    A   <-->  1853  OE1 GLU   27    C      3.61
+  5.    115  C   MET  252    A   <-->  1854  OE2 GLU   27    C      3.35
+  6.    117  CB  MET  252    A   <-->  1853  OE1 GLU   27    C      3.79
+  7.    121  N   ILE  253    A   <-->  1852  CD  GLU   27    C      3.19
+  8.    121  N   ILE  253    A   <-->  1853  OE1 GLU   27    C      3.15
+  9.    121  N   ILE  253    A   <-->  1854  OE2 GLU   27    C      2.49
+ 10.    122  CA  ILE  253    A   <-->  1853  OE1 GLU   27    C      3.69
+ 11.    122  CA  ILE  253    A   <-->  1854  OE2 GLU   27    C      3.32
+ 12.    123  C   ILE  253    A   <-->  1853  OE1 GLU   27    C      3.61
+ 13.    125  CB  ILE  253    A   <-->  1854  OE2 GLU   27    C      3.26
+ 14.    126  CG1 ILE  253    A   <-->  1854  OE2 GLU   27    C      3.86
+ 15.    126  CG1 ILE  253    A   <-->  1975  C   TRP   43    C      3.51
+ 16.    126  CG1 ILE  253    A   <-->  1976  O   TRP   43    C      3.27
+ 17.    126  CG1 ILE  253    A   <-->  1977  CB  TRP   43    C      3.48
+ 18.    127  CG2 ILE  253    A   <-->  1976  O   TRP   43    C      3.83
+ 19.    127  CG2 ILE  253    A   <-->  1987  N   THR   44    C      3.86
+ 20.    127  CG2 ILE  253    A   <-->  1988  CA  THR   44    C      3.59
+ 21.    127  CG2 ILE  253    A   <-->  1989  C   THR   44    C      3.73
+ 22.    127  CG2 ILE  253    A   <-->  1994  N   TYR   45    C      3.69
+ 23.    128  CD1 ILE  253    A   <-->  1854  OE2 GLU   27    C      3.44
+ 24.    128  CD1 ILE  253    A   <-->  1977  CB  TRP   43    C      3.66
+ 25.    129  N   SER  254    A   <-->  1852  CD  GLU   27    C      3.60
+ 26.    129  N   SER  254    A   <-->  1853  OE1 GLU   27    C      2.69
+ 27.    129  N   SER  254    A   <-->  1854  OE2 GLU   27    C      3.82
+ 28.    130  CA  SER  254    A   <-->  1853  OE1 GLU   27    C      3.56
+ 29.    133  CB  SER  254    A   <-->  1853  OE1 GLU   27    C      3.36
+ 30.    134  OG  SER  254    A   <-->  1829  N   ALA   24    C      3.49
+ 31.    134  OG  SER  254    A   <-->  1830  CA  ALA   24    C      3.41
+ 32.    134  OG  SER  254    A   <-->  1833  CB  ALA   24    C      3.62
+ 33.    134  OG  SER  254    A   <-->  1853  OE1 GLU   27    C      3.23
+ 34.    599  CD  GLN  311    A   <-->  1971  OE1 GLU   42    C      3.32
+ 35.    600  OE1 GLN  311    A   <-->  1971  OE1 GLU   42    C      3.85
+ 36.    601  NE2 GLN  311    A   <-->  1970  CD  GLU   42    C      3.77
+ 37.    601  NE2 GLN  311    A   <-->  1971  OE1 GLU   42    C      2.68
+ 38.   1142  CD  GLU  380    A   <-->  1863  NZ  LYS   28    C      3.52
+ 39.   1143  OE1 GLU  380    A   <-->  1862  CE  LYS   28    C      3.79
+ 40.   1143  OE1 GLU  380    A   <-->  1863  NZ  LYS   28    C      2.73
+ 41.   1164  CG  GLU  382    A   <-->  1863  NZ  LYS   28    C      3.40
+ 42.   1165  CD  GLU  382    A   <-->  1862  CE  LYS   28    C      3.44
+ 43.   1165  CD  GLU  382    A   <-->  1863  NZ  LYS   28    C      3.13
+ 44.   1166  OE1 GLU  382    A   <-->  1862  CE  LYS   28    C      3.82
+ 45.   1166  OE1 GLU  382    A   <-->  1863  NZ  LYS   28    C      3.88
+ 46.   1167  OE2 GLU  382    A   <-->  1862  CE  LYS   28    C      3.06
+ 47.   1167  OE2 GLU  382    A   <-->  1863  NZ  LYS   28    C      2.87
+ 48.   1515  OG  SER  426    A   <-->  1862  CE  LYS   28    C      3.82
+ 49.   1530  CE  MET  428    A   <-->  1860  CG  LYS   28    C      3.62
+ 50.   1530  CE  MET  428    A   <-->  1861  CD  LYS   28    C      3.64
+ 51.   1564  CA  HIS  433    A   <-->  1959  OD2 ASP   40    C      3.37
+ 52.   1565  C   HIS  433    A   <-->  1959  OD2 ASP   40    C      3.89
+ 53.   1566  O   HIS  433    A   <-->  1922  CG  ASN   35    C      3.86
+ 54.   1566  O   HIS  433    A   <-->  1923  OD1 ASN   35    C      3.73
+ 55.   1566  O   HIS  433    A   <-->  1924  ND2 ASN   35    C      3.20
+ 56.   1567  CB  HIS  433    A   <-->  1959  OD2 ASP   40    C      3.37
+ 57.   1569  ND1 HIS  433    A   <-->  1921  CB  ASN   35    C      3.70
+ 58.   1569  ND1 HIS  433    A   <-->  1922  CG  ASN   35    C      2.85
+ 59.   1569  ND1 HIS  433    A   <-->  1923  OD1 ASN   35    C      3.04
+ 60.   1569  ND1 HIS  433    A   <-->  1924  ND2 ASN   35    C      2.72
+ 61.   1571  CE1 HIS  433    A   <-->  1921  CB  ASN   35    C      3.72
+ 62.   1571  CE1 HIS  433    A   <-->  1922  CG  ASN   35    C      3.29
+ 63.   1571  CE1 HIS  433    A   <-->  1923  OD1 ASN   35    C      3.88
+ 64.   1571  CE1 HIS  433    A   <-->  1924  ND2 ASN   35    C      2.98
+ 65.   1573  N   ASN  434    A   <-->  1959  OD2 ASP   40    C      3.64
+ 66.   1576  O   ASN  434    A   <-->  1889  CE  LYS   31    C      3.06
+ 67.   1577  CB  ASN  434    A   <-->  1922  CG  ASN   35    C      3.75
+ 68.   1577  CB  ASN  434    A   <-->  1923  OD1 ASN   35    C      3.21
+ 69.   1577  CB  ASN  434    A   <-->  1924  ND2 ASN   35    C      3.56
+ 70.   1578  CG  ASN  434    A   <-->  1923  OD1 ASN   35    C      3.13
+ 71.   1578  CG  ASN  434    A   <-->  1981  NE1 TRP   43    C      3.61
+ 72.   1578  CG  ASN  434    A   <-->  1984  CZ2 TRP   43    C      3.79
+ 73.   1579  OD1 ASN  434    A   <-->  1953  CA  ASP   40    C      3.77
+ 74.   1579  OD1 ASN  434    A   <-->  1960  N   GLY   41    C      3.59
+ 75.   1579  OD1 ASN  434    A   <-->  1981  NE1 TRP   43    C      2.81
+ 76.   1579  OD1 ASN  434    A   <-->  1982  CE2 TRP   43    C      3.48
+ 77.   1579  OD1 ASN  434    A   <-->  1984  CZ2 TRP   43    C      3.55
+ 78.   1580  ND2 ASN  434    A   <-->  1885  O   LYS   31    C      3.75
+ 79.   1580  ND2 ASN  434    A   <-->  1914  C   ALA   34    C      3.66
+ 80.   1580  ND2 ASN  434    A   <-->  1916  CB  ALA   34    C      3.13
+ 81.   1580  ND2 ASN  434    A   <-->  1917  N   ASN   35    C      3.76
+ 82.   1580  ND2 ASN  434    A   <-->  1922  CG  ASN   35    C      3.28
+ 83.   1580  ND2 ASN  434    A   <-->  1923  OD1 ASN   35    C      2.44
+ 84.   1580  ND2 ASN  434    A   <-->  1924  ND2 ASN   35    C      3.87
+ 85.   1580  ND2 ASN  434    A   <-->  1948  O   VAL   39    C      3.28
+ 86.   1580  ND2 ASN  434    A   <-->  1984  CZ2 TRP   43    C      3.82
+ 87.   1594  O   TYR  436    A   <-->  1924  ND2 ASN   35    C      3.14
+ 88.   1600  CE2 TYR  436    A   <-->  1860  CG  LYS   28    C      3.55
+ 89.   1602  OH  TYR  436    A   <-->  1862  CE  LYS   28    C      3.74
+ 90.   1617  OE1 GLN  438    A   <-->  1899  NE2 GLN   32    C      3.27
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1143  OE1 GLU  380    A   <-->  1863  NZ  LYS   28    C      2.73
+  2.   1167  OE2 GLU  382    A   <-->  1863  NZ  LYS   28    C      2.87
+
+Number of salt bridges:            2
+
+Number of hydrogen bonds:          9
+
+Number of non-bonded contacts:    90

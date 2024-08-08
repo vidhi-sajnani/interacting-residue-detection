@@ -1,0 +1,88 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dan   Chains L }{ U
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    390  OG  SER   43    L   <-->  3890  NE2 GLN  110    U      2.88
+  2.    535  OE1 GLN   64    L   <-->  3882  N   GLN  110    U      2.95
+  3.    536  NE2 GLN   64    L   <-->  4045  OE2 GLU  130    U      3.12
+  4.    600  O   CYS   72    L   <-->  4089  NH2 ARG  135    U      2.57
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    280  CE1 PHE   31    L   <-->  4481  SG  CYS  186    U      3.74
+  2.    280  CE1 PHE   31    L   <-->  4656  SG  CYS  209    U      3.74
+  3.    323  CD  ARG   36    L   <-->  4287  CG  TRP  158    U      3.89
+  4.    323  CD  ARG   36    L   <-->  4288  CD1 TRP  158    U      3.41
+  5.    323  CD  ARG   36    L   <-->  4290  NE1 TRP  158    U      3.61
+  6.    324  NE  ARG   36    L   <-->  4287  CG  TRP  158    U      3.89
+  7.    324  NE  ARG   36    L   <-->  4288  CD1 TRP  158    U      3.71
+  8.    349  CG  LEU   39    L   <-->  4641  CG2 VAL  207    U      3.76
+  9.    350  CD1 LEU   39    L   <-->  4618  CB  ASP  204    U      3.83
+ 10.    353  CA  PHE   40    L   <-->  4641  CG2 VAL  207    U      3.77
+ 11.    389  CB  SER   43    L   <-->  4629  CA  PRO  206    U      3.61
+ 12.    389  CB  SER   43    L   <-->  4632  CB  PRO  206    U      3.75
+ 13.    389  CB  SER   43    L   <-->  4633  CG  PRO  206    U      3.87
+ 14.    390  OG  SER   43    L   <-->  3890  NE2 GLN  110    U      2.88
+ 15.    390  OG  SER   43    L   <-->  4628  N   PRO  206    U      3.75
+ 16.    390  OG  SER   43    L   <-->  4629  CA  PRO  206    U      3.50
+ 17.    390  OG  SER   43    L   <-->  4633  CG  PRO  206    U      3.88
+ 18.    535  OE1 GLN   64    L   <-->  3879  CA  GLY  109    U      3.52
+ 19.    535  OE1 GLN   64    L   <-->  3880  C   GLY  109    U      3.71
+ 20.    535  OE1 GLN   64    L   <-->  3882  N   GLN  110    U      2.95
+ 21.    535  OE1 GLN   64    L   <-->  3886  CB  GLN  110    U      3.78
+ 22.    536  NE2 GLN   64    L   <-->  4045  OE2 GLU  130    U      3.12
+ 23.    542  CG  LEU   65    L   <-->  3890  NE2 GLN  110    U      3.70
+ 24.    543  CD1 LEU   65    L   <-->  4612  OG1 THR  203    U      3.49
+ 25.    544  CD2 LEU   65    L   <-->  3890  NE2 GLN  110    U      3.81
+ 26.    578  CG2 ILE   69    L   <-->  4071  CD2 LEU  133    U      3.69
+ 27.    583  O   CYS   70    L   <-->  4070  CD1 LEU  133    U      3.85
+ 28.    593  CD2 PHE   71    L   <-->  4052  CD  ARG  131    U      3.45
+ 29.    595  CE2 PHE   71    L   <-->  4051  CG  ARG  131    U      3.48
+ 30.    595  CE2 PHE   71    L   <-->  4052  CD  ARG  131    U      3.14
+ 31.    595  CE2 PHE   71    L   <-->  4059  C   THR  132    U      3.77
+ 32.    595  CE2 PHE   71    L   <-->  4060  O   THR  132    U      3.49
+ 33.    595  CE2 PHE   71    L   <-->  4071  CD2 LEU  133    U      3.73
+ 34.    596  CZ  PHE   71    L   <-->  4049  O   ARG  131    U      3.71
+ 35.    596  CZ  PHE   71    L   <-->  4051  CG  ARG  131    U      3.60
+ 36.    596  CZ  PHE   71    L   <-->  4052  CD  ARG  131    U      3.54
+ 37.    599  C   CYS   72    L   <-->  4089  NH2 ARG  135    U      3.51
+ 38.    600  O   CYS   72    L   <-->  4087  CZ  ARG  135    U      3.77
+ 39.    600  O   CYS   72    L   <-->  4089  NH2 ARG  135    U      2.57
+ 40.    600  O   CYS   72    L   <-->  4134  CZ  PHE  140    U      3.70
+ 41.    605  C   LEU   73    L   <-->  4089  NH2 ARG  135    U      3.25
+ 42.    606  O   LEU   73    L   <-->  4089  NH2 ARG  135    U      3.46
+ 43.    611  N   PRO   74    L   <-->  4089  NH2 ARG  135    U      3.17
+ 44.    612  CA  PRO   74    L   <-->  4089  NH2 ARG  135    U      3.40
+ 45.    617  CD  PRO   74    L   <-->  4089  NH2 ARG  135    U      3.80
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    155  NZ  LYS   18    L   <-->  4650  OE2 GLU  208    U      3.23
+  2.    519  NZ  LYS   62    L   <-->  4028  OE2 GLU  128    U      3.69
+
+Number of salt bridges:            2
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    45

@@ -1,0 +1,103 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1dan   Chains L }{ T
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    583  O   CYS   70    L   <-->  3233  NZ  LYS   20    T      2.97
+  2.    641  OE1 GLU   77    L   <-->  3463  NZ  LYS   48    T      2.99
+  3.    643  N   GLY   78    L   <-->  3544  OD2 ASP   58    T      2.82
+  4.    646  O   GLY   78    L   <-->  3233  NZ  LYS   20    T      2.95
+  5.    654  NE  ARG   79    L   <-->  3530  OE2 GLU   56    T      3.07
+  6.    657  NH2 ARG   79    L   <-->  3265  OE2 GLU   24    T      2.74
+  7.    657  NH2 ARG   79    L   <-->  3529  OE1 GLU   56    T      2.90
+  8.    706  NZ  LYS   85    L   <-->  3567  OD2 ASP   61    T      3.19
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    579  CD1 ILE   69    L   <-->  3202  O   THR   17    T      3.64
+  2.    579  CD1 ILE   69    L   <-->  3205  CG2 THR   17    T      3.59
+  3.    583  O   CYS   70    L   <-->  3231  CD  LYS   20    T      3.68
+  4.    583  O   CYS   70    L   <-->  3232  CE  LYS   20    T      3.54
+  5.    583  O   CYS   70    L   <-->  3233  NZ  LYS   20    T      2.97
+  6.    602  SG  CYS   72    L   <-->  3233  NZ  LYS   20    T      3.70
+  7.    636  C   GLU   77    L   <-->  3544  OD2 ASP   58    T      3.88
+  8.    638  CB  GLU   77    L   <-->  3544  OD2 ASP   58    T      3.73
+  9.    638  CB  GLU   77    L   <-->  3567  OD2 ASP   61    T      3.67
+ 10.    640  CD  GLU   77    L   <-->  3463  NZ  LYS   48    T      3.80
+ 11.    640  CD  GLU   77    L   <-->  3567  OD2 ASP   61    T      3.89
+ 12.    641  OE1 GLU   77    L   <-->  3462  CE  LYS   48    T      3.55
+ 13.    641  OE1 GLU   77    L   <-->  3463  NZ  LYS   48    T      2.99
+ 14.    642  OE2 GLU   77    L   <-->  3463  NZ  LYS   48    T      3.82
+ 15.    643  N   GLY   78    L   <-->  3541  CB  ASP   58    T      3.68
+ 16.    643  N   GLY   78    L   <-->  3542  CG  ASP   58    T      3.62
+ 17.    643  N   GLY   78    L   <-->  3544  OD2 ASP   58    T      2.82
+ 18.    644  CA  GLY   78    L   <-->  3541  CB  ASP   58    T      3.50
+ 19.    644  CA  GLY   78    L   <-->  3542  CG  ASP   58    T      3.83
+ 20.    644  CA  GLY   78    L   <-->  3544  OD2 ASP   58    T      3.46
+ 21.    645  C   GLY   78    L   <-->  3541  CB  ASP   58    T      3.90
+ 22.    645  C   GLY   78    L   <-->  3544  OD2 ASP   58    T      3.65
+ 23.    646  O   GLY   78    L   <-->  3232  CE  LYS   20    T      3.53
+ 24.    646  O   GLY   78    L   <-->  3233  NZ  LYS   20    T      2.95
+ 25.    646  O   GLY   78    L   <-->  3544  OD2 ASP   58    T      3.66
+ 26.    651  CB  ARG   79    L   <-->  3530  OE2 GLU   56    T      3.46
+ 27.    654  NE  ARG   79    L   <-->  3528  CD  GLU   56    T      3.51
+ 28.    654  NE  ARG   79    L   <-->  3529  OE1 GLU   56    T      3.27
+ 29.    654  NE  ARG   79    L   <-->  3530  OE2 GLU   56    T      3.07
+ 30.    655  CZ  ARG   79    L   <-->  3265  OE2 GLU   24    T      3.87
+ 31.    655  CZ  ARG   79    L   <-->  3529  OE1 GLU   56    T      3.53
+ 32.    655  CZ  ARG   79    L   <-->  3530  OE2 GLU   56    T      3.80
+ 33.    657  NH2 ARG   79    L   <-->  3263  CD  GLU   24    T      3.86
+ 34.    657  NH2 ARG   79    L   <-->  3265  OE2 GLU   24    T      2.74
+ 35.    657  NH2 ARG   79    L   <-->  3528  CD  GLU   56    T      3.46
+ 36.    657  NH2 ARG   79    L   <-->  3529  OE1 GLU   56    T      2.90
+ 37.    657  NH2 ARG   79    L   <-->  3530  OE2 GLU   56    T      3.74
+ 38.    705  CE  LYS   85    L   <-->  3567  OD2 ASP   61    T      3.11
+ 39.    706  NZ  LYS   85    L   <-->  3567  OD2 ASP   61    T      3.19
+ 40.    729  CD  GLN   88    L   <-->  3477  CD2 PHE   50    T      3.90
+ 41.    729  CD  GLN   88    L   <-->  3479  CE2 PHE   50    T      3.86
+ 42.    730  OE1 GLN   88    L   <-->  3477  CD2 PHE   50    T      3.48
+ 43.    730  OE1 GLN   88    L   <-->  3479  CE2 PHE   50    T      3.45
+ 44.    747  CD1 ILE   90    L   <-->  3474  CB  PHE   50    T      3.84
+ 45.    757  O   VAL   92    L   <-->  3453  CB  SER   47    T      3.58
+ 46.    757  O   VAL   92    L   <-->  3478  CE1 PHE   50    T      3.90
+ 47.    759  CG1 VAL   92    L   <-->  3476  CD1 PHE   50    T      3.53
+ 48.    762  CA  ASN   93    L   <-->  3478  CE1 PHE   50    T      3.88
+ 49.    762  CA  ASN   93    L   <-->  3480  CZ  PHE   50    T      3.90
+ 50.    765  CB  ASN   93    L   <-->  3478  CE1 PHE   50    T      3.85
+ 51.    765  CB  ASN   93    L   <-->  3479  CE2 PHE   50    T      3.86
+ 52.    765  CB  ASN   93    L   <-->  3480  CZ  PHE   50    T      3.39
+ 53.    766  CG  ASN   93    L   <-->  3480  CZ  PHE   50    T      3.42
+ 54.    767  OD1 ASN   93    L   <-->  3480  CZ  PHE   50    T      3.62
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    641  OE1 GLU   77    L   <-->  3463  NZ  LYS   48    T      2.99
+  2.    657  NH2 ARG   79    L   <-->  3265  OE2 GLU   24    T      2.74
+  3.    657  NH2 ARG   79    L   <-->  3529  OE1 GLU   56    T      2.90
+  4.    706  NZ  LYS   85    L   <-->  3567  OD2 ASP   61    T      3.19
+
+Number of salt bridges:            4
+
+Number of hydrogen bonds:          8
+
+Number of non-bonded contacts:    54

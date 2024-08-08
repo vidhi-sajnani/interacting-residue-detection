@@ -1,0 +1,36 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1bgs   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    135  OH  TYR   17    A   <-->  1737  NZ  LYS  108    B      2.98
+  2.    142  ND1 HIS   18    A   <-->  1367  O   GLY   65    B      2.95
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    120  O   THR   16    A   <-->  1361  CB  PRO   64    B      3.79
+  2.    130  CD1 TYR   17    A   <-->  1641  OH  TYR   97    B      3.75
+  3.    132  CE1 TYR   17    A   <-->  1641  OH  TYR   97    B      3.59
+  4.    135  OH  TYR   17    A   <-->  1735  CD  LYS  108    B      3.73
+  5.    135  OH  TYR   17    A   <-->  1737  NZ  LYS  108    B      2.98
+  6.    142  ND1 HIS   18    A   <-->  1367  O   GLY   65    B      2.95
+  7.    144  CE1 HIS   18    A   <-->  1367  O   GLY   65    B      3.41
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:     7

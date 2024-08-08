@@ -1,0 +1,148 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1cho   Chains G }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1373  N   GLY  193    G   <-->  1859  O   LEU   18    I      2.44
+  2.   1385  N   SER  195    G   <-->  1859  O   LEU   18    I      3.32
+  3.   1390  OG  SER  195    G   <-->  1856  N   LEU   18    I      3.02
+  4.   1520  O   SER  214    G   <-->  1856  N   LEU   18    I      3.33
+  5.   1537  N   GLY  216    G   <-->  1846  O   CYS   16    I      2.97
+  6.   1540  O   GLY  216    G   <-->  1843  N   CYS   16    I      2.79
+  7.   1547  N   SER  218    G   <-->  1834  O   PRO   14    I      3.05
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1242  CZ3 TRP  172    G   <-->  1842  CB  ALA   15    I      3.87
+  2.   1243  CH2 TRP  172    G   <-->  1834  O   PRO   14    I      3.70
+  3.   1361  C   CYS  191    G   <-->  1860  CB  LEU   18    I      3.90
+  4.   1362  O   CYS  191    G   <-->  1859  O   LEU   18    I      3.70
+  5.   1362  O   CYS  191    G   <-->  1860  CB  LEU   18    I      3.69
+  6.   1366  CA  MET  192    G   <-->  1859  O   LEU   18    I      3.35
+  7.   1367  C   MET  192    G   <-->  1859  O   LEU   18    I      3.35
+  8.   1370  CG  MET  192    G   <-->  1867  O   GLU   19    I      3.67
+  9.   1370  CG  MET  192    G   <-->  1982  ND2 ASN   33    I      3.43
+ 10.   1373  N   GLY  193    G   <-->  1858  C   LEU   18    I      3.54
+ 11.   1373  N   GLY  193    G   <-->  1859  O   LEU   18    I      2.44
+ 12.   1373  N   GLY  193    G   <-->  1866  C   GLU   19    I      3.62
+ 13.   1373  N   GLY  193    G   <-->  1867  O   GLU   19    I      3.85
+ 14.   1373  N   GLY  193    G   <-->  1873  N   TYR   20    I      3.68
+ 15.   1373  N   GLY  193    G   <-->  1877  CB  TYR   20    I      3.72
+ 16.   1374  CA  GLY  193    G   <-->  1859  O   LEU   18    I      3.37
+ 17.   1374  CA  GLY  193    G   <-->  1873  N   TYR   20    I      3.84
+ 18.   1374  CA  GLY  193    G   <-->  1877  CB  TYR   20    I      3.53
+ 19.   1375  C   GLY  193    G   <-->  1859  O   LEU   18    I      3.67
+ 20.   1377  N   ASP  194    G   <-->  1859  O   LEU   18    I      3.37
+ 21.   1385  N   SER  195    G   <-->  1859  O   LEU   18    I      3.32
+ 22.   1386  CA  SER  195    G   <-->  1859  O   LEU   18    I      3.86
+ 23.   1389  CB  SER  195    G   <-->  1858  C   LEU   18    I      3.21
+ 24.   1389  CB  SER  195    G   <-->  1859  O   LEU   18    I      3.26
+ 25.   1389  CB  SER  195    G   <-->  1864  N   GLU   19    I      3.35
+ 26.   1389  CB  SER  195    G   <-->  1865  CA  GLU   19    I      3.64
+ 27.   1390  OG  SER  195    G   <-->  1856  N   LEU   18    I      3.02
+ 28.   1390  OG  SER  195    G   <-->  1857  CA  LEU   18    I      3.16
+ 29.   1390  OG  SER  195    G   <-->  1858  C   LEU   18    I      2.95
+ 30.   1390  OG  SER  195    G   <-->  1859  O   LEU   18    I      3.45
+ 31.   1390  OG  SER  195    G   <-->  1860  CB  LEU   18    I      3.55
+ 32.   1390  OG  SER  195    G   <-->  1864  N   GLU   19    I      3.14
+ 33.   1520  O   SER  214    G   <-->  1850  CA  THR   17    I      3.40
+ 34.   1520  O   SER  214    G   <-->  1851  C   THR   17    I      3.87
+ 35.   1520  O   SER  214    G   <-->  1853  CB  THR   17    I      3.69
+ 36.   1520  O   SER  214    G   <-->  1856  N   LEU   18    I      3.33
+ 37.   1524  CA  TRP  215    G   <-->  1846  O   CYS   16    I      3.62
+ 38.   1525  C   TRP  215    G   <-->  1846  O   CYS   16    I      3.81
+ 39.   1525  C   TRP  215    G   <-->  1862  CD1 LEU   18    I      3.66
+ 40.   1527  CB  TRP  215    G   <-->  1846  O   CYS   16    I      3.70
+ 41.   1527  CB  TRP  215    G   <-->  1850  CA  THR   17    I      3.87
+ 42.   1533  CE3 TRP  215    G   <-->  1842  CB  ALA   15    I      3.81
+ 43.   1535  CZ3 TRP  215    G   <-->  1842  CB  ALA   15    I      3.84
+ 44.   1537  N   GLY  216    G   <-->  1846  O   CYS   16    I      2.97
+ 45.   1537  N   GLY  216    G   <-->  1862  CD1 LEU   18    I      3.74
+ 46.   1540  O   GLY  216    G   <-->  1839  CA  ALA   15    I      3.20
+ 47.   1540  O   GLY  216    G   <-->  1840  C   ALA   15    I      3.41
+ 48.   1540  O   GLY  216    G   <-->  1842  CB  ALA   15    I      3.89
+ 49.   1540  O   GLY  216    G   <-->  1843  N   CYS   16    I      2.79
+ 50.   1540  O   GLY  216    G   <-->  1846  O   CYS   16    I      3.20
+ 51.   1542  CA  SER  217    G   <-->  1834  O   PRO   14    I      3.77
+ 52.   1547  N   SER  218    G   <-->  1834  O   PRO   14    I      3.05
+ 53.   1551  CB  SER  218    G   <-->  1825  O   LYS   13    I      3.78
+ 54.   1551  CB  SER  218    G   <-->  1833  C   PRO   14    I      3.75
+ 55.   1551  CB  SER  218    G   <-->  1834  O   PRO   14    I      3.51
+ 56.   1551  CB  SER  218    G   <-->  1848  SG  CYS   16    I      3.60
+ 57.   1551  CB  SER  218    G   <-->  2030  ND2 ASN   39    I      3.74
+ 58.   1552  OG  SER  218    G   <-->  1834  O   PRO   14    I      3.52
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    270  O   PHE   41    F   <-->  1873  N   TYR   20    I      2.88
+  2.    397  O   CYS   58    F   <-->  1894  NH1 ARG   21    I      3.02
+  3.   1048  OH  TYR  146    F   <-->  2004  OD1 ASN   36    I      3.20
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    252  CD1 PHE   39    F   <-->  2146  NZ  LYS   55    I      3.78
+  2.    254  CE1 PHE   39    F   <-->  2146  NZ  LYS   55    I      3.89
+  3.    268  CA  PHE   41    F   <-->  1876  O   TYR   20    I      3.31
+  4.    270  O   PHE   41    F   <-->  1865  CA  GLU   19    I      3.59
+  5.    270  O   PHE   41    F   <-->  1866  C   GLU   19    I      3.68
+  6.    270  O   PHE   41    F   <-->  1868  CB  GLU   19    I      3.87
+  7.    270  O   PHE   41    F   <-->  1873  N   TYR   20    I      2.88
+  8.    270  O   PHE   41    F   <-->  1874  CA  TYR   20    I      3.86
+  9.    270  O   PHE   41    F   <-->  1876  O   TYR   20    I      3.78
+ 10.    271  CB  PHE   41    F   <-->  1876  O   TYR   20    I      3.23
+ 11.    272  CG  PHE   41    F   <-->  1893  CZ  ARG   21    I      3.80
+ 12.    272  CG  PHE   41    F   <-->  1895  NH2 ARG   21    I      3.64
+ 13.    273  CD1 PHE   41    F   <-->  1895  NH2 ARG   21    I      3.68
+ 14.    274  CD2 PHE   41    F   <-->  1893  CZ  ARG   21    I      3.78
+ 15.    274  CD2 PHE   41    F   <-->  1894  NH1 ARG   21    I      3.67
+ 16.    276  CE2 PHE   41    F   <-->  1894  NH1 ARG   21    I      3.74
+ 17.    283  SG  CYS   42    F   <-->  1868  CB  GLU   19    I      3.81
+ 18.    389  CG  HIS   57    F   <-->  1855  CG2 THR   17    I      3.80
+ 19.    391  CD2 HIS   57    F   <-->  1853  CB  THR   17    I      3.55
+ 20.    391  CD2 HIS   57    F   <-->  1871  OE1 GLU   19    I      3.68
+ 21.    393  NE2 HIS   57    F   <-->  1853  CB  THR   17    I      3.63
+ 22.    393  NE2 HIS   57    F   <-->  1856  N   LEU   18    I      3.90
+ 23.    393  NE2 HIS   57    F   <-->  1864  N   GLU   19    I      3.88
+ 24.    393  NE2 HIS   57    F   <-->  1871  OE1 GLU   19    I      3.84
+ 25.    397  O   CYS   58    F   <-->  1894  NH1 ARG   21    I      3.02
+ 26.   1045  CE1 TYR  146    F   <-->  2004  OD1 ASN   36    I      3.68
+ 27.   1047  CZ  TYR  146    F   <-->  2004  OD1 ASN   36    I      3.78
+ 28.   1048  OH  TYR  146    F   <-->  2004  OD1 ASN   36    I      3.20
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    393  NE2 HIS   57    F   <-->  1871  OE1 GLU   19    I      3.84
+
+Number of hydrogen bonds:          7
+
+Number of non-bonded contacts:    58

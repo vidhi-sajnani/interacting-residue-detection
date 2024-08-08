@@ -1,0 +1,183 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+                 PDB code: 1cbw   Chains G }{ I
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2480  O   HIS   40    G   <-->  4107  NH1 ARG   17    I      3.01
+  2.   2490  O   PHE   41    G   <-->  4098  N   ARG   17    I      2.97
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2474  CE1 PHE   39    G   <-->  4106  CZ  ARG   17    I      3.65
+  2.   2474  CE1 PHE   39    G   <-->  4107  NH1 ARG   17    I      3.34
+  3.   2474  CE1 PHE   39    G   <-->  4108  NH2 ARG   17    I      3.54
+  4.   2474  CE1 PHE   39    G   <-->  4124  CD1 ILE   19    I      3.82
+  5.   2475  CE2 PHE   39    G   <-->  4101  O   ARG   17    I      3.22
+  6.   2475  CE2 PHE   39    G   <-->  4107  NH1 ARG   17    I      3.57
+  7.   2475  CE2 PHE   39    G   <-->  4124  CD1 ILE   19    I      3.81
+  8.   2476  CZ  PHE   39    G   <-->  4106  CZ  ARG   17    I      3.27
+  9.   2476  CZ  PHE   39    G   <-->  4107  NH1 ARG   17    I      2.98
+ 10.   2476  CZ  PHE   39    G   <-->  4108  NH2 ARG   17    I      3.60
+ 11.   2476  CZ  PHE   39    G   <-->  4124  CD1 ILE   19    I      3.40
+ 12.   2480  O   HIS   40    G   <-->  4107  NH1 ARG   17    I      3.01
+ 13.   2488  CA  PHE   41    G   <-->  4101  O   ARG   17    I      3.34
+ 14.   2490  O   PHE   41    G   <-->  4094  CA  ALA   16    I      3.69
+ 15.   2490  O   PHE   41    G   <-->  4095  C   ALA   16    I      3.68
+ 16.   2490  O   PHE   41    G   <-->  4097  CB  ALA   16    I      3.78
+ 17.   2490  O   PHE   41    G   <-->  4098  N   ARG   17    I      2.97
+ 18.   2490  O   PHE   41    G   <-->  4099  CA  ARG   17    I      3.80
+ 19.   2490  O   PHE   41    G   <-->  4101  O   ARG   17    I      3.89
+ 20.   2490  O   PHE   41    G   <-->  4102  CB  ARG   17    I      3.77
+ 21.   2491  CB  PHE   41    G   <-->  4101  O   ARG   17    I      3.10
+ 22.   2503  SG  CYS   42    G   <-->  4097  CB  ALA   16    I      3.48
+ 23.   2607  O   HIS   57    G   <-->  4269  O   GLY   37    I      3.81
+ 24.   2611  CD2 HIS   57    G   <-->  4082  CB  CYS   14    I      3.76
+ 25.   2611  CD2 HIS   57    G   <-->  4097  CB  ALA   16    I      3.83
+ 26.   2611  CD2 HIS   57    G   <-->  4265  O   GLY   36    I      3.63
+ 27.   2611  CD2 HIS   57    G   <-->  4267  CA  GLY   37    I      3.84
+ 28.   2613  NE2 HIS   57    G   <-->  4082  CB  CYS   14    I      3.80
+ 29.   2613  NE2 HIS   57    G   <-->  4084  N   LYS   15    I      3.73
+ 30.   2613  NE2 HIS   57    G   <-->  4093  N   ALA   16    I      3.50
+ 31.   2613  NE2 HIS   57    G   <-->  4097  CB  ALA   16    I      3.73
+ 32.   2613  NE2 HIS   57    G   <-->  4265  O   GLY   36    I      3.73
+ 33.   2910  O   LEU   97    G   <-->  4282  CD  ARG   39    I      3.81
+ 34.   2910  O   LEU   97    G   <-->  4283  NE  ARG   39    I      3.46
+ 35.   2914  CD2 LEU   97    G   <-->  4286  NH2 ARG   39    I      3.83
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    238  CD  LYS   36    B   <-->  4367  OE2 GLU   49    I      3.49
+  2.    245  CB  THR   37    B   <-->  4386  CB  MET   52    I      3.62
+  3.    245  CB  THR   37    B   <-->  4395  CG  ARG   53    I      3.85
+  4.    246  OG1 THR   37    B   <-->  4386  CB  MET   52    I      3.43
+  5.    246  OG1 THR   37    B   <-->  4389  CE  MET   52    I      3.50
+  6.    247  CG2 THR   37    B   <-->  4364  CG  GLU   49    I      3.75
+  7.    247  CG2 THR   37    B   <-->  4386  CB  MET   52    I      3.83
+  8.    247  CG2 THR   37    B   <-->  4395  CG  ARG   53    I      3.87
+  9.    256  CB  PHE   39    B   <-->  4389  CE  MET   52    I      3.84
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3593  N   GLY  193    H   <-->  4087  O   LYS   15    I      2.87
+  2.   3605  N   SER  195    H   <-->  4087  O   LYS   15    I      3.12
+  3.   3610  OG  SER  195    H   <-->  4084  N   LYS   15    I      3.09
+  4.   3740  O   SER  214    H   <-->  4084  N   LYS   15    I      3.24
+  5.   3757  N   GLY  216    H   <-->  4074  O   PRO   13    I      3.00
+  6.   3764  O   SER  217    H   <-->  4092  NZ  LYS   15    I      2.80
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3282  OD1 ASN  150    H   <-->  4108  NH2 ARG   17    I      3.36
+  2.   3290  CG2 THR  151    H   <-->  4104  CD  ARG   17    I      3.73
+  3.   3290  CG2 THR  151    H   <-->  4105  NE  ARG   17    I      3.45
+  4.   3290  CG2 THR  151    H   <-->  4106  CZ  ARG   17    I      3.29
+  5.   3290  CG2 THR  151    H   <-->  4107  NH1 ARG   17    I      3.33
+  6.   3290  CG2 THR  151    H   <-->  4108  NH2 ARG   17    I      3.86
+  7.   3576  O   SER  190    H   <-->  4091  CE  LYS   15    I      3.78
+  8.   3580  CA  CYS  191    H   <-->  4090  CD  LYS   15    I      3.68
+  9.   3581  C   CYS  191    H   <-->  4090  CD  LYS   15    I      3.61
+ 10.   3582  O   CYS  191    H   <-->  4087  O   LYS   15    I      3.59
+ 11.   3582  O   CYS  191    H   <-->  4088  CB  LYS   15    I      3.76
+ 12.   3586  CA  MET  192    H   <-->  4087  O   LYS   15    I      3.67
+ 13.   3586  CA  MET  192    H   <-->  4096  O   ALA   16    I      3.89
+ 14.   3587  C   MET  192    H   <-->  4087  O   LYS   15    I      3.74
+ 15.   3589  CB  MET  192    H   <-->  4096  O   ALA   16    I      3.78
+ 16.   3590  CG  MET  192    H   <-->  4096  O   ALA   16    I      3.46
+ 17.   3591  SD  MET  192    H   <-->  4066  CG2 THR   11    I      3.80
+ 18.   3592  CE  MET  192    H   <-->  4090  CD  LYS   15    I      3.55
+ 19.   3592  CE  MET  192    H   <-->  4091  CE  LYS   15    I      3.80
+ 20.   3592  CE  MET  192    H   <-->  4092  NZ  LYS   15    I      3.87
+ 21.   3593  N   GLY  193    H   <-->  4086  C   LYS   15    I      3.90
+ 22.   3593  N   GLY  193    H   <-->  4087  O   LYS   15    I      2.87
+ 23.   3593  N   GLY  193    H   <-->  4095  C   ALA   16    I      3.89
+ 24.   3593  N   GLY  193    H   <-->  4096  O   ALA   16    I      3.58
+ 25.   3593  N   GLY  193    H   <-->  4102  CB  ARG   17    I      3.89
+ 26.   3594  CA  GLY  193    H   <-->  4087  O   LYS   15    I      3.71
+ 27.   3594  CA  GLY  193    H   <-->  4102  CB  ARG   17    I      3.86
+ 28.   3595  C   GLY  193    H   <-->  4087  O   LYS   15    I      3.81
+ 29.   3597  N   ASP  194    H   <-->  4087  O   LYS   15    I      3.39
+ 30.   3605  N   SER  195    H   <-->  4086  C   LYS   15    I      3.87
+ 31.   3605  N   SER  195    H   <-->  4087  O   LYS   15    I      3.12
+ 32.   3606  CA  SER  195    H   <-->  4087  O   LYS   15    I      3.77
+ 33.   3609  CB  SER  195    H   <-->  4086  C   LYS   15    I      3.32
+ 34.   3609  CB  SER  195    H   <-->  4087  O   LYS   15    I      3.30
+ 35.   3609  CB  SER  195    H   <-->  4093  N   ALA   16    I      3.37
+ 36.   3609  CB  SER  195    H   <-->  4094  CA  ALA   16    I      3.58
+ 37.   3610  OG  SER  195    H   <-->  4084  N   LYS   15    I      3.09
+ 38.   3610  OG  SER  195    H   <-->  4085  CA  LYS   15    I      2.83
+ 39.   3610  OG  SER  195    H   <-->  4086  C   LYS   15    I      2.51
+ 40.   3610  OG  SER  195    H   <-->  4087  O   LYS   15    I      2.89
+ 41.   3610  OG  SER  195    H   <-->  4088  CB  LYS   15    I      2.97
+ 42.   3610  OG  SER  195    H   <-->  4093  N   ALA   16    I      2.72
+ 43.   3610  OG  SER  195    H   <-->  4094  CA  ALA   16    I      3.48
+ 44.   3740  O   SER  214    H   <-->  4079  CA  CYS   14    I      3.65
+ 45.   3740  O   SER  214    H   <-->  4084  N   LYS   15    I      3.24
+ 46.   3744  CA  TRP  215    H   <-->  4074  O   PRO   13    I      3.17
+ 47.   3745  C   TRP  215    H   <-->  4074  O   PRO   13    I      3.55
+ 48.   3747  CB  TRP  215    H   <-->  4073  C   PRO   13    I      3.81
+ 49.   3747  CB  TRP  215    H   <-->  4074  O   PRO   13    I      3.23
+ 50.   3757  N   GLY  216    H   <-->  4074  O   PRO   13    I      3.00
+ 51.   3757  N   GLY  216    H   <-->  4092  NZ  LYS   15    I      3.83
+ 52.   3759  C   GLY  216    H   <-->  4092  NZ  LYS   15    I      3.75
+ 53.   3760  O   GLY  216    H   <-->  4072  CA  PRO   13    I      3.69
+ 54.   3760  O   GLY  216    H   <-->  4074  O   PRO   13    I      3.52
+ 55.   3760  O   GLY  216    H   <-->  4075  CB  PRO   13    I      3.42
+ 56.   3760  O   GLY  216    H   <-->  4092  NZ  LYS   15    I      3.42
+ 57.   3763  C   SER  217    H   <-->  4092  NZ  LYS   15    I      3.78
+ 58.   3764  O   SER  217    H   <-->  4091  CE  LYS   15    I      3.60
+ 59.   3764  O   SER  217    H   <-->  4092  NZ  LYS   15    I      2.80
+ 60.   3771  CB  SER  218    H   <-->  4070  O   GLY   12    I      3.80
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1057  N   ALA  149    C   <-->  4187  O   LYS   26    I      3.82
+  2.   1059  C   ALA  149    C   <-->  4187  O   LYS   26    I      3.54
+  3.   1059  C   ALA  149    C   <-->  4196  O   ALA   27    I      3.82
+  4.   1060  O   ALA  149    C   <-->  4187  O   LYS   26    I      3.72
+  5.   1060  O   ALA  149    C   <-->  4194  CA  ALA   27    I      3.63
+  6.   1060  O   ALA  149    C   <-->  4195  C   ALA   27    I      3.43
+  7.   1060  O   ALA  149    C   <-->  4196  O   ALA   27    I      2.77
+  8.   1061  CB  ALA  149    C   <-->  4187  O   LYS   26    I      3.80
+  9.   1062  N   ASN  150    C   <-->  4187  O   LYS   26    I      3.79
+ 10.   1066  CB  ASN  150    C   <-->  4187  O   LYS   26    I      3.79
+ 11.   1067  CG  ASN  150    C   <-->  4199  CA  GLY   28    I      3.84
+ 12.   1068  OD1 ASN  150    C   <-->  4199  CA  GLY   28    I      3.86
+ 13.   1069  ND2 ASN  150    C   <-->  4182  O   ALA   25    I      3.57
+ 14.   1069  ND2 ASN  150    C   <-->  4199  CA  GLY   28    I      3.67
+
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    35
