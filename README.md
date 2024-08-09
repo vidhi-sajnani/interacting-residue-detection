@@ -27,10 +27,13 @@ This folder consists of the following files:
 - inputs
 - PDBSum_labels.csv
 - junctions_and_secondary_structure_values.ipynb
+- junctions_and_secondary_structure_values.py
 - matchingPDBSUM.ipynb
+- matchingPDBSUM.py
 - obtaining_labels_list_PDBSum.sh
 - propensities_hydrophobicity.ipynb
-- newrunpython.py
+- propensities_hydrophobicity.py
+- newrun_model.py
 - awkcommands.txt
 - NetSurfP_RelSASA_output.csv
 
@@ -63,6 +66,12 @@ This folder consists of the following files:
 - randomforest.ipynb
 - svm.ipynb
 - xgboost.ipynb
+- gradientboosting.py
+- logisticregression.py
+- naivebayes.py
+- randomforest.py
+- svm.py
+- xgboost.py
 
 This folder consists of all the supervised machine learning models named after the respective models used. They all take final_training.csv and viral_test_dataset.xlsx as training and test dataset inputs, respectively. The accuracies and other parameters of the models are displayed in our paper. 
 
