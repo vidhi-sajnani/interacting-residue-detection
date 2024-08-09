@@ -1,5 +1,7 @@
 # Sequence-based Detection of Protein Interaction Sites
 
+This pipeline aims to predict protein interaction sites in Influenza A viral proteins using only the amino acid sequence of a protein. The respective folders have been described below:
+
 ## - data_collection
 This folder consists of the following files:
 - supplementary_table_S2_liu_et_al.xlsx
@@ -18,7 +20,7 @@ This folder consists of the following files:
 - junction_propensity_dataset.xlsx
 - junction_sequences.fasta
 
-The file junction_sequences.fasta consists of the fasta sequences of all the protein chains selected for the junction propensity dataset. We obtained their secondary structures from S4PRED and then ran the codes in feature_collection folder to obtain the junctions and also the labels from PDBsum (junction_propensity_dataset.xlsx). The process of calculating the secondary structure propensities is described in detail in our paper. The FINAL_junction.csv shows the final calculations of 69 proteins and their interaction sites as secondary structures. From this calculation we obtained the final junction propensities used in junctions_and_secondary_structure_values.ipynb in the feature_collection folder.
+The file junction_sequences.fasta consists of the fasta sequences of all the protein chains selected for the junction propensity dataset. We obtained their secondary structures from S4PRED and then ran the codes in the feature_collection folder to obtain the junctions and also the labels from PDBsum (junction_propensity_dataset.xlsx). The process of calculating the secondary structure propensities is described in detail in our paper. The FINAL_junction.csv shows the final calculations of 69 proteins and their interaction sites as secondary structures. From this calculation, we obtained the final junction propensities used in junctions_and_secondary_structure_values.ipynb in the feature_collection folder.
 
 ## - feature_collection
 This folder consists of the following files:
@@ -61,7 +63,7 @@ This folder consists of the following files:
 - svm.ipynb
 - xgboost.ipynb
 
-This folder consists of all the supervised machine learning models, named after the respective models used. They all take final_training.csv and viral_test_dataset.xlsx as training and test dataset inputs, respectively. The accuracies and other parameters of the models are displayed in our paper.
+This folder consists of all the supervised machine learning models named after the respective models used. They all take final_training.csv and viral_test_dataset.xlsx as training and test dataset inputs, respectively. The accuracies and other parameters of the models are displayed in our paper.
 
 ## -unsupervised_ML
 This folder consists of the following files:
