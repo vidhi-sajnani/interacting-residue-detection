@@ -38,7 +38,9 @@ The file training_fasta_seqs.fasta has the fasta sequences of all the PDBID chai
 
 ## -junction_propensity
 This folder consists of the following files:
-- supplementary_table_S2_liu_et_al.xlsx
+- FINAL_junction.csv
+- junction_propensity_dataset.xlsx
+- junction_sequences.fasta
 
 
 ## -test_data
@@ -51,9 +53,17 @@ The file test_data.fasta consists of the consensus sequences of the 10 Influenza
 
 ## -supervised_ML
 This folder consists of the following files:
-- supplementary_table_S2_liu_et_al.xlsx
+- gradientboosting.ipynb
+- logisticregression.ipynb
+- naivebayes.ipynb
+- randomforest.ipynb
+- svm.ipynb
+- xgboost.ipynb
+
+This folder consists of all the supervised machine learning models, named after the respective models used. They all take final_training.csv and viral_test_dataset.xlsx as training and test dataset inputs, respectively. The accuracies and other parameters of the models are displayed in our paper.
 
 ## -unsupervised_ML
 This folder consists of the following files:
-- supplementary_table_S2_liu_et_al.xlsx
+- external_validation_sequences.fas
+- Unsupervised_model_predictions.ipynb
    
