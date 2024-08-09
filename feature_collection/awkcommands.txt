@@ -1,0 +1,8 @@
+S4PRED: 
+
+python3 newrun_model.py training.fasta > training1.ss2
+awk '{print $1, $2, $3}' training1.ss2 > training.ss2
+awk '!/^>/ && !/^#/' training.ss2 > training.txt
+awk '!/^>/ && !/^#/' training.ss2 > training.txt
+awk '{split($2, a, "|"); $2 = a[1]; print}' training.txt > training1.txt
+awk '{print $1 "," $2 "," $3}' training1.txt > training.csv
