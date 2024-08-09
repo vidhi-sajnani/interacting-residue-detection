@@ -1,0 +1,103 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "a890c41f-f3c0-451f-9a71-a66494b1fc6f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "2b21b633-1e6f-4cfd-80f8-ff74d06b2b60",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [],
+   "source": [
+    "# Load the spotone_ml CSV\n",
+    "SPML = pd.read_csv('training_newest.csv')\n",
+    "SPML['Chain'] = SPML['PDBID'].str.split('_').str[-1]\n",
+    "# SPML[\"Chain\"]= SPML[\"PDBID\"].str[5]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "7e7c317d-b1f6-4940-af96-19f51a4002f5",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [],
+   "source": [
+    "SPML.to_csv('training_updated.csv', index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "252acf35-b737-4943-b757-f22e95113f8c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The spotone_ml.xlsx file has been updated.\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Load the checklist CSV\n",
+    "checklist_df = pd.read_csv('PDBSum_labels.csv')\n",
+    "\n",
+    "# Load the spotone_ml CSV\n",
+    "spotone_ml_df = pd.read_csv('output.csv')\n",
+    "\n",
+    "# Iterate through each row in the checklist DataFrame\n",
+    "for index, row in checklist_df.iterrows():\n",
+    "    residue_no = row['Residue']\n",
+    "    chain = row['Chain']\n",
+    "    protein_name = row['PDBID'][1:4]\n",
+    "    \n",
+    "    # Find matching rows in the spotone_ml DataFrame and update the 'label' column\n",
+    "    spotone_ml_df.loc[\n",
+    "        (spotone_ml_df['Residue'] == residue_no) & \n",
+    "        (spotone_ml_df['Chain'] == chain) & \n",
+    "        (spotone_ml_df['PDBID'].str[:3] == protein_name), \n",
+    "        'Label'\n",
+    "    ] = 1\n",
+    "\n",
+    "# Save the updated spotone_ml DataFrame back to the CSV file\n",
+    "spotone_ml_df.to_csv('FINAL_training.csv', index=False)\n",
+    "\n",
+    "print(\"The file has been updated.\")\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
