@@ -55,7 +55,7 @@ This folder consists of the following files:
 - viral_test_dataset.xlsx
 - external-val.xlsx
 
-The file test_data.fasta consists of the consensus sequences of the 10 Influenza A viral proteins obtained from Lubna et al.. This is used as an input to obtain secondary structures, RelSASA and amino acid propensities, as mentioned in the feature_collection folder. Since this is a test dataset, we do not have any Label values. The viral_test_dataset.xlsx file is the file with all the features of the viral proteins. It is used to test out supervised ML models. The file external-val.xlsx consists of the test dataset with Label values from the paper by Lubna et al. (Table 3). This is to measure the performance of our machine learning models.
+The file test_data.fasta consists of the consensus sequences of the 10 Influenza A viral proteins obtained from Lubna et al. (https://www.authorea.com/users/658468/articles/662811-consortium-of-consistent-amino-acid-substitutions-on-influenza-a-h1n1-viral-proteome-emerged-at-specific-stages-of-viral-infection-a-big-data-analysis). This is used as an input to obtain secondary structures, RelSASA and amino acid propensities, as mentioned in the feature_collection folder. Since this is a test dataset, we do not have any Label values. The viral_test_dataset.xlsx file is the file with all the features of the viral proteins. It is used to test out supervised ML models. The file external-val.xlsx consists of the test dataset with Label values from the paper by Lubna et al. (Table 3). This is to measure the performance of our machine learning models.
 
 
 ## -supervised_ML
