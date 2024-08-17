@@ -82,67 +82,124 @@ This folder consists of the following files:
 - 
 
 
-##-versions of libraries used
+## -versions of libraries used
 
-INSTALLED VERSIONS
+
 ------------------
+
 commit              : a671b5a8bf5dd13fb19f0e88edc679bc9e15c673
+
 python              : 3.10.12.final.0
+
 python-bits         : 64
+
 OS                  : Linux
+
 OS-release          : 6.1.85+
+
 Version             : #1 SMP PREEMPT_DYNAMIC Thu Jun 27 21:05:47 UTC 2024
+
 machine             : x86_64
+
 processor           : x86_64
+
 byteorder           : little
+
 LC_ALL              : en_US.UTF-8
+
 LANG                : en_US.UTF-8
+
 LOCALE              : en_US.UTF-8
 
 pandas              : 2.1.4
+
 numpy               : 1.26.4
+
 pytz                : 2024.1
+
 dateutil            : 2.8.2
+
 setuptools          : 71.0.4
+
 pip                 : 24.1.2
+
 Cython              : 3.0.11
+
 pytest              : 7.4.4
+
 hypothesis          : None
+
 sphinx              : 5.0.2
+
 blosc               : None
+
 feather             : None
+
 xlsxwriter          : None
+
 lxml.etree          : 4.9.4
+
 html5lib            : 1.1
+
 pymysql             : None
+
 psycopg2            : 2.9.9
+
 jinja2              : 3.1.4
+
 IPython             : 7.34.0
+
 pandas_datareader   : 0.10.0
+
 bs4                 : 4.12.3
+
 bottleneck          : None
+
 dataframe-api-compat: None
+
 fastparquet         : None
+
 fsspec              : 2024.6.1
+
 gcsfs               : 2024.6.1
+
 matplotlib          : 3.7.1
+
 numba               : 0.60.0
+
 numexpr             : 2.10.1
+
 odfpy               : None
+
 openpyxl            : 3.1.5
+
 pandas_gbq          : 0.23.1
+
 pyarrow             : 14.0.2
+
 pyreadstat          : None
+
 pyxlsb              : None
+
 s3fs                : None
+
 scipy               : 1.13.1
+
 sqlalchemy          : 2.0.32
+
 tables              : 3.8.0
+
 tabulate            : 0.9.0
+
 xarray              : 2024.6.0
+
 xlrd                : 2.0.1
+
 zstandard           : None
+
 tzdata              : 2024.1
+
 qtpy                : None
+
 pyqt5               : None
    
