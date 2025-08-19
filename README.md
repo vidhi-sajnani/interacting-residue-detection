@@ -1,4 +1,4 @@
-# Sequence-based Detection of Protein Interaction Sites
+# Sequence-based Prediction of Protein Interaction Sites
 
 This pipeline aims to predict protein interaction sites in Influenza A viral proteins using only the amino acid sequence of a protein. The respective folders have been described below:
 
@@ -11,8 +11,8 @@ This folder consists of the following files:
 - supplementary_data_formatting.py
 - supplementary_data_formatting.ipynb
 
-
 The list of PDBIDs was collected from Supplementary Table 2 of a paper by Liu et al. titled 'Hot spot prediction in protein-protein interactions by an ensemble system' (https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0665-8). These were copied into the file supplementary_table_S2_liu_et_al.xlsx. Using supplementary_data_formatting.py, we were able to obtain 213 unique PDBIDs with protein chains (list can be found in PDBIDs_original.xlsx). These were split into two groups, as shown in the Python notebook file supplementary_data_formatting.ipynb- 100 for the training dataset (list can be found in PDBIDs_training.xlsx) and 113 for the junction propensity dataset (list can be found in PDBIDs_junction.xlsx).
+
 
 ## -junction_propensity
 This folder consists of the following files:
@@ -55,8 +55,12 @@ The fasta files Train-1.fasta and Train-2.fasta have the fasta sequences of all 
 This folder consists of the following files:
 - Test.fas
 - Test-dataset-SARS-COV2.csv
+- viral-test.fasta
+- viral-test-with-preds.csv
+- viral-test-recall-_.csv
 
 The file Test.fas consists of the fasta sequence of the ACE2 receptor, which interacts with the SARS-CoV-2 spike monomer. This is used as an input to obtain secondary structures, RelSASA and amino acid propensities, as mentioned in the feature_collection folder. The interacting residues were taken from Lan et al.(https://www.nature.com/articles/s41586-020-2180-5). It is used to test out supervised ML models and measure their performance.
+The viral-test files include six IAV protein sequences, namely NS1, NEP, M1, NP, PB1, and PB2, interacting with host factors, as reported in the HVIDB database. It consists of 70 unique PDBIDs. viral-test-with-preds.csv has the predictions from the GB models as well.
 
 
 ## -supervised_ML
@@ -73,8 +77,18 @@ This folder consists of the following files:
 - randomforest.py
 - svm.py
 - xgboost.py
+- GB-train1-compiled.ipynb
+- GB-train1-compiled.ipynb
 
-This folder consists of all the supervised machine learning models named after the respective models used. They all take Train-1-curated-dataset.csv as the training dataset, split into training and testing (80:20). Only the file gradientboosting-SMOTE-Train-2.ipynb was trained on the Train-2 dataset Train-2-IAV-dataset.xlsx. The two gradient boosting models were also tested on the SARS-COV2 test dataset.
+This folder consists of all the supervised machine learning models named after the respective models used. They all take Train-1-curated-dataset.csv as the training dataset, split into training and testing (80:20). Only the files gradientboosting-SMOTE-Train-2.ipynb and GB-train2-compiled.ipynb were trained on the Train-2 dataset Train-2-IAV-dataset.xlsx. GB-train1-compiled.ipynb and GB-train2-compiled.ipynb have the results for the Gradient Boosting models, without oversampling, with SMOTE and with RandomSampler.
+
+## -PU-learning-on-Train-2
+This folder consists of the following files:
+- GB-train2-PU.ipynb
+- IAV-training-PU-label.xlsx
+- pu-dataset-train2.ipynb
+
+The file GB-train2-PU.ipynb is the Gradient Boosting model using RandomSampler, trained using PU Learning labels generated on the IAV training data in IAV-training-PU-label.xlsx. It was generate by the code used in pu-dataset-train2.ipynb.
 
 
 ## -versions of libraries used
