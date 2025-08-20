@@ -58,9 +58,10 @@ This folder consists of the following files:
 - viral-test.fasta
 - viral-test-with-preds.csv
 - viral-test-recall-_.csv
+- Recall-70-viral-test-train1-2-PU-Dscript.ipynb
 
 The file Test.fas consists of the fasta sequence of the ACE2 receptor, which interacts with the SARS-CoV-2 spike monomer. This is used as an input to obtain secondary structures, RelSASA and amino acid propensities, as mentioned in the feature_collection folder. The interacting residues were taken from Lan et al.(https://www.nature.com/articles/s41586-020-2180-5). It is used to test out supervised ML models and measure their performance.
-The viral-test files include six IAV protein sequences, namely NS1, NEP, M1, NP, PB1, and PB2, interacting with host factors, as reported in the HVIDB database. It consists of 70 unique PDBIDs. viral-test-with-preds.csv has the predictions from the GB models as well.
+The viral-test files include six IAV protein sequences, namely NS1, NEP, M1, NP, PB1, and PB2, interacting with host factors, as reported in the HVIDB database. It consists of 70 unique PDBIDs. viral-test-with-preds.csv has the predictions from the GB models as well. The recall for all these proteins with respect to the ground truth was calculated in Recall-70-viral-test-train1-2-PU-Dscript.ipynb.
 
 
 ## -supervised_ML
@@ -90,6 +91,16 @@ This folder consists of the following files:
 
 The file GB-train2-PU.ipynb is the Gradient Boosting model using RandomSampler, trained using PU Learning labels generated on the IAV training data in IAV-training-PU-label.xlsx. It was generate by the code used in pu-dataset-train2.ipynb.
 
+## -D-SCRIPT-comparison
+This folder consists of the following files:
+- D-SCRIPT-recall-comparison-M1.csv
+- D-SCRIPT-recall-comparison-PB1.csv
+- D-SCRIPT-recall-comparison-PB2.csv
+- D-SCRIPT-recall-comparison-NS1.csv
+- D-SCRIPT-recall-comparison-NP.csv
+- D-SCRIPT-recall-comparison-NEP.csv
+
+These files contain the predictions made by D-SCRIPT (https://www.sciencedirect.com/science/article/pii/S2405471221003331) along with the ground truth (from https://www.tandfonline.com/doi/full/10.1080/07391102.2024.2435056) for recall calculation and comparison with our models.
 
 ## -versions of libraries used
 
