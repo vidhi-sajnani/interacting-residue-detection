@@ -1,0 +1,16 @@
+Protein Pair: A4D177xQ82506
+Contact Threshold: 0.5
+Total Contacts: 12
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	D	1.0000
+1	M	18	V	0.9930
+1	M	19	R	0.6296
+1	M	20	K	0.7460
+2	A	1	M	1.0000
+2	A	2	D	1.0000
+2	A	18	V	0.9725
+47	Y	4	N	0.9752
+47	Y	10	Q	0.5216
+48	F	1	M	0.8525
+49	L	1	M	0.9859
