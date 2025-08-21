@@ -1,0 +1,17 @@
+Protein Pair: Q9BPW8xP03428
+Contact Threshold: 0.5
+Total Contacts: 13
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+2	A	1	M	1.0000
+2	A	2	E	1.0000
+2	A	3	R	1.0000
+3	P	1	M	1.0000
+3	P	87	D	0.8802
+4	R	1	M	1.0000
+4	R	87	D	0.9997
+5	L	1	M	1.0000

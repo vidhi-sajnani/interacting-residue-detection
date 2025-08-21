@@ -1,0 +1,34 @@
+Protein Pair: Q99615xP03427
+Contact Threshold: 0.5
+Total Contacts: 30
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+1	M	6	E	1.0000
+1	M	87	D	0.9553
+2	A	1	M	1.0000
+2	A	2	E	1.0000
+2	A	3	R	1.0000
+2	A	4	I	1.0000
+2	A	5	K	1.0000
+2	A	87	D	0.9971
+3	A	1	M	1.0000
+3	A	2	E	1.0000
+3	A	87	D	0.9985
+4	A	1	M	1.0000
+4	A	2	E	1.0000
+4	A	87	D	0.9999
+5	A	1	M	1.0000
+5	A	2	E	1.0000
+5	A	87	D	0.9841
+6	E	1	M	1.0000
+6	E	2	E	1.0000
+7	C	1	M	1.0000
+8	D	1	M	1.0000
+9	V	1	M	1.0000
+10	V	1	M	1.0000
+11	M	1	M	1.0000
+12	A	1	M	0.9656

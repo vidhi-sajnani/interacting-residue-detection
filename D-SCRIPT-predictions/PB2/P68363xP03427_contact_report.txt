@@ -1,0 +1,30 @@
+Protein Pair: P68363xP03427
+Contact Threshold: 0.5
+Total Contacts: 26
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+1	M	6	E	1.0000
+1	M	89	V	0.9963
+2	R	1	M	1.0000
+2	R	2	E	1.0000
+2	R	3	R	1.0000
+3	E	1	M	1.0000
+3	E	87	D	0.9670
+4	C	1	M	1.0000
+4	C	87	D	1.0000
+5	I	1	M	1.0000
+5	I	87	D	0.7209
+6	S	1	M	1.0000
+9	V	1	M	0.6523
+98	D	1	M	1.0000
+98	D	2	E	1.0000
+98	D	3	R	1.0000
+98	D	4	I	1.0000
+98	D	5	K	1.0000
+99	A	1	M	1.0000
+99	A	2	E	0.9304
+100	A	1	M	0.9998
