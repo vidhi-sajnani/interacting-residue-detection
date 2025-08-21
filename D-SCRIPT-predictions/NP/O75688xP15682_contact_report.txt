@@ -1,0 +1,27 @@
+Protein Pair: O75688xP15682
+Contact Threshold: 0.5
+Total Contacts: 23
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	A	1.0000
+1	M	3	T	1.0000
+1	M	4	K	1.0000
+1	M	5	G	1.0000
+1	M	6	T	1.0000
+2	G	1	M	1.0000
+2	G	2	A	1.0000
+2	G	3	T	1.0000
+3	A	1	M	1.0000
+3	A	2	A	1.0000
+4	F	1	M	1.0000
+5	L	1	M	1.0000
+17	G	1	M	1.0000
+17	G	2	A	1.0000
+17	G	3	T	1.0000
+17	G	4	K	1.0000
+17	G	5	G	0.9961
+18	A	1	M	0.9998
+19	G	1	M	1.0000
+19	G	2	A	1.0000
+20	N	1	M	1.0000
+21	G	1	M	0.9489
