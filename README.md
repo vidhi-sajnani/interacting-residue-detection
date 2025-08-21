@@ -48,17 +48,20 @@ This folder consists of the following files:
 - Train-2-IAV-dataset.xlsx
 - Train-2.fasta
 
-The fasta files Train-1.fasta and Train-2.fasta have the fasta sequences of all the PDBID chains chosen for the respective training datasets. These were collected from RCSB PDB (https://www.rcsb.org/downloads/fasta). The file Train-1-curated-dataset.csv was curated from different databases, namely, Alanine Scanning Energetics Database (ASEdb), Binding Interface Database (BID), Structural Kinetic and Energetic Database of Mutant Protein Interactions (SKEMPI) and the kinetic and thermodynamic database of mutant protein interactions (dbMPIKT) with all the features collected using the code in the feature_collection folder. It also has the label values from PDBSum (indicating if the residue is interacting or not) obtained from the code in the feature_collection folder. The file Train-2-IAV-dataset.xlsx consists of consensus sequences of seven IAV viral proteins, namely M1, NS1, NP, NEP, PB1, PB2 and PA from Lubna et al. (https://www.authorea.com/users/658468/articles/662811-consortium-of-consistent-amino-acid-substitutions-on-influenza-a-h1n1-viral-proteome-emerged-at-specific-stages-of-viral-infection-a-big-data-analysis). The consensus sequences for these seven viral proteins were derived using Multiple Sequence Alignment (MSA). These were used as the inputs into the supervised ML models. 
+The fasta files Train-1.fasta and Train-2.fasta have the fasta sequences of all the proteins chosen for the respective training datasets. These were collected from RCSB PDB (https://www.rcsb.org/downloads/fasta). The file Train-1-curated-dataset.csv was curated from different databases, namely, Alanine Scanning Energetics Database (ASEdb), Binding Interface Database (BID), Structural Kinetic and Energetic Database of Mutant Protein Interactions (SKEMPI) and the kinetic and thermodynamic database of mutant protein interactions (dbMPIKT) with all the features collected using the code in the feature_collection folder. It also has the label values from PDBSum (indicating if the residue is interacting or not) obtained from the code in the feature_collection folder. The file Train-2-IAV-dataset.xlsx consists of consensus sequences of seven IAV viral proteins, namely M1, NS1, NP, NEP, PB1, PB2 and PA from Lubna et al. (https://www.authorea.com/users/658468/articles/662811-consortium-of-consistent-amino-acid-substitutions-on-influenza-a-h1n1-viral-proteome-emerged-at-specific-stages-of-viral-infection-a-big-data-analysis). The consensus sequences for these seven viral proteins were derived using Multiple Sequence Alignment (MSA). These were used as the inputs into the supervised ML models. 
 
 
 ## -test_data
-This folder consists of the following files:
-- Test.fas
-- Test-dataset-SARS-COV2.csv
+This folder consists of the following subfolders and files:
+Test-1 (six viral proteins):
 - viral-test.fasta
 - viral-test-with-preds.csv
 - viral-test-recall-_.csv
 - Recall-70-viral-test-train1-2-PU-Dscript.ipynb
+
+Test-2 (SARS-COV-2 spike protein):
+- Test.fas
+- Test-dataset-SARS-COV2.csv
 
 The file Test.fas consists of the fasta sequence of the ACE2 receptor, which interacts with the SARS-CoV-2 spike monomer. This is used as an input to obtain secondary structures, RelSASA and amino acid propensities, as mentioned in the feature_collection folder. The interacting residues were taken from Lan et al.(https://www.nature.com/articles/s41586-020-2180-5). It is used to test out supervised ML models and measure their performance.
 The viral-test files include six IAV protein sequences, namely NS1, NEP, M1, NP, PB1, and PB2, interacting with host factors, as reported in the HVIDB database. It consists of 70 unique PDBIDs. viral-test-with-preds.csv has the predictions from the GB models as well. The recall for all these proteins with respect to the ground truth was calculated in Recall-70-viral-test-train1-2-PU-Dscript.ipynb.
@@ -101,6 +104,16 @@ This folder consists of the following files:
 - D-SCRIPT-recall-comparison-NEP.csv
 
 These files contain the predictions made by D-SCRIPT (https://www.sciencedirect.com/science/article/pii/S2405471221003331) along with the ground truth (from https://www.tandfonline.com/doi/full/10.1080/07391102.2024.2435056) for recall calculation and comparison with our models.
+
+## -D-SCRIPT-prediction
+This folder consists of the following subfolders:
+- M1
+- PB1
+- PB2
+- NS1
+- NP
+- NEP
+These folders contain the predictions made by D-SCRIPT for the respective proteins (raw files). 
 
 ## -versions of libraries used
 
