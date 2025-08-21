@@ -1,0 +1,26 @@
+Protein Pair: Q9NQ50xQ1K9H2
+Contact Threshold: 0.5
+Total Contacts: 22
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	A	1.0000
+1	M	3	T	1.0000
+1	M	4	K	1.0000
+1	M	5	G	1.0000
+1	M	6	T	0.9535
+2	T	1	M	1.0000
+2	T	2	A	1.0000
+2	T	3	T	1.0000
+3	A	1	M	1.0000
+3	A	2	A	1.0000
+4	S	1	M	1.0000
+5	V	1	M	1.0000
+59	K	201	I	0.5296
+59	K	205	N	0.9201
+59	K	207	W	0.5258
+60	K	205	N	0.6284
+61	D	201	I	0.9782
+61	D	205	N	0.9762
+62	Q	201	I	0.9998
+62	Q	205	N	0.9534
+63	E	201	I	0.9969
