@@ -53,6 +53,7 @@ The fasta files Train-1.fasta and Train-2.fasta have the fasta sequences of all 
 
 ## -test_data
 This folder consists of the following subfolders and files:
+
 Test-1 (six viral proteins):
 - viral-test.fasta
 - viral-test-with-preds.csv
