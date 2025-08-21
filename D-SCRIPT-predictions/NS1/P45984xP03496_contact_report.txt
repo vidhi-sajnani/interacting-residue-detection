@@ -1,0 +1,19 @@
+Protein Pair: P45984xP03496
+Contact Threshold: 0.5
+Total Contacts: 15
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	D	1.0000
+2	S	1	M	1.0000
+2	S	2	D	1.0000
+135	M	148	R	0.9823
+135	M	149	A	0.9895
+137	C	146	L	0.8744
+138	G	145	I	0.7523
+138	G	146	L	0.6924
+139	I	145	I	0.5847
+139	I	146	L	0.7852
+140	K	143	T	0.9960
+140	K	144	L	0.6743
+141	H	143	T	0.9961
+141	H	144	L	0.9602
