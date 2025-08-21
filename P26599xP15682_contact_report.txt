@@ -1,0 +1,18 @@
+Protein Pair: P26599xP15682
+Contact Threshold: 0.5
+Total Contacts: 14
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	A	1.0000
+1	M	3	T	1.0000
+1	M	4	K	1.0000
+1	M	5	G	1.0000
+1	M	6	T	1.0000
+2	D	1	M	1.0000
+2	D	2	A	1.0000
+3	G	1	M	1.0000
+3	G	2	A	1.0000
+4	I	1	M	1.0000
+5	V	1	M	1.0000
+6	P	1	M	1.0000
+7	D	1	M	0.9411
