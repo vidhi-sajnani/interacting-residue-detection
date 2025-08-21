@@ -1,0 +1,20 @@
+Protein Pair: A0A024R382xP03427
+Contact Threshold: 0.5
+Total Contacts: 16
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+1	M	87	D	0.6691
+2	A	1	M	1.0000
+2	A	2	E	1.0000
+3	A	1	M	1.0000
+3	A	87	D	0.8791
+4	L	1	M	1.0000
+4	L	87	D	0.9947
+5	T	1	M	1.0000
+164	G	1	M	1.0000
+164	G	2	E	0.8643
+165	M	1	M	0.7985
