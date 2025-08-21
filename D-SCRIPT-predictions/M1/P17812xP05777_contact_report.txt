@@ -1,0 +1,18 @@
+Protein Pair: P17812xP05777
+Contact Threshold: 0.5
+Total Contacts: 14
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+41	P	1	M	1.0000
+41	P	2	S	1.0000
+41	P	3	L	1.0000
+41	P	4	L	1.0000
+41	P	5	T	1.0000
+42	Y	1	M	1.0000
+42	Y	2	S	0.9861
+43	I	1	M	1.0000
+43	I	2	S	1.0000
+44	N	1	M	1.0000
+44	N	2	S	0.9698
+45	I	1	M	1.0000
+45	I	2	S	0.8782

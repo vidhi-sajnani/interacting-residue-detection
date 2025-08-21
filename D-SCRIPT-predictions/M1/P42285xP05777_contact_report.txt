@@ -1,0 +1,18 @@
+Protein Pair: P42285xP05777
+Contact Threshold: 0.5
+Total Contacts: 14
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	S	1.0000
+2	A	1	M	1.0000
+2	A	2	S	1.0000
+975	T	14	I	0.6750
+976	G	4	L	0.6050
+977	A	1	M	0.9997
+977	A	2	S	0.9588
+977	A	18	G	0.6731
+977	A	19	P	0.5150
+978	T	1	M	1.0000
+978	T	2	S	0.8821
+978	T	18	G	0.8260
+981	H	16	P	0.6994

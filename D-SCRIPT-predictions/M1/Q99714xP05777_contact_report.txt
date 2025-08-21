@@ -1,0 +1,14 @@
+Protein Pair: Q99714xP05777
+Contact Threshold: 0.5
+Total Contacts: 10
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	S	1.0000
+2	A	1	M	1.0000
+2	A	2	S	1.0000
+257	I	1	M	1.0000
+257	I	2	S	1.0000
+257	I	3	L	0.9768
+257	I	4	L	1.0000
+257	I	5	T	0.7447
+258	R	1	M	1.0000
