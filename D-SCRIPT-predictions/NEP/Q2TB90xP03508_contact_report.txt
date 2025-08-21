@@ -1,0 +1,10 @@
+Protein Pair: Q2TB90xP03508
+Contact Threshold: 0.5
+Total Contacts: 6
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	D	1.0000
+2	F	1	M	1.0000
+2	F	2	D	1.0000
+27	Y	1	M	0.9983
+27	Y	2	D	0.5978
