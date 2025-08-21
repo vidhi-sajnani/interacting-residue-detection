@@ -1,0 +1,12 @@
+Protein Pair: P63151xQ20MH0
+Contact Threshold: 0.5
+Total Contacts: 8
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+2	A	1	M	0.9989
+5	G	4	E	0.8143
+28	A	1	M	0.5342
+28	A	3	Q	0.6270
+28	A	4	E	0.9893
+29	D	1	M	1.0000
+29	D	4	E	0.9842
