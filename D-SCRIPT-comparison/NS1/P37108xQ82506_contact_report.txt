@@ -1,0 +1,15 @@
+Protein Pair: P37108xQ82506
+Contact Threshold: 0.5
+Total Contacts: 11
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	D	1.0000
+1	M	18	V	1.0000
+1	M	19	R	0.9998
+1	M	20	K	0.9998
+1	M	22	V	0.5069
+2	V	1	M	1.0000
+2	V	2	D	1.0000
+2	V	18	V	1.0000
+2	V	19	R	0.9932
+2	V	20	K	0.9624
