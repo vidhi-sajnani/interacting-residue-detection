@@ -1,0 +1,13 @@
+Protein Pair: O60884xP03427
+Contact Threshold: 0.5
+Total Contacts: 9
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+2	A	1	M	1.0000
+2	A	2	E	1.0000
+3	N	87	D	0.5505
+4	V	1	M	1.0000
+4	V	87	D	0.9975
+5	A	1	M	1.0000
+6	D	1	M	1.0000

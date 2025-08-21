@@ -1,0 +1,30 @@
+Protein Pair: B7Z9L0xP03428
+Contact Threshold: 0.5
+Total Contacts: 26
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+1	M	87	D	0.5223
+2	D	1	M	1.0000
+2	D	2	E	1.0000
+2	D	87	D	0.9141
+3	K	1	M	1.0000
+3	K	87	D	0.9719
+4	M	1	M	1.0000
+4	M	87	D	0.9951
+5	I	1	M	1.0000
+23	K	1	M	1.0000
+23	K	2	E	1.0000
+23	K	3	R	1.0000
+23	K	4	I	1.0000
+23	K	5	K	1.0000
+23	K	6	E	1.0000
+23	K	7	L	1.0000
+23	K	8	R	0.7309
+24	Q	1	M	1.0000
+24	Q	2	E	1.0000
+25	M	1	M	1.0000
+26	Q	1	M	0.9944

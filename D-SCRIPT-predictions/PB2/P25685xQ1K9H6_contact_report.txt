@@ -1,0 +1,18 @@
+Protein Pair: P25685xQ1K9H6
+Contact Threshold: 0.5
+Total Contacts: 14
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	4	I	1.0000
+1	M	5	K	1.0000
+1	M	6	E	1.0000
+1	M	7	L	0.9887
+1	M	89	V	0.9966
+2	G	1	M	1.0000
+2	G	2	E	1.0000
+3	K	1	M	1.0000
+3	K	87	D	0.9977
+4	D	1	M	1.0000
+4	D	87	D	1.0000

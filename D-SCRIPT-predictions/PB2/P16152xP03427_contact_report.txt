@@ -1,0 +1,10 @@
+Protein Pair: P16152xP03427
+Contact Threshold: 0.5
+Total Contacts: 6
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+2	S	1	M	1.0000
+2	S	2	E	1.0000
+108	E	1	M	1.0000
+108	E	2	E	1.0000

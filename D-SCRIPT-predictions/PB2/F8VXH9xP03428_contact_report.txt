@@ -1,0 +1,19 @@
+Protein Pair: F8VXH9xP03428
+Contact Threshold: 0.5
+Total Contacts: 15
+Residue1_Num	Residue1_AA	Residue2_Num	Residue2_AA	Contact_Probability
+1	M	1	M	1.0000
+1	M	2	E	1.0000
+1	M	3	R	1.0000
+1	M	87	D	0.5156
+2	D	1	M	1.0000
+2	D	2	E	1.0000
+2	D	87	D	0.6917
+3	T	1	M	1.0000
+3	T	87	D	0.9975
+4	G	1	M	1.0000
+4	G	87	D	0.9999
+5	V	1	M	1.0000
+5	V	2	E	0.5107
+5	V	87	D	0.8654
+6	I	1	M	1.0000
